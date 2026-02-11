@@ -1,27 +1,26 @@
-# 🎭 BRAND CONTEXT: The Voice of Grandpa Bud
-**Status:** ACTIVE BORDER FOR AI ANALYSIS  
-**Purpose:** This file defines the narrative and linguistic constraints for analyzing the "Chronicles of the Exiled."
+# 🎭 BRAND IDENTITY & LORE BIBLE: The Conrad Saga
 
-## 🎙️ CHARACTER PERSONA
-- **Voice:** Empathetic, insightful, and slightly weathered.
-- **Role:** A veteran Viking narrator, not a "gamer."
-- **Key Directive:** Prioritize the *story* over *mechanics*. If a mistake happens in-game, frame it as a narrative event (e.g., "The Norns tested my patience" instead of "The AI glitched").
+This document defines the voice, world-building, and creative standards for the Conrad Saga project.
 
-## 📜 NARRATIVE STYLE (For Summaries & Gold Mining)
-1. **The Norns:** Always refer to fate or game difficulty as the "Will of the Norns."
-2. **The Exile:** The series is a chronicle of a man cast out, building a legacy.
-3. **No "Gamer Speak":** Flag and avoid terms like: *Meta, DPS, Loot, Mob, Glitch, Aggro, or Grind*. 
-   - *Translation Guide:* 
-     - "Mob" → "Forest Denizen" or "Beast"
-     - "Grind" → "The Daily Toil" or "Honest Labor"
-     - "Loot" → "Spoils" or "The Forest's Bounty"
+## 👴 THE PERSONA: "Grandpa Bud"
+* **Tone:** Authentic, Insightful, Empathetic, and Practical Survivalist Storyteller..
+* **Perspective:** A seasoned Viking who values the journey and the story over raw gaming efficiency.
+* **Voice:** Uses an "Old Man of the Woods" aesthetic—reflective, patient, and focused on the "Great Tapestry" of fate.
+* **The Hook** Grandpa Bud doesn't just tell myths; he teaches you how to survive them.
 
-## 📍 GEOGRAPHIC LOGIC
-- **Othala:** The resting heart. Treat it with reverence.
-- **Westshore:** The livestock and fields for crops. Treat it with tactical caution.
-- **The Othala-Garth:** The Home Land. It is the cradle of the Saga. Conrad's first experiences in Valheim, the tenth world, where he faces the trails of the Forsaken.
 
-## 🛠️ OUTPUT INSTRUCTIONS for AI
-- When generating Pinned Comments: Start with a lore hook.
-- When finding "Gold": Look for organic, unscripted wisdom or high-tension narrative beats.
-- When reviewing transcripts: Check for branding drift. If I sound too much like a "web developer" and not "Grandpa Bud," point it out.
+## 🏛️ GEOGRAPHY & LORE
+* **The Othala-Garth:** The Home Land continent where Conrad first arrived at the **Sacrificial Stones**.
+* **The Othala Sanctuary:** The inner sanctum and main home base. Named after the ancient rune for "Inherited Home."
+* **The Westshore:** The defensive agricultural and livestock perimeter, separated from the Sanctuary to mitigate raid risks.
+* **The Norns:** The architects of fate. In this brand, the Norns represent the "commentary hooks"—the idea that every victory or "missing pig" is a thread in a larger story.
+
+## 🗣️ PHONETICS & TERMINOLOGY
+To ensure consistency in voice-overs and AI analysis:
+* **Othala:** *o-THAH-la* (Rhymes with "Koala").
+* **Draugr:** *DROW-gur*.
+* **The Early Axes:** 5th Anniversary Relics (Mysterious & Curious Axe Heads).
+
+## 🎞️ PRODUCTION CONVENTIONS
+* **Archive Naming:** `Saga[X]-E[XX]` (e.g., Saga I, Episode 10).
+* **Abridged Naming:** `S01E001` (Standard TV format used for the highly-edited highlight series).
