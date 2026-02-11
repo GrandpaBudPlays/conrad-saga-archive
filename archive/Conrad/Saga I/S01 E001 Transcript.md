@@ -866,14 +866,20 @@ a lot more to do and we will continue that next
 time. Thank you for joining me. I'm Grandpa 
 and this is Grandpa Plays. Have a great day.
 
-
+---
 
 ## ✨ SURVIVAL WISDOM & HIGHLIGHT GOLD
-* **[Timestamp] - Survival Wisdom:** [e.g., Explaining the mouse-wheel click for stump removal.]
-* **[Timestamp] - Hearthside Reflection:** [e.g., A quiet moment discussing the journey or the Norns.]
-* **[Timestamp] - Action/Drama:** [e.g., Narrowly escaping a Troll at the Westshore.]
-* **[Timestamp] - Character Moment:** [e.g., A funny reaction or a "Grandpa-ism".]
+
+* **[02:43] - Survival Wisdom:** Explaining the 30-minute world cycle—20 minutes of light and 10 of dark—and the necessity of being indoors before the "bad things" come out.
+* **[09:28] - Survival Wisdom:** The Weaver’s Diet: Understanding the fork system (Yellow for stamina, Red for health, White for balance) to manage survivability.
+* **[14:41] - Elder's Wisdom:** Using the weight of falling beach trees to "cheat" the Norns and break birch logs for fine wood before having a bronze axe.
+* **[22:11] - Survival Wisdom:** A warning for the Heirs: Always listen for the "hum" of bees in abandoned Meadow structures to avoid a quick trip to the stones.
+* **[28:45] - Hearthside Reflection:** Explaining the vital nature of the Rested Buff for stamina regen and skill gain; a true Viking never works without the comfort of a fire and roof.
+* **[00:49] - Character Moment:** Conrad’s "Leonard Skynyrd" red-headed look—the start of the legend.
+* **[27:51] - Action/Drama:** The frantic race against the setting sun to slap a roof over the bed while the forest begins to wake.
 
 ## 📝 PRODUCTION NOTES
-* **Abridged Potential:** [High/Medium/Low] - Why?
-* **Thumbnail/Hook Idea:** [Insert idea]
+
+* **Abridged Potential:** **High.** This episode captures the essential "First Steps" arc, moving from a naked exile to a sheltered warrior with a claimed spawn point.
+* **Thumbnail/Hook Idea:** "An Old Man in a Young Man's Game" — featuring Conrad with his first stone axe at the Eikthyr Altar.
+* **Lore Integration:** Documents the discovery of the first trial set by the Allfather and the establishment of the first temporary sanctuary.
