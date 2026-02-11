@@ -1,11 +1,35 @@
-# 🛡️ THE CONRAD SAGA: Valheim Archive
+# 🛡️ CHRONICLES OF THE EXILED: The Conrad Saga Archive
 **Creator:** Grandpa Bud (Grandpa Plays Valheim)  
 **Project Goal:** A master repository for live stream transcripts, metadata, and lore. This archive serves as the "Gold Mine" for searching raw dialogue and creating the "Abridged Saga" highlight series.
 
 ---
 # 🛡️ THE CONRAD SAGA: Valheim Archive
 **📺 [Watch the Full Saga on YouTube](https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6)
+
+
+## 📜 THE SAGAS
+1. **Saga I: The Exile’s First Hearth** (The Meadows)
+2. **Saga II: Shadows Beneath the Pines** (The Black Forest)
+3. **Saga III: Oaths in Iron** (The Swamps)
+4. **Saga IV: Frozen Vows** (The Mountains - CURRENT)
+
 ---
+
+## 🎭 BRAND IDENTITY & LORE
+*   **The Othala-Garth:** The Home Land continent.
+*   **The Othala Sanctuary:** The inner sanctum (Phonetic: *o-THAH-la*).
+*   **The Westshore:** The defensive agricultural perimeter.
+*   **The Norns:** The architects of fate and commentary hooks.
+
+---
+
+## 🗂️ REPOSITORY STRUCTURE
+- `/archive/Saga[X]-E[XX]-[Title].md`
+- `TODO.md` (Production Roadmap)
+- `LORE_BIBLE.md` (Lexicon and World History)
+
+---
+
 
 ## 🎭 BRAND IDENTITY & VOICE
 *   **Tone:** Authentic, Insightful, Empathetic, and Lore-driven.
@@ -43,3 +67,26 @@ Each episode is documented in the `/archive/` folder using a single `.md` file w
 
 ## 📜 LICENSE
 Licensed under **CC BY-NC-ND 4.0**. Lore and transcripts are the property of Grandpa Plays Valheim.
+
+
+
+## 📜 THE SAGAS
+1. **Saga I: The Exile’s First Hearth** (The Meadows)
+2. **Saga II: Shadows Beneath the Pines** (The Black Forest)
+3. **Saga III: Oaths in Iron** (The Swamps)
+4. **Saga IV: Frozen Vows** (The Mountains - CURRENT)
+
+---
+
+## 🎭 BRAND IDENTITY & LORE
+*   **The Othala-Garth:** The Home Land continent.
+*   **The Othala Sanctuary:** The inner sanctum (Phonetic: *o-THAH-la*).
+*   **The Westshore:** The defensive agricultural perimeter.
+*   **The Norns:** The architects of fate and commentary hooks.
+
+---
+
+## 🗂️ REPOSITORY STRUCTURE
+- `/archive/Saga[X]-E[XX]-[Title].md`
+- `TODO.md` (Production Roadmap)
+- `LORE_BIBLE.md` (Lexicon and World History)
