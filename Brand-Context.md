@@ -29,4 +29,12 @@ While the **Chronicles of the Exiled** focuses on solo survival and "Elder's Wis
 * **Lore Perspective:** Grandpa Bud is no longer just a survivor; he is a mentor. 
 * **Tone:** Lighter, more chaotic, and focused on teaching the "Heirs" (the grandkids) how to respect the world the Norns have built.
 * **AI Instructions:** When analyzing "Heirs" transcripts, prioritize character interactions and "teaching moments" rather than deep solitary reflection.
-* 
+
+---
+
+⚓ THE ANCHOR (The Sign-Off)
+The Standard: "I'm Grandpa and we're playing Valheim. Have a good one."
+
+The Philosophy: This is the "True North" of the brand. It is grounded, unpretentious, and folksy. It reminds the audience that despite the Viking lore, this is a grandfather sharing a hobby.
+
+Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is to move the intro and middle toward more immersive storytelling while using this sign-off to bring everyone back to the hearth.
