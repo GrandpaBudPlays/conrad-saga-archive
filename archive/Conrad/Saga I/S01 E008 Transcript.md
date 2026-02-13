@@ -38,7 +38,7 @@ If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know 
 Note: Last three characters of the seed are A, zero, V.
 
 ## 🏷️ SEARCH TAGS
-Valheim,Grandpaplays,Grandpa Plays,Grandpa,Valheim Black Forest,The Forest is Moving Valheim,Valheim Troll Kiting,Conrad the Exile,Grandpa Plays Valheim,Valheim Bronze Age,Valheim Death Recovery,Grandpa Gamer,Wholesome Gaming,Valheim The Forest is Moving,Valheim Raid Defense,Valheim Copper Mining,Valheim Tin Ore,Valheim Corpse Run,Valheim Birch Tree Troll Trick,Conrad Saga 2,Valheim First Death,Valheim Boar Loss,Valheim Black Forest Start,Grandpa Bud
+Grandpa Bud, Grandpa Bud Plays, Grandpa Plays Valheim, Valheim, Grandpaplays, Grandpa Plays, Valheim Black Forest, The Forest is Moving Valheim, Valheim Troll Kiting, Conrad the Exile, Valheim Bronze Age, Valheim Death Recovery, Grandpa Gamer, Wholesome Gaming, Valheim The Forest is Moving, Valheim Raid Defense, Valheim Tin Ore, Valheim Corpse Run, Valheim Birch Tree Troll Trick, Conrad Saga 2, Valheim First Death, Valheim Boar Loss, Valheim Black Forest Start
 
 ## ✨ SURVIVAL WISDOM & HIGHLIGHT GOLD
 * **[Timestamp] - Survival Wisdom:** [e.g., Explaining the mouse-wheel click for stump removal.]

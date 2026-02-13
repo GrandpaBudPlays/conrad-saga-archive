@@ -41,7 +41,7 @@ If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know 
 Note: Last three characters of the seed are A, zero, V.
 
 ## 🏷️ SEARCH TAGS
-Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough,Grandpa Plays Valheim,Grandpa Gamer,Slow Gaming,Cozy Survival,Survival Games,PC Gaming,Valheim Lore Playthrough,Conrad the Exile,Valhalla Quest,Norse Mythology Gaming Solo Survival,Senior Gamer,Wholesome Gaming,Valheim Meadows Guide,Valheim Map Markers,Valheim World Generation,Valheim Black Forest Entry,Valheim Runestones,Valheim Night Survival,beginners,finding the Black Forest Valheim,Grandpa Bud
+Grandpa Bud, Grandpa Bud Plays, Grandpa Plays Valheim, Valheim, Grandpaplays, Grandpa Plays, Playthrough, Grandpa Gamer, Slow Gaming, Cozy Survival, Valheim Lore Playthrough, Conrad the Exile, Valhalla Quest, Norse Mythology Gaming, Solo Survival, Senior Gamer, Wholesome Gaming, Valheim Meadows Tips, Valheim Map Markers, Valheim World Generation, Valheim Black Forest Entry, Valheim Runestones, Valheim Night Survival, beginners
 
 ### 👴 ELDER’S WISDOM (Practical Survival)
 

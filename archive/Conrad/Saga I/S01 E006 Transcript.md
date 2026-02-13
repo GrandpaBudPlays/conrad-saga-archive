@@ -41,7 +41,7 @@ In later videos Conrad builds a more efficient beehive farm. (I'll have to link 
 If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know how your progress compares to Conrad's!
 
 ## 🏷️ SEARCH TAGS
-Valheim,Grandpaplays,Grandpa Plays,Grandpa,playthrough,Grandpa Plays Valheim,Conrad the Exile,Grandpa Gamer,Senior Gamer,Wholesome Gaming,Valheim Boar Taming,Valheim Boar Breeding,Valheim Burial Chambers,Valheim Surtling Cores,Valheim Skeleton Arena,Valheim Troll Survival,Valheim Tanning Rack Upgrade,Valheim Leather Armor,how to tame boars in Valheim 2026,Valheim burial chamber guide,where to find surtling cores,Grandpa Bud,Valheim solo survival tips
+Grandpa Bud, Grandpa Bud Plays, Grandpa Plays Valheim, Valheim, Grandpaplays, Grandpa Plays, Playthrough, Conrad the Exile, Grandpa Gamer, Senior Gamer, Wholesome Gaming, Valheim Boar Taming, Valheim Boar Breeding, Valheim Burial Chambers, Valheim Surtling Cores, Valheim Skeleton Arena, Valheim Troll Survival, Valheim Tanning Rack Upgrade, Valheim Leather Armor, how to tame boars in Valheim 2026, Valheim burial chamber guide, where to find surtling cores
 
 ## ✨ SURVIVAL WISDOM & HIGHLIGHT GOLD
 * **[Timestamp] - Survival Wisdom:** [e.g., Explaining the mouse-wheel click for stump removal.]

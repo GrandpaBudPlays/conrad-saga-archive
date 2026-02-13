@@ -130,3 +130,13 @@ Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is 
 * **Structure:** * **Timestamp:** The exact start of the tip/action.
     * **Thematic Title:** A folksy name for the lesson.
     * **Description:** A concise explanation of the mechanic or "why" behind the advice.
+
+## ⚖️ SEO & CONTENT INTEGRITY (Revised)
+* **The "Honest Elder" Rule:** We never claim expert status. We are seasoned, not "pro."
+* **Direct Representation Only:** Search tags must exclusively reflect what is seen or used in the video. 
+    * **No "Future Rewards":** Do not tag items that are unlocked by a boss (e.g., Antler Pickaxe) unless that item is actually crafted and used within that specific video.
+    * **No "Unseen Locations":** Do not tag landmarks (e.g., Sacrificial Stones) unless the character physically visits them in the footage.
+* **No Speculative Tagging:** If a weapon or mechanic (like Spears) is not used, it must be excluded, regardless of its popularity in search trends.
+* **Service Over Selling:** Frame helpful content as "Tips" rather than "Expert Guides" to manage viewer expectations and avoid disappointment. Always Soft Sell, never Over Sell when deciding how to promote.
+
+
