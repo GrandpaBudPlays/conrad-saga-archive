@@ -18,23 +18,23 @@ In this chronicle, we master the physics of the North, claim the sweetness of th
 Odin smiled upon me and I am starting to get the audio mix in the right place but he's cursed me with this cold ( sorry about the sniffles  ).
 
 TIMESTAMPS:
-0:00 Setting the Exile’s Goals
-1:12 The Hunter’s Gift: Crafting the Crude Bow
-3:52 Grandpa’s Physics: Structural Integrity 101
-8:35 Claiming the Ruins: The Abandoned Village
-11:06 The Golden Gift: Queen Bees and Honey
-13:23 Day 4: The Sun Rises on Progress
-14:34 The Art of the Parry (Greyling Skirmish)
-17:46 Where the Light Ends: Locating the Black Forest
-19:30 Founding the Ancestral Home Base
-24:30 A Shadow in the Trees: The First Troll
-26:35 Establishing the Temporary Outpost
-32:06 Forging the Wood Shield
-35:37 Chopping the Wood, Carrying the Stones
-41:06 Shaping the Earth (Using the Hoe)
-42:02 The Skeleton of the Hall: Framing the House
-50:20 The Blessing of Rest (Understanding the Buff)
-53:56 Good Night from the Meadows
+* 0:00 - Setting the Exile’s Goals
+* 1:12 - The Hunter’s Gift: Crafting the Crude Bow
+* 3:52 - Grandpa’s Physics: Structural Integrity 101
+* 8:35 - Claiming the Ruins: The Abandoned Village
+* 11:06 - The Golden Gift: Queen Bees and Honey
+* 13:23 - Day 4: The Sun Rises on Progress
+* 14:34 - The Art of the Parry (Greyling Skirmish)
+* 17:46 - Where the Light Ends: Locating the Black Forest
+* 19:30 - Founding the Ancestral Home Base
+* 24:30 - A Shadow in the Trees: The First Troll
+* 26:35 - Establishing the Temporary Outpost
+* 32:06 - Forging the Wood Shield
+* 35:37 - Chopping the Wood, Carrying the Stones
+* 41:06 - Shaping the Earth (Using the Hoe)
+* 42:02 - The Skeleton of the Hall: Framing the House
+* 50:20 - The Blessing of Rest (Understanding the Buff)
+* 53:56 - Good Night from the Meadows
 
 A mystery of the Meadows: I mention reaching Comfort Level 4. Sitting by a fire is 1; adding a roof and a bed gets us to 4. If you know where Comfort Level 2 went, or if you have a link to the Valheim Building Guide I mentioned, please leave a word in the comments. Even an old geek is always learning.
 

@@ -17,20 +17,20 @@ An old man knows that a sturdy roof keeps the rain out, but a sturdy wall keeps 
 📜 Chronicles of the Exiled: The Complete Saga: https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6
 
 Timestamps:
-0:00 The Work Continues
-0:52 Day 6: Raising the Roof (Architectural Physics)
-5:00 Grandpa’s Wisdom: The Perfect Chimney & Hearth
-11:40 Securing the Perimeter (Workbench Mechanics)
-15:12 The Exile’s Stores (Advanced Organization)
-17:50 Tending the Tools (Upgrading the Workbench)
-20:42 The First Trial: Eikthyr Rallies the Forest
-23:37 Restoring Strength: The Cooking Station
-27:12 Day 7: Outfitting for War (The Leather Helmet)
-30:11 The Golden Harvest: Mastering the Beehives
-36:20 Reviewing the Warrior's Skills
-38:18 The Art of the Sneak: Deer Hunting
-41:00 Echoes in the Ruins: Scouting Abandoned Halls
-48:15 Returning to the Hearth (Good Night)
+* 0:00 - The Work Continues
+* 0:52 - Day 6: Raising the Roof (Architectural Physics)
+* 5:00 - Grandpa’s Wisdom: The Perfect Chimney & Hearth
+* 11:40 - Securing the Perimeter (Workbench Mechanics)
+* 15:12 - The Exile’s Stores (Advanced Organization)
+* 17:50 - Tending the Tools (Upgrading the Workbench)
+* 20:42 - The First Trial: Eikthyr Rallies the Forest
+* 23:37 - Restoring Strength: The Cooking Station
+* 27:12 - Day 7: Outfitting for War (The Leather Helmet)
+* 30:11 - The Golden Harvest: Mastering the Beehives
+* 36:20 - Reviewing the Warrior's Skills
+* 38:18 - The Art of the Sneak: Deer Hunting
+* 41:00 - Echoes in the Ruins: Scouting Abandoned Halls
+* 48:15 - Returning to the Hearth (Good Night)
 
 
 If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know how your progress compares to Conrad's!

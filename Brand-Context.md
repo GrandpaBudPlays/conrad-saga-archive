@@ -32,8 +32,6 @@ The narrative must mirror the "In-Game Lore" style (Hugin's wisdom and Ulf's Run
 
 ## 📜 THE LEXICON
 
-### 📜 THE LEXICON
-
 | Modern Term | Saga Lexicon | Lore Meaning / Phonetics |
 | :--- | :--- | :--- |
 | **Abandoned Village** | **Echoes of the Past** | The hollow remains of those who failed the Norns' trials. |
@@ -61,6 +59,14 @@ The narrative must mirror the "In-Game Lore" style (Hugin's wisdom and Ulf's Run
 | **Trolls** | **Shadow in the Trees** | A term used when spotting a blue giant on the distant horizon. |
 | **Western Coastline** | **Westshore** | An area to the west of Othala along the coast encompassing West-Thwaite. |
 
+### 🛠️ LEXICON MAINTENANCE PROTOCOL
+When tasked with a "Lexicon Review" or "Lexicon Update," the AI must adhere to these structural constraints:
+
+1. **Alphabetical Integrity:** The table MUST be returned in alphabetical order based on the **Modern Term** column.
+2. **Three-Column Format:** Maintain exactly three columns: | Modern Term | Saga Lexicon | Lore Meaning / Phonetics |.
+3. **Raw Markdown Output:** Provide the updated table inside a single Markdown code block to allow for easy "Select All" copying without losing formatting.
+4. **Minimalism:** Do not add introductory or concluding conversational filler (e.g., "Here is your updated table..."). Return only the code block.
+5. **Deduplication:** Before returning the table, cross-reference new suggestions with existing entries to ensure no duplicate Modern Terms exist.
 ---
 
 ## 🤝 INTERACTION STYLE FOR AI
