@@ -1,4 +1,4 @@
-# 🛡️ SAGA 1 | EPISODE 8: Conrad’s Exile: The Forest is Moving (Saga 2, Ep. 8)
+# 🛡️ SAGA 1 | EPISODE 8: Conrad’s Exile: The Forest is Moving (Saga I, Ep. 8)
 
 ## 🎞️ VIDEO METADATA
 * **Original Air Date:** 01/11/2026

@@ -104,3 +104,29 @@ The Philosophy: This is the "True North" of the brand. It is grounded, unpretent
 
 Guideline: Never replace this with a "cinematic" or "epic" closing. The goal is to move the intro and middle toward more immersive storytelling while using this sign-off to bring everyone back to the hearth.
 
+---
+## Episode Template Standards
+* Each Saga has a Transcript Template that will be followed with the following sections.
+* **Video Metadata** Key metadata from the video
+* **Search TAGS** A copy of the YouTube video search tags
+* **Narative Description** A copy of the YouTube video description. The description will contain timestamps for the viewer chapters. These should assist the viewer in finding key moments in the video and help drive viewer retention.
+* **Survival Wisdom & Highlight Gold**  These are moments that will be used in creating future clips, shorts and the abridged videos.
+* **Production Notes** The section acts as an internal logging system to help identify and organize future content. It is also used to track and improve the "Grandpa Bud" streaming persona over time.
+* **COMMENTARY & SPEAKER GROWTH** AI identified areas where Grandpa can improve his voice.
+* **The Transcript** The Transcript extracted from the video by YouTube. This is Grandpa's actual voice. One of our goals is to help Grandpa improve his voice as a streamer.
+* 
+## Metadata & Timestamp Standards
+
+### 📺 YouTube Chapter Standards (Public)
+* **Location:** Placed just below the video description.
+* **Trigger:** Must start with `0:00`.
+* **Purpose:** These are the "Active Chapters" that appear on the YouTube video progress bar. 
+* **Tone:** Use lore-friendly titles (e.g., "The Shaper gives Conrad Form" instead of "Character Creation").
+
+### 👴 Elder’s Wisdom & Production Notes (Internal/Reference)
+* **Location:** Placed at the bottom of the transcript/description.
+* **Purpose:** 1.  **Viewer Value:** Provides specific "Grandpa Bud" advice and technical tips.
+    2.  **Production Tool:** Acts as a logging system for future "Best Of" clips, Shorts, and highlight reels.
+* **Structure:** * **Timestamp:** The exact start of the tip/action.
+    * **Thematic Title:** A folksy name for the lesson.
+    * **Description:** A concise explanation of the mechanic or "why" behind the advice.

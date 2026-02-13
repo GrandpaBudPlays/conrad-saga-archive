@@ -1,4 +1,4 @@
-# 🛡️ SAGA I | EPISODE 5: Conrad's Exile: The Scholar and the Sprout (Saga 1, Ep. 5)
+# 🛡️ SAGA 1 | EPISODE 5: Conrad's Exile: The Scholar and the Sprout (Saga I, Ep. 5)
 
 ## 🎞️ VIDEO METADATA
 * **Original Air Date:** 01/09/2026
@@ -27,6 +27,8 @@ Timestamps:
 * 29:10 - Resting under a Foreign Sky
 
 If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know how your progress compares to Conrad's!
+
+---
 
 ## 🏷️ SEARCH TAGS
 Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough,Grandpa Plays Valheim,Conrad the Exile,Grandpa Gamer,Senior Gamer,Wholesome Gaming,Valheim World Modifiers,Valheim Difficulty Settings,Valheim 10-meter Black Forest,Valheim Two-Star Boar,Valheim Shield Parry Guide,Valheim Fish Locations,Valheim Boar Runestone,Valheim 2026 update world modifiers,how to parry in Valheim,Valheim rare spawns,Valheim world seed L4y2XbwA0V,Valheim immersive solo play

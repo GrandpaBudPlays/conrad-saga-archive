@@ -1,4 +1,4 @@
-# 🛡️ SAGA I | EPISODE 6: Conrad’s Exile: The Taming of the Wild (Saga 1, Ep. 6)
+# 🛡️ SAGA 1 | EPISODE 6: Conrad’s Exile: The Taming of the Wild (Saga I, Ep. 6)
 
 ## 🎞️ VIDEO METADATA
 * **Original Air Date:** 01/10/2026

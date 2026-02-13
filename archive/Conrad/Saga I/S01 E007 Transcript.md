@@ -1,4 +1,4 @@
-# 🛡️ SAGA 1 | EPISODE 7: Conrad’s Exile: The Sacrifice of the Stag (Saga 1, Ep. 7)
+# 🛡️ SAGA 1 | EPISODE 7: Conrad’s Exile: The Sacrifice of the Stag (Saga I, Ep. 7)
 
 ## 🎞️ VIDEO METADATA
 * **Original Air Date:** 01/10/2026
