@@ -32,25 +32,34 @@ The narrative must mirror the "In-Game Lore" style (Hugin's wisdom and Ulf's Run
 
 ## 📜 THE LEXICON
 
-| Modern Term |	Saga Lexicon | Lore Meaning / Phonetics |
-| :--- | :--- | :--- |
-| Home Base | Othala | o-THAH-la. The ancestral heart; a place of inherited safety. |
-| Home Base Alternative | Othala Sactuary | A more formal reference to Othala. Named after the rune for "Inherited Home".|
-| Mainland | Othala-Garth | o-THAH-la GARTH. The enclosed "inner garden" of your home continent. The Home Land continent where Conrad first arrived at the Sacrificial Stones. |
-| Western Coastline| Westshore |  A area to the west of Othala along the coast encompassing West-Thaite |
-| Conrad's Farm | West-Thwaite | THWAYT. Formerly Westshore. A defensive agricultural clearing. from Othala to protect crops and livestock from raids. |
-| The Bosses | The Forsaken | Beings too proud to serve Odin, cast into Valheim as a test. |
-| Death/Raid | The Norns’ Trial | A shift in fate; the three weavers testing a man's thread. |
-| The Ocean	| The Whale-Road | A traditional Kenning for the sea during your Eastern Isle hunt. |
-| Enemy Swarm |	Forest-Kin / Dwellers | General term for Greydwarves and Necks. |
-| Copper/Tin | Stone-Marrow | Copper and Tin; the strength hidden in the rocks of the Black Forest. The raw metal needed to forge the Bronze Age. |
-| Iron | Bog-Iron | The rusted metal "bled" from the ancient veins of the Sunken Crypts.| 
-| Silver | Frost-Tears | Silver; the cold heart of the mountain peaks.|
-| Fate/Chance | The Norns | he architects of fate. They are used as "commentary hooks" to explain game glitches or unexpected events as threads in a larger tapestry. |
-| Swamp Man | Draugr | Pronounced *DROW-gur*. The shadows of the men that once ruled the land.|
-| Swamp Men | Draugar | DROW-gar. (Plural of Draugr). The shadows of the men that once ruled the land.| 
-| Early Axes | Early Axes | 5th Anniversary Relics (Mysterious & Curious Axe Heads). |
+### 📜 THE LEXICON
 
+| Modern Term | Saga Lexicon | Lore Meaning / Phonetics |
+| :--- | :--- | :--- |
+| **Abandoned Village** | **Echoes of the Past** | The hollow remains of those who failed the Norns' trials. |
+| **Bees / Hives** | **The Golden Ones** | The humming workers who provide the "Sweetness". |
+| **Copper & Tin** | **Stone-Marrow** | The raw metal needed to forge the Bronze Age. |
+| **Conrad's Farm** | **West-Thwaite** | THWAYT. Formerly Westshore. A defensive agricultural clearing. |
+| **Death / Raid** | **The Norns’ Trial** | A shift in fate; the three weavers testing a man's thread. |
+| **Early Axes** | **Early Axes** | 5th Anniversary Relics (Mysterious & Curious Axe Heads). |
+| **Enemy Swarm** | **Forest-Kin / Dwellers** | General term for Greydwarves and Necks. |
+| **Fate / Chance** | **The Norns** | The architects of fate; used to explain glitches or unexpected events. |
+| **Hardwood** | **The Iron-Bark** | Specifically refers to Birch or Fine Wood that resists the basic axe. |
+| **Home Base** | **Othala** | o-THAH-la. The ancestral heart; a place of inherited safety. |
+| **Home Base Alternative** | **Othala Sanctuary** | A more formal reference to Othala. Named after the rune for "Inherited Home". |
+| **Honey** | **The Queen’s Gift** | The high-tier stamina food that sustains the long journey. |
+| **Iron** | **Bog-Iron** | The rusted metal "bled" from the ancient veins of the Sunken Crypts. |
+| **Mainland** | **Othala-Garth** | o-THAH-la GARTH. The enclosed "inner garden" of your home continent. |
+| **Silver** | **Frost-Tears** | Silver; the cold heart of the mountain peaks. |
+| **Stamina** | **The Old Man’s Wind** | A grounded way to describe catching one's breath during labor or flight. |
+| **Starred Creatures** | **The Strength of Stars** | Creatures that are larger and tougher, touched by celestial fate. |
+| **Structural Integrity** | **Grandpa’s Physics** | The color-coded wisdom of the earth’s support vs. the sky’s victory. |
+| **Swamp Man** | **Draugr** | DROW-gur. The shadows of the men that once ruled the land. |
+| **Telling Time** | **Reading the Heavens** | Using the sun's position relative to the world-stones to track the day. |
+| **The Bosses** | **The Forsaken** | Beings too proud to serve Odin, cast into Valheim as a test. |
+| **The Ocean** | **The Whale-Road** | A traditional Kenning for the sea during your Eastern Isle hunt. |
+| **Trolls** | **Shadow in the Trees** | A term used when spotting a blue giant on the distant horizon. |
+| **Western Coastline** | **Westshore** | An area to the west of Othala along the coast encompassing West-Thwaite. |
 
 ---
 
