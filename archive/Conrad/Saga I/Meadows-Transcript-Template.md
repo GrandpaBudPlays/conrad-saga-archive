@@ -7,16 +7,11 @@
 * **Series Playlist:** Saga I: The Exile's First Hearth (The Meadows) | Grandpa Plays Valheim
 * **Location:** The Meadows
 
-## 🏷️ SEARCH TAGS
-Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough
-
 ## 📜 NARRATIVE DESCRIPTION
 [Paste the final YouTube description here. This helps the AI understand the intended story of the episode.]
 
-## 💬 THE TRANSCRIPT
-> **Note:** This is raw dialogue. The Norns have woven these words as they fell.
-
-[Insert Raw Transcript Text Here]
+## 🏷️ SEARCH TAGS
+Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough
 
 ## ✨ SURVIVAL WISDOM & HIGHLIGHT GOLD
 * **[Timestamp] - Survival Wisdom:** [e.g., Explaining the mouse-wheel click for stump removal.]
@@ -35,3 +30,9 @@ Valheim,Grandpaplays,Grandpa Plays,Grandpa,Playthrough
 * **Audience Engagement:** [e.g., Opportunities to turn a "Grandpa-ism" into a direct question for the viewers.]
 * **Filler Words & Habits:** [e.g., Tracking the use of "uh" or "um" during complex building or combat segments.]
 * **Brand Alignment:** [e.g., Areas where the Grandpa Bud persona could be leaned into more heavily for immersion.]
+
+
+## 💬 THE TRANSCRIPT
+> **Note:** This is raw dialogue. The Norns have woven these words as they fell.
+
+[Insert Raw Transcript Text Here]
