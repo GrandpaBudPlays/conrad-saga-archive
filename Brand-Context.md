@@ -61,14 +61,23 @@ These sections are located **outside** the Narrative Description and are for pro
 
 ### 2. Chapters & Timestamps (Public-Facing)
 * **Technical:** Must start at `0:00`. Use `MM:SS` or `H:MM:SS`.
+* **Formatting:** Each timestamp must be on a seperate line.
 * **Voice:** Use brand lexicon (e.g., "Defending West-Thwaite").
 * **Selection:** Mark 8-12 major milestones, Grandpa-isms, or "Character Moments."
+* **Strict Sequence:** The Public Narrative must follow this exact order:
+  * Narrative Hook
+  * Saga-Specific Links (Standard Link Repository)
+  * YouTube Chapters (starting at 0:00)
+  * World Seed Text
+
+* **Separation of Concerns:** Do not mix "Survival Wisdom" or "Production Notes" into the Narrative Description section. Keep them in their respective internal headers.
 
 ### 3. The Conrad Audit (Internal AI Feedback)
 * **Survivalist Audit:** Identify "dead air" or moments where voice becomes too "meta."
 * **Growth Tracker:** Highlight successful use of "Elder's Wisdom" or "Family Man" beats.
 * **Formatting:** Provide audit feedback in a single Markdown code block per episode.
-
+* **Formatting Check:** Ensure standard links are formatted as single lines with the corresponding emoji as defined in the Standard Link Repository.
+  
 ## 🔗 Standard Link Repository
 
 * **The Meadows:**
@@ -98,11 +107,9 @@ These sections are located **outside** the Narrative Description and are for pro
 
 
 ## **The World Seed Text:**
-If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know how your start compares to Conrad's!
+If you want to play along on this same map, the seed is L4y2XbwA0V. Let me know how your starprogress compares to Conrad's!
 
 Note: Last three characters of the seed are A, zero, V.
-
-The "Day 1" Essential Link: [Link]
 
 World Seed Disclaimer: "This seed is for Valheim version 0.221.10. Note: the last three characters of the seed are (A, zero, V)."
 
