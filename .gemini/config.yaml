@@ -1,0 +1,15 @@
+!config
+# Prioritize brand and template directories for context
+search_paths:
+  - "archive/**"
+  - "Templates/**"
+  - "/"
+
+# Explicitly ignore unrelated system or junk files
+ignore:
+  - ".git/**"
+  - "node_modules/**"
+
+# Define the styleguide as the primary system instruction
+system_instructions:
+  file: ".gemini/styleguide.md"

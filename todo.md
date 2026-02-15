@@ -32,3 +32,29 @@
 - [ ] **Lore Bible:** Define the Norns, Othala Sanctuary, and Westshore defensive strategy.
 - [x] **AI Integration:** Connect the repo to Google AI for deep narrative analysis.
 
+
+Is there a file/section that tells the AI what to do when it opens a repo
+Where is the new World Seed Text
+How do we make the mandatodry tags a strong suggestion and not mandatory 
+Merge the "Narrative Description" sequence and the "Standard Link Repository" into your Templates/Metadata-Template.md.
+
+Move the "Mandatory Tagging List" and "Hugin Perspective" into your new .gemini/styleguide.md.
+
+Where is State 2 Narritive Logic Defined
+
+
+1. Updating Your AI Knowledge
+To ensure the AI knows exactly when and how to use these links, you should update your .gemini/styleguide.md (or your AI-Operations.md) with the following logic:
+
+A. New Live Stream Draft Protocol
+Trigger: When the user provides goals for a future stream (e.g., "Conrad is going to try to find iron"). AI Action:
+
+Generate Title: Create a compelling, non-clickbait title.
+
+Narrative Hook: Write 3-5 sentences in the Grandpa Bud voice (Ulf Rule) describing the intent.
+
+Insert Links: Locate the Standard-Links.md file and insert the link block corresponding to the current Biome.
+
+Format for OBS: Provide the output as a clean block ready for copy-pasting.
+
+

@@ -30,6 +30,7 @@ Whenever referencing a specific moment from the transcript, always use the forma
 * **Action/Drama:** High-stakes moments, such as narrow escapes or intense combat.
 * **Abridged Potential:** Evaluate if the episode is a high candidate for an abridged version and why.
 * **Thumbnail/Hook Idea:** Suggest visual or narrative hooks based on the episode's peak moments.
+* **Conrad's Links:** Any mention of adding a link to the description.
 
 ## 5. FEEDBACK OUTPUT FORMAT
 Provide the final review in this exact structure. 
@@ -47,6 +48,9 @@ Provide the final review in this exact structure.
 * **[Timestamp] - Survival Wisdom:** [Description]
 * **[Timestamp] - Character/Story Moment:** [Description of clip candidate for Shorts]
 * **[Timestamp] - Action/Drama:** [Description]
+
+###  🚩 Conrad's Links
+* **[Timestamp] - [Link Context]:** [Description of context]
 
 ### 🎬 Production Toolkit
 * **Abridged Potential:** [High/Medium/Low]

@@ -34,21 +34,6 @@ These sections are located **outside** the Narrative Description and are for pro
 * **The "Hugin" Perspective:** Address viewers as "Exile" or "Warrior" with a helpful, detached tone.
 * **No Contractions:** Use "It is" instead of "It's" for serious lore or transcript entries.
 
-## 📜 THE SAGA LEXICON
-
-| Modern Term | Saga Lexicon | Lore Meaning / Phonetics |
-| :--- | :--- | :--- |
-| **Bees / Hives** | **The Golden Ones** | The workers who provide the "Sweetness". |
-| **Conrad's Farm** | **West-Thwaite** | THWAYT. A defensive agricultural clearing. |
-| **Death / Raid** | **The Norns’ Trial** | A shift in fate; the weavers testing a man's thread. |
-| **Hardwood** | **The Iron-Bark** | Birch or Fine Wood. |
-| **Home Base** | **Othala** | o-THAH-la. The ancestral heart. |
-| **Preparation** | **Ritual of Readiness** | Tactical prep (fire, rations, sanctuary) before a boss fight or major expedition. |
-| **Stamina** | **The Old Man’s Wind** | Catching one's breath. |
-| **Structural Integrity** | **Grandpa’s Physics** | Color-coded wisdom of support vs. gravity. |
-| **The Bosses** | **The Forsaken** | Beings too proud to serve Odin. |
-| **The Ocean** | **The Whale-Road** | Traditional Kenning for the sea. |
-
 ## 🚫 THE VANIR'S BAN (Prohibited Content)
 * **The "Honest Elder" Rule:** Never claim expert/pro status. Soft-sell tips; never over-sell.
 * **The "General Warrior" Tag Rule:** Primary tags must use official *Valheim* terminology (e.g., "Queen Bee") rather than internal brand lore (e.g., "Golden Ones") to ensure broad searchability.
