@@ -44,15 +44,21 @@ These sections are located **outside** the Narrative Description and are for pro
 
 ## 🎞️ PRODUCTION & AI PROTOCOLS
 
-### 1. Mandatory Tagging
-Every episode must include these **Brand Pillar** tags:
-* `Grandpa Bud`
-* `Grandpa Bud Plays`
-* `Grandpa Gamer`
-* `Senior Gamer`
-* `Wholesome Gaming`
-* `Slow Gaming`
-* `Cozy Survival`
+## BRAND PILLARS & TAGGING HIERARCHY
+The Brand Pillar tags are the foundation of the channel's identity. While these should be present in nearly every video to maintain a consistent viewer profile, they must be applied according to a priority hierarchy to ensure high-value, episode-specific tags are not crowded out.
+
+### Tagging Priority
+1. **Primary (Episode-Specific):** Highly relevant keywords for the current episode (e.g., "Valheim Early Axes", "Valheim Mysterious Axe Head", "Conrad Saga").
+2. **Secondary (Brand Pillars):** The core identity tags listed below.
+3. **Tertiary (Broad):** General game tags (e.g., "Survival Games", "Open World").
+
+### The Brand Pillar Tags
+If space permits after satisfying the Primary priority, include the following:
+- **The Persona:** Grandpa Bud, Grandpa Plays Valheim
+- **The Vibe:** Folksy, Cozy Gaming, Non-Expert Gameplay
+- **The Format:** Chronicles of the Exiled, Valheim Roleplay, Solo Viking Saga
+
+**Rule of Flexibility:** If an episode has a high volume of trending or search-specific keywords (Primary), you may reduce the Brand Pillar tags to the most essential one: **"Grandpa Plays Valheim"**.
 
 ### 2. The Conrad Audit (Internal AI Feedback)
 * **Survivalist Audit:** Identify "dead air" or meta moments.
