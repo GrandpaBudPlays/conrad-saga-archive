@@ -29,6 +29,8 @@ To maintain brand consistency, every piece of content must be "anchored" by a sp
         2. Ensure the correct biome-specific links from **Standard Link Repositary.md** are included.
         3. Append the standard World Seed Text from `World Seed.md`.
         4. **Final Sign-off:** Use the **Saga Seal** + the **Sign-off**.
+    5. **Output:** Provide the result in a single code block window of markdown suitable for copy paste.
+
 
 * **Command:** `Draft Stream [SX] EXXX [Goals]` 
 * **Action:** 
@@ -41,13 +43,14 @@ To maintain brand consistency, every piece of content must be "anchored" by a sp
     7. **Attach World Seed:** Append the standard World Seed Text from `World Seed.md`.
     8. **Final Sign-off:** Use the **Saga Seal**.
     9. **Draft Intro:** Draft the new episode intro for Grandpa that includes a brief recap and set goals for this episode.
-    10. **Output:** Provide the result in a single code block of markdown suitable for copy paste.
+    10. **Output:** Provide the result in a single code block window of markdown suitable for copy paste.
 
 
 ## 📝 DRAFTING PROTOCOLS
 * **Drafting Live Streams:** When given stream goals, generate a Title and a "State 1" (Pre-Stream) Description. Use the Ulf Rule for the hook and pull the correct biome links from `Standard Link Repository.md`.
 * **Updating Descriptions:** Every `Review [ID]` response must include a "State 2" (Post-Stream) Video Description. This description must summarize actual events and include the proper links from `Standard Link Repository.md`.
 * **Link Selection Logic:** If the transcript or goals mention the "Black Forest," use the Saga II links. If "Swamp," use Saga III, and so on.
+* **Link Formatting:** When appending blocks from the Standard Link Repository.md, do not flatten the text. Every link must remain on its own line with its preceding icon and description.
 
 ## CONFLICT RESOLUTION & HIERARCHY
 

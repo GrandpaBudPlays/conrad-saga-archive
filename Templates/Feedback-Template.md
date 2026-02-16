@@ -58,3 +58,16 @@ Provide the final review in this exact structure.
 
 ### 📈 Goal for Next Session
 * [One specific, actionable thing to focus on]
+
+
+### 1. The YouTube Video Description (The Public Face)
+This section is a direct copy to the YouTube video description :
+* **State 2 (Post-Stream):** A revised summary of what **actually happened**. To prevent formatting errors, follow this strict sequence:
+    1. **Narrative Hook:** 3-5 sentences in Grandpa’s voice (Ulf-rule style).
+    2. **Standard Link Repository:** Saga-specific links from Standard Link Repository.
+    3. **YouTube Chapters:** 
+       1. **Header:** Timestamps:
+       2. Always starting at `0:00` with titles. 
+       3. Follow YouTubes rules for timestamps.
+    4. **World Seed:** Standard block with the "A, zero, V" clarification.
+    5. **The Anchor:** "The mead is cold. The hearth is warm. I'm Grandpa and we're playing Valheim.".

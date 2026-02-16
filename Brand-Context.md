@@ -22,7 +22,7 @@ This section is a direct copy of the YouTube video description and exists in two
     2. **Standard Link Repository:** Saga-specific links first, followed by "Catch up" and "Day 1" links.
     3. **YouTube Chapters:** Always starting at `0:00` with titles at least 10 seconds apart.
     4. **World Seed:** Standard block with the "A, zero, V" clarification.
-    5. **The Anchor:** "I'm Grandpa and we're playing Valheim. Have a good one.".
+    5. **The Anchor:** "The mead is cold. The hearth is warm. I'm Grandpa and we're playing Valheim.".
 
 ### 2. Internal Repositories (The Editor's Tools)
 These sections are located **outside** the Narrative Description and are for production use only.
