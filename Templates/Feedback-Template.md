@@ -70,4 +70,4 @@ This section is a direct copy to the YouTube video description :
        2. Always starting at `0:00` with titles. 
        3. Follow YouTubes rules for timestamps.
     4. **World Seed:** Standard block with the "A, zero, V" clarification.
-    5. **The Anchor:** "The mead is cold. The hearth is warm. I'm Grandpa and we're playing Valheim.".
+    5. **The Anchor:** 
