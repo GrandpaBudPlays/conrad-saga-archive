@@ -33,9 +33,7 @@
 - [x] **AI Integration:** Connect the repo to Google AI for deep narrative analysis.
 
 
-Is there a file/section that tells the AI what to do when it opens a repo
-Where is the new World Seed Text
-How do we make the mandatodry tags a strong suggestion and not mandatory 
+
 Merge the "Narrative Description" sequence and the "Standard Link Repository" into your Templates/Metadata-Template.md.
 
 Move the "Mandatory Tagging List" and "Hugin Perspective" into your new .gemini/styleguide.md.
