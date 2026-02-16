@@ -49,9 +49,36 @@ To maintain brand consistency, every piece of content must be "anchored" by a sp
 
 ## 📝 DRAFTING PROTOCOLS
 * **Drafting Live Streams:** When given stream goals, generate a Title and a "State 1" (Pre-Stream) Description. Use the Ulf Rule for the hook and pull the correct biome links from `Standard Link Repository.md`.
-* **Updating Descriptions:** Every `Review [ID]` response must include a "State 2" (Post-Stream) Video Description. This description must summarize actual events and include the proper links from `Standard Link Repository.md`.
 * **Link Selection Logic:** If the transcript or goals mention the "Black Forest," use the Saga II links. If "Swamp," use Saga III, and so on.
 * **Link Formatting:** When appending blocks from the Standard Link Repository.md, do not flatten the text. Every link must remain on its own line with its preceding icon and description.
+* **Updating Descriptions:** Every `Review [ID]` response must include a "State 2" (Post-Stream) Video Description. This description must summarize actual events and include the proper links from `Standard Link Repository.md`.
+## THE TRIPLE-THREAT DESCRIPTION PROTOCOL
+Every episode description must follow this three-tier narrative structure to maximize immersion and SEO.
+
+### 1. The Ulf Hook (The "Sledgehammer")
+- **Voice:** First-person (Conrad/Grandpa).
+- **Format:** 3–5 short, punchy sentences.
+- **Goal:** Immediate emotional stakes. No filler.
+- **Example:** "The Valkyrie dropped me in the Great Green. My pockets were empty. My hands were cold. It is a start."
+
+### 2. The Legend Paragraph (The "Lore")
+- **Voice:** Third-person/Omniscient Narrative.
+- **Format:** One cohesive paragraph.
+- **Goal:** Ground the episode in the overarching Legend of Conrad and the Allfather's trials.
+- **Example:** "The Allfather’s judgment is final. Conrad stands as a ghost in the Tenth World, proving his worth in a land that remembers neither his name nor his steel."
+
+### 3. The Chronicle Paragraph (The "Guide")
+- **Voice:** Inclusive First-person ("We").
+- **Format:** One paragraph starting with "In this chronicle..."
+- **Goal:** Summarize the actual gameplay highlights and technical goals of the episode.
+- **Example:** "In this chronicle, we join the Exile as he takes his first steps into the Meadows to secure the basic tools of survival."
+
+### 4. Technical Metadata
+- **Timestamps:** Standard YouTube format.
+- **Link Repository:** Standardized links from `Standard Link Repository.md`.
+- **World Seed:** Clear disclosure of the map seed.
+- **The Anchor:** Final brand sign-off.
+- 
 
 ## CONFLICT RESOLUTION & HIERARCHY
 
