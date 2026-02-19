@@ -1,5 +1,6 @@
 ## 💬 THE TRANSCRIPT
 > **Note:** This is raw dialogue. The Norns have woven these words as they fell.
+ 
 0:00:16.320,0:00:27.280
 The meat is cold, the earth is warm, and the saga 
 continues. I'm Grandpa, and we're playing Valheim.
