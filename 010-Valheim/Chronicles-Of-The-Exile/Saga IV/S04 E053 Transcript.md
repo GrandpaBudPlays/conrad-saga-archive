@@ -5,19 +5,19 @@
 Welcome, exiles. The beat is cold,
 
 0:00:14.720,0:00:24.800
-the hearth is warm. The saga continues. 
+the hearth is warm. The saga continues.
 I'm Grandpa and we're playing Valheim.
 
 0:00:24.800,0:00:29.680
-The peaks are calling. We 
+The peaks are calling. We 
 left the king's ransom in
 
 0:00:29.680,0:00:37.200
-frozen tears back in the high snows 
+frozen tears back in the high snows
 of episode 43. My back may be old,
 
 0:00:37.200,0:00:48.720
-but the forge is hungry. Today, we trudge 
+but the forge is hungry. Today, we trudge
 back into the cold to bring back that ore.
 
 0:00:48.720,0:00:54.880
@@ -30,7 +30,7 @@ Nice storm we're having.
 Really, really like these
 
 0:01:11.600,0:01:23.840
-early axes. They are a lot of fun. Now, 
+early axes. They are a lot of fun. Now,
 problem is is if we're heading into the
 
 0:01:23.840,0:01:39.760
