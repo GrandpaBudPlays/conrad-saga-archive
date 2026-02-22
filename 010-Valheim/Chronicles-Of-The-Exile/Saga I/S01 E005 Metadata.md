@@ -2,6 +2,7 @@
 ## 🎞️ VIDEO METADATA
 
 * **Original Air Date:** 01/09/2026
+* **SourceFile Name:** 2026-01-09 21-07-20.mpr
 * **YouTube Link:** [Conrad's Exile: The Scholar and the Sprout (Saga I, Ep. 5)](https://youtube.com/live/2EZtnqOz-hI?feature=share)
 * **Playlist:** [Chronicles of the Exiled Solo](https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6)
 * **Series Playlist:** [Saga I: The Exile's First Hearth (The Meadows) | Grandpa Plays Valheim](https://www.youtube.com/playlist?list=PLLLwpTakAlMvEN5_o5m576H_q2aWwzQw8)

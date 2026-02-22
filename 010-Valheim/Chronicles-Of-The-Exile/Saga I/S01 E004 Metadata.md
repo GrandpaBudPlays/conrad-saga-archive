@@ -2,6 +2,7 @@
 ## 🎞️ VIDEO METADATA
 
 * **Original Air Date:** 01/09/2026
+* **SourceFile Name:** 2026-01-09 20-07-16.mpr
 * **YouTube Link:** [Conrad’s Exile: The First Test of Odin (Saga I: Ep. 4)
 ](https://youtube.com/live/0r8GlW6Nqoo?feature=share)
 * **Playlist:** [Chronicles of the Exiled Solo](https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6)

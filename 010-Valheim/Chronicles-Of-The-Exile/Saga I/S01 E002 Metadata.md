@@ -2,6 +2,7 @@
 ## 🎞️ VIDEO METADATA
 
 * **Original Air Date:** 01/08/2026
+* **SourceFile Name:** 2026-01-08 14-28-53.mpr
 * **YouTube Link:** [Conrad’s Exile: Finding the Path to the Black Forest (Saga I, Ep. 2)](https://youtube.com/live/kv1qjhZH-4w?feature=share)
 * **Playlist:** [Chronicles of the Exiled Solo](https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6)
 * **Series Playlist:** [Saga I: The Exile's First Hearth (The Meadows) | Grandpa Plays Valheim](https://www.youtube.com/playlist?list=PLLLwpTakAlMvEN5_o5m576H_q2aWwzQw8)
