@@ -4,6 +4,12 @@ desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
+# Ignore all environment files
+*.env
+
+# Except for the template file (which has no real keys)
+!.env.example
+
 # VS Code specific
 .vscode/
 *.code-workspace
