@@ -17,6 +17,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPT_DIR)
 VALHEIM_ROOT = os.path.join(ROOT_DIR, "010-Valheim", "Chronicles-Of-The-Exile")
 TEMPLATE_PATH = os.path.join(ROOT_DIR, "010-Valheim", "010-Templates", "Feedback Template.md")
+#
 
 def parse_cli_args():
     # Job: Validate and return command line arguments
@@ -153,47 +154,72 @@ def read_file(path):
     with open(path, 'r', encoding='utf-8') as f:
         return f.read()
 
+import re
+
+LIST_RE = re.compile(r'^\s*(?:[-*+]|\d+\.)\s+')
+HEADER_RE = re.compile(r'^#{1,6}\s')
+
 def sanitize_markdown(text):
-    # Fix NBSP and Code Fences first
-    text = text.replace('\xa0', ' ').replace("```markdown", "").replace("```", "").strip()
 
-    # 1. NEW: Kill Leading Whitespace (Critical for MD007/MD032/MD009)
-    # This ensures regex patterns starting with \n work correctly
-    lines = [line.lstrip() for line in text.splitlines()]
-    text = "\n".join(lines)
+    # Remove code fences and NBSP
+    text = (
+        text.replace('\xa0', ' ')
+        .replace("```markdown", "")
+        .replace("```", "")
+        .strip()
+    )
 
-    # 2. NEW: Fix MD025 (Multiple Top-level Headings)
-    # Demotes subsequent # to ##
-    processed_lines = []
-    for i, line in enumerate(text.splitlines()):
-        if i > 0 and line.startswith("# "):
-            processed_lines.append("#" + line)
-        else:
-            processed_lines.append(line)
-    text = "\n".join(processed_lines)
+    lines = text.splitlines()
+    output = []
 
-    # 3. Collapse 3+ newlines into 2
+    seen_h1 = False
+
+    for i, line in enumerate(lines):
+        line = line.rstrip()
+
+        # --- Fix multiple H1 ---
+        if line.startswith("# "):
+            if seen_h1:
+                line = "## " + line[2:]
+            seen_h1 = True
+
+        # --- Normalize list spacing ---
+        if LIST_RE.match(line):
+            line = re.sub(r'\s+', ' ', line, count=1)
+
+        output.append(line)
+
+    # --- Insert blank lines around headers/lists ---
+    fixed = []
+
+    for i, line in enumerate(output):
+
+        prev = fixed[-1] if fixed else ""
+        next_line = output[i + 1] if i + 1 < len(output) else ""
+
+        if HEADER_RE.match(line):
+
+            if prev and prev.strip():
+                fixed.append("")
+
+            fixed.append(line)
+
+            if next_line.strip():
+                fixed.append("")
+
+            continue
+
+        if LIST_RE.match(line) and prev and not LIST_RE.match(prev):
+            if prev.strip():
+                fixed.append("")
+
+        fixed.append(line)
+
+    # Collapse excessive blank lines
+    text = "\n".join(fixed)
     text = re.sub(r'\n{3,}', '\n\n', text)
 
-    # 4. Fix MD022/MD032: Blank lines around headings
-    text = re.sub(r'(\S)\n(#+ )', r'\1\n\n\2', text)
-    text = re.sub(r'(#+ .*)\n(\S)', r'\1\n\n\2', text)
-
-    # 5. Fix MD032: Blank line BEFORE and AFTER lists
-    text = re.sub(r'([^\n])\n([*-]|\d+\.)', r'\1\n\n\2', text)
-    text = re.sub(r'([*-]|\d+\..*)\n([^\n\s*-])', r'\1\n\n\2', text)
-
-    # 6. Fix MD007/MD030: Standardize list indentation and spacing
-    # Note: line.lstrip() above handled the 4-space indent,
-    # but we'll keep these for nested lists
-    text = re.sub(r'\n    ([*-]|\d+\.)', r'\n  \1', text)
-    text = re.sub(r'\n([*-]|\d+\.) +', r'\1 ', text)
-
-    # 7. Final cleanup: Trailing spaces and final newline
-    lines = [line.rstrip() for line in text.splitlines()]
-    output = "\n".join(lines).strip() + "\n"
-
-    return output
+    return text.strip() + "\n"
 
 def save_audit_report(transcript_path, content, report_type):
     # Job: Save results with linter-friendly formatting
@@ -260,6 +286,12 @@ def run_strategic_gold_extraction(client, transcript, episode_id, duration_sec):
         "CRITICAL: Output raw Markdown only. Do NOT wrap in ```markdown code blocks. "
         "Surround all headings (#, ##) with blank lines and use 2-space indentation."
         "Use proper Markdown heading levels (###) for segment titles. Do not use bold text as a heading."
+        "YOUTUBE CHAPTER RULES:"
+        "1. The first chapter MUST start at 00:00."
+        "2. Timestamps must be in chronological order."
+        "3. Every chapter must be at least 10 seconds apart."
+        "4. List at least 3 chapters."
+        "5. Format: MM:SS or HH:MM:SS."
     )
 
     # Automatically determine pacing based on the duration we found
@@ -280,7 +312,6 @@ def run_strategic_gold_extraction(client, transcript, episode_id, duration_sec):
         config=types.GenerateContentConfig(
             system_instruction=strategic_instruction,
             temperature=0.2,
-            http_options={"timeout": 120000}  # Increase timeout for longer processing
         ),
         contents=prompt
     )
@@ -353,7 +384,10 @@ if __name__ == "__main__":
     print(f"Lexicon: {'Loaded' if lexicon_data else 'Skipped (Historical)'}")
 
     print(f"--- Processing {episode} ---")
-    client = genai.Client(api_key=os.getenv('GEMINIAPIKEY'))
+    client = genai.Client(
+        api_key=os.getenv('GEMINIAPIKEY'),
+                http_options={'timeout': 180}
+    )
     print("Client initialized. Starting Pass 1: Tactical Audit...")
 
     # Pass 1

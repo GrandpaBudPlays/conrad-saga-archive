@@ -12,17 +12,16 @@
 
 ### 1.1 SPEECH METRICS
 * **Filler Word Count:**
-* "Uh": 20 | 262.33 (Seconds/Count)
+* "Uh": 12 | 437.22 (Seconds/Count)
 * "Um": 5 | 1049.32 (Seconds/Count)
-* "So": 30 | 174.88 (Seconds/Count)
-* **Other:** 23
-* "Yeah": 15
-* "Well": 8
+* "So": 22 | 238.48 (Seconds/Count)
+* **Other:** 12
+* "Yeah": 12
 
 ### 1.2 AUDIO & PACING
-* **Vocal Presence:** 20.5 WPM (Deliberate, slow-paced construction focus)
-* **Technical Quality:** Clear audio; narrator notes a microphone bump at 1:06:00 and a failure to mute during a cough/interruption at 0:56:01.
-* **Thematic Silence:** 0:10:00 - 0:12:00 (Extended focus on building placement); 0:41:34 - 0:42:51 (Rhythmic digging of the moat).
+* **Vocal Presence:** 18 WPM (Extremely deliberate pacing, focused on construction and environmental sounds).
+* **Technical Quality:** Clear audio; narrator notes a microphone bump at 1:06:00 and apologizes for a cough/mute failure at 0:56:01.
+* **Thematic Silence:** Significant atmospheric breaks during trench digging (0:40:00 - 0:42:00) and tree felling (0:27:00 - 0:28:30).
 
 ---
 
@@ -30,23 +29,24 @@
 
 ### 2.1 LINGUISTIC ALIGNMENT
 * **Lexicon Saturation:**
-* **Saga Terms:** 10 (Westshore, Iron-Bark, Norns' Trial, Frost-Tears, Shadow-Garth, Sower's Tithe)
-* **Technical Terms:** 18 (Base, Boars, Workbench, Raid, Iron Age, Silver Age, Crafting Station)
-* **Saturation Ratio:** 1:1.8
+* **Saga Terms:** 8 (West-Thwaite, Iron-Bark, Norns' Trial, Frost-Tears, Shadow-Garth, Othala, The Golden Ones, Old Man's Wind)
+* **Technical Terms:** 14 (Base, Raid, Inventory, Workbench, Pickaxe, Moat, Boars, Taming, Fine Wood, Silver, Black Forest, Live streaming, Key strokes, Mic)
+* **Saturation Ratio:** 1:1.75
 * **Grandpa Rule Compliance (Plain Speech & Guidance):**
-* **Helpful Insights:** 4 (Guidance on moat depth to prevent trapping, livestock protection from archers, chimney airflow, and raid trigger mechanics).
-* **Persona Breaks:** 3 (References to "live streaming," "key strokes," and "drugs" for a cough).
+* **Helpful Insights:** 4 (Explaining moat depth for archer protection, chimney airflow mechanics, livestock breeding proximity, and trench safety exits).
+* **Persona Breaks:** 2 (Mentioning "live streaming" and "key strokes").
 * **Refinement:**
-* *Original:* "I'm so envious of the people that can do this live streaming."
-* *Correction:* "It is a marvel to see those who can share their journey with the world as it happens."
+* *Original:* "I'm so envious of the people that can do this live streaming and at the same time."
+* *Correction:* "It is a marvel how some can weave their tale while the world watches in the very moment."
 
 ### 2.2 PERSONA INTEGRITY
-* **Modernism Audit:** Raid (Norns' Trial), Inventory, Crafting Station, Key strokes, Live streaming.
-* **Grandpa Wisdom:** 2 (Reflections on the discouragement of a failed defense and the patience required for taming).
-* **Fourth Wall Breaks (Meta-Speech):** 8
-* Direct intro: "Welcome back. I'm Grandpa Bud."
-* Technical: "Look up the details on that," "Wrong key strokes," "Forgot to mute."
-* Outro: "Wrapping it up right here," "Stop this one," "Thank you for joining us."
+* **Modernism Audit:** "Live streaming" (0:04:42), "Inventory" (0:45:20), "Key strokes" (0:46:43), "Mic" (1:06:00).
+* **Grandpa Wisdom:** Reflects on the discouragement of a failed defense (1:24:35) and the patience required for taming "little piggies."
+* **Fourth Wall Breaks (Meta-Speech):** 4
+* 0:00:04: "Welcome back. I'm Grandpa Bud. We're playing ballad today."
+* 0:04:42: Discussion regarding the difficulty of live streaming.
+* 1:25:01: "Short break and I'll be right back."
+* 1:27:19: "Thank you so much for joining us."
 
 ---
 
@@ -54,11 +54,11 @@
 
 ### 3.1 MECHANICAL DISCIPLINE
 * **Shieldmaiden’s Rule (Preparation):**
-* **Rested Uptime:** 85% (Maintained through shelter building)
-* **Food Uptime:** 90% (Consistent eating of mixed rations)
-* **Safety Protocol:** High discipline in moat construction; narrator ensures a "run out" point is established so he doesn't trap himself or creatures. Base repairs prioritized after the Norns' Trial.
+* **Rested Uptime:** 85% (Maintained through the use of the temporary hut).
+* **Food Uptime:** 90% (Consistent consumption of mixed-tier foods).
+* **Safety Protocol:** High discipline in moat construction; ensures a "run out" path is available to prevent being trapped by the Norns' Trial.
 
 ### 3.2 PERFORMANCE OUTCOMES
-* **Session Goal Status:** Met (Livestock moved to West-Thwaite, moat completed, boars tamed, and trees planted).
-* **Highlight Gold:** 1:18:13 (The discovery of the first "little piggies" born in the new pen, signaling the success of the relocation).
-* **Strategic Growth:** Begin smelting Frost-Tears in the Shadow-Garth to transition from the Iron Age to the Silver Age.
+* **Session Goal Status:** Met (Livestock moved to West-Thwaite, moat completed, and farm area cleared).
+* **Highlight Gold:** 1:18:13 - The discovery of the first "little piggies" (piglets) signifying a successful taming and breeding cycle.
+* **Strategic Growth:** Transitioning from the Iron Age to the Silver Age by establishing a smelting outpost in the Shadow-Garth (Black Forest).
