@@ -18,8 +18,7 @@ ROOT_DIR = os.path.dirname(SCRIPT_DIR)
 VALHEIM_ROOT = os.path.join(ROOT_DIR, "010-Valheim", "Chronicles-Of-The-Exile")
 TEMPLATE_PATH = os.path.join(ROOT_DIR, "010-Valheim", "010-Templates", "Feedback Template.md")
 DEFAULT_TIMEOUT = 300
-
-#
+OPTIONS_TIMEOUT = 480000
 
 def parse_cli_args():
     # Job: Validate and return command line arguments
@@ -36,16 +35,15 @@ def resolve_lexicon_data(season_str, episode_str):
     if ep_num_match and int(ep_num_match.group(1)) > 35:
         lexicon_path = os.path.join(ROOT_DIR, "010-Valheim", "Saga-Lexicon-Valheim.md")
         print(f"Loading Lexicon: {lexicon_path}")
-        return load_transcript_asset(lexicon_path)
+        return read_file(lexicon_path)
 
     return ""
 
 def get_template_data():
     # Job: Locate and load the feedback template
-    template_path = os.path.join(ROOT_DIR, "010-Valheim", "010-Templates", "Feedback Template.md")
-    data = load_transcript_asset(template_path)
+    data = read_file(TEMPLATE_PATH)
     if not data:
-        print(f"CRITICAL: Template missing at {template_path}")
+        print(f"CRITICAL: Template missing at {TEMPLATE_PATH}. Cannot proceed without it.")
         sys.exit(1)
     return data
 
@@ -152,14 +150,10 @@ def get_video_duration(raw_content):
 
 def read_file(path):
     if not os.path.exists(path):
+        print(f"Error: File not found at {path}")
         return ""
     with open(path, 'r', encoding='utf-8') as f:
         return f.read()
-
-import re
-
-LIST_RE = re.compile(r'^\s*(?:[-*+]|\d+\.)\s+')
-HEADER_RE = re.compile(r'^#{1,6}\s')
 
 def save_audit_report(transcript_path, content, report_type):
     # Job: Save results with linter-friendly formatting
@@ -212,6 +206,8 @@ def run_saga_audit(client, transcript, template, lexicon, ep_id, duration, biome
         config=types.GenerateContentConfig(system_instruction=instr, temperature=0.1),
         contents=prompt
     )
+    if response is None:
+        raise RuntimeError("Failed to generate audit content after all retries")
     return response.text
 
 def run_strategic_gold_extraction(client, transcript, episode_id, duration_sec):
@@ -253,6 +249,8 @@ def run_strategic_gold_extraction(client, transcript, episode_id, duration_sec):
         contents=prompt
     )
 
+    if response is None:
+        raise RuntimeError("Failed to generate strategic gold content after all retries")
     return response.text
 
 def safe_generate_content(
@@ -263,57 +261,64 @@ def safe_generate_content(
         retries: int = 6
     ):
 
-    # 1. Logic Injection: Ensure http_options and timeout exist
-    # If config is missing or lacks timeout, we "re-build" it safely
-    if config is None:
-        config = types.GenerateContentConfig(http_options={'timeout': 120000})
-    else:
-        # Check if we need to inject the timeout
-        current_options = getattr(config, 'http_options', {}) or {}
-        if 'timeout' not in current_options:
-            # We create a copy of the options and add the timeout
-            new_options = dict(current_options)
-            new_options['timeout'] = 120000
-
-            # Re-initialize the config to ensure internal consistency
-            # This is safer than direct attribute assignment in this SDK
-            config = types.GenerateContentConfig(
-                **{k: v for k, v in config.__dict__.items() if k != 'http_options'},
-                http_options=new_options
-            )
+    config = _ensure_timeout_config(config)
 
     print(f"Attempting to generate content with model '{model_name}'...")
 
     for i in range(retries):
+        if i == 3:
+            print(f"--- Switching to backup model ---")
+            model_name = 'gemini-1.5-flash'
+
         try:
-            return client.models.generate_content(
+            response = client.models.generate_content(
                 model=model_name,
                 config=config,
                 contents=contents
             )
-        # CHANGE: Catch the new SDK's specific server error
+            if response is None or not hasattr(response, 'text') or response.text is None:
+                _handle_retry(i, retries, "Empty/None response", wait_multiplier=5)
+                continue
+            return response
         except errors.ServerError as e:
-            # Verify if it's a 503 before proceeding
             if e.code == 503:
-                wait_time = (i + 1) * 5
-                print(f"Server busy (503). Retrying in {wait_time}s...")
-
-                if i == 2:  # Switch on the 3rd failed attempt
-                    print(f"--- {i+1} retries failed. Switching from {model_name} to backup model. ---")
-                    model_name = 'gemini-1.5-flash'
-
-                time.sleep(wait_time)
+                _handle_retry(i, retries, f"Server busy (503): {e.message}", wait_multiplier=5)
             else:
-                # If it's a different 5xx error (like 500), handle it or re-raise
                 print(f"Server Error {e.code}: {e.message}")
                 break
 
+        except (exceptions.ReadTimeout, exceptions.DeadlineExceeded, TimeoutError) as e:
+            _handle_retry(i, retries, f"Timeout error: {e}", wait_multiplier=10)
+
         except Exception as e:
-            # Catch-all for networking or client-side issues
-            print(f"Connection issue: {e}")
-            break
+            _handle_retry(i, retries, f"Connection issue: {e}", wait_multiplier=5, optional=True)
 
     return None
+
+def _ensure_timeout_config(config: types.GenerateContentConfig) -> types.GenerateContentConfig:
+    if config is None:
+        return types.GenerateContentConfig(http_options={'timeout': OPTIONS_TIMEOUT})
+    
+    current_options = getattr(config, 'http_options', {}) or {}
+    if 'timeout' in current_options:
+        return config
+    
+    new_options = dict(current_options)
+    new_options['timeout'] = OPTIONS_TIMEOUT
+    
+    return types.GenerateContentConfig(
+        **{k: v for k, v in config.__dict__.items() if k != 'http_options'},
+        http_options=new_options
+    )
+
+def _handle_retry(attempt: int, total: int, message: str, wait_multiplier: int, optional: bool = False):
+    if optional and attempt >= total - 1:
+        print(f"{message} (attempt {attempt+1}/{total}). All retries exhausted. Giving up.")
+        return
+    wait_time = (attempt + 1) * wait_multiplier
+    print(f"{message} (attempt {attempt+1}/{total}). Retrying in {wait_time}s...")
+    time.sleep(wait_time)
+
 # --- 3. ORCHESTRATION ---
 
 if __name__ == "__main__":
