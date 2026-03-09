@@ -19,8 +19,14 @@ class GeminiModel(BaseAIModel):
         'gemini-2.5-pro': {'input': 1.25, 'output': 10.00},
     }
 
-    def __init__(self, client: genai.Client, model_name: str = None, backup_model: str = None):
-        self._client = client
+    def __init__(self, client: genai.Client | None = None, api_key: str | None = None, model_name: str | None = None, backup_model: str | None = None):
+        if client:
+            self._client = client
+        else:
+            api_key = api_key or os.getenv('GEMINIAPIKEY')
+            # Use types.HttpOptions to avoid type check errors if possible, 
+            # but genai.Client often takes a dict or HttpOptions.
+            self._client = genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=self.DEFAULT_TIMEOUT))
         self._model_name = model_name or self.DEFAULT_MODEL
         self._backup_model = backup_model or self.DEFAULT_BACKUP
 
@@ -38,17 +44,16 @@ class GeminiModel(BaseAIModel):
         return self._generate_with_retry(config, prompt)
 
     def _ensure_timeout_config(self, config: types.GenerateContentConfig) -> types.GenerateContentConfig:
-        current_options = getattr(config, 'http_options', {}) or {}
-        if 'timeout' in current_options:
+        current_options = getattr(config, 'http_options', None)
+        if current_options and hasattr(current_options, 'timeout') and current_options.timeout is not None:
             return config
 
-        new_options = dict(current_options)
-        new_options['timeout'] = self.DEFAULT_TIMEOUT
-
-        return types.GenerateContentConfig(
-            **{k: v for k, v in config.__dict__.items() if k != 'http_options'},
-            http_options=new_options
-        )
+        if current_options is None:
+            config.http_options = types.HttpOptions(timeout=self.DEFAULT_TIMEOUT)
+        else:
+            config.http_options.timeout = self.DEFAULT_TIMEOUT
+            
+        return config
 
     def _calculate_cost(self, response, model_name: str) -> tuple:
         if not hasattr(response, 'usage_metadata'):

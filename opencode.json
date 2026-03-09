@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "google": {
+      "options": {
+        "maxOutputTokens": 1000,
+        "temperature": 0.2
+      }
+    }
+  }
+}

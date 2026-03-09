@@ -1,0 +1,44 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Environments (Crucial to ignore!)
+venv/
+.venv/
+env/
+.env
+node_modules/
+.git/
+*.log
+dist/
+build/
+
+# Large data/media files (Specific to your Stream-Archive)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+
+# Project metadata
+.git/
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Ignore all transcript files
+*[Tt]ranscript*.md
+*[Mm]etadata*.md
+*[Ff]eedback*.md
+*[Hh]ighlight*.md
+*[Ss]tream*.md
+
+!Feedback Template.md
+

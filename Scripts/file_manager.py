@@ -2,6 +2,7 @@ import os
 import pathlib
 import re
 import sys
+from dataclasses import dataclass
 
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -18,6 +19,20 @@ DEFAULT_BIOMES = {
     "Saga V": "Plains",
     "Saga VI": "Ashlands"
 }
+
+@dataclass
+class SessionData:
+    season: str
+    episode: str
+    full_ep_id: str
+    target_filename: str
+    path: str
+    saga: str
+    biome: str
+    transcript: str
+    template: str
+    lexicon: str
+    duration: float
 
 
 def find_transcript_and_metadata(target_filename):
@@ -51,7 +66,7 @@ def find_transcript_and_metadata(target_filename):
 
 
 def _has_no_audio_transcript(file_path: str) -> bool:
-    """Helper to check for 'No Audio' and absence of timestamps."""
+    # Helper to check for 'No Audio' and absence of timestamps.
     with open(file_path, 'r', encoding='utf-8') as f:
         # Read the first 500 characters to cover ~10 lines
         header_chunk = f.read(500)
@@ -101,6 +116,70 @@ def resolve_lexicon_data(season_str: str, episode_str: str) -> str:
         print(f"Loading Lexicon: {lexicon_path}")
         return read_file(lexicon_path)
     return ""
+
+
+def get_last_timestamp(text: str):
+    ts_pattern = r'\d+:\d+:\d+\.\d+|\d+:\d+\.\d+'
+    matches = re.findall(ts_pattern, text)
+    return matches[-1] if matches else None
+
+
+def timestamp_to_seconds(ts_str: str | None) -> float:
+    if not ts_str:
+        return 0.0
+    try:
+        parts = ts_str.split(':')
+        if len(parts) == 3:
+            h, m, s = parts
+            total = (int(h) * 3600) + (int(m) * 60) + float(s)
+        elif len(parts) == 2:
+            m, s = parts
+            total = (int(m) * 60) + float(s)
+        else:
+            total = float(parts[0])
+        return round(total, 2)
+    except (ValueError, IndexError):
+        return 0.0
+
+
+def get_video_duration(raw_content: str) -> float:
+    if not raw_content:
+        return 0.0
+    final_ts = get_last_timestamp(raw_content)
+    return timestamp_to_seconds(final_ts)
+
+
+def prepare_session_assets(season: str, episode: str) -> SessionData:
+    full_ep_id = f"{season} {episode}"
+    target_filename = f"{full_ep_id} Transcript.md"
+
+    file_info = find_transcript_and_metadata(target_filename)
+    if not file_info:
+        print(f"Error: Could not find {target_filename} in {VALHEIM_ROOT}")
+        sys.exit(1)
+
+    transcript_data = load_transcript_asset(str(file_info['path']))
+    if not transcript_data:
+        print(f"Skipping {target_filename}: No Audio detected.")
+        sys.exit(0)
+
+    template_data = get_template_data()
+    lexicon_data = resolve_lexicon_data(season, episode)
+    actual_duration = get_video_duration(transcript_data)
+
+    return SessionData(
+        season=season,
+        episode=episode,
+        full_ep_id=full_ep_id,
+        target_filename=target_filename,
+        path=str(file_info['path']),
+        saga=str(file_info['saga']),
+        biome=str(file_info['biome']),
+        transcript=transcript_data,
+        template=template_data,
+        lexicon=lexicon_data,
+        duration=actual_duration
+    )
 
 
 def save_audit_report(transcript_path: str, content: str, report_type: str, model_suffix: str | None = None):

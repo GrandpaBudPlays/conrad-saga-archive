@@ -20,8 +20,12 @@ Located in `/Stream-Archive/010-Valheim/Chronicles-Of-The-Exile`. These files do
 Located in `/Stream-Archive/010-Valheim/020-Heirs/`. These files will document the adventures of the next generation.
 * **Saga I**: The Heirs' first steps into the Tenth World. (TBD)
 
+
+### ✨ Google Gemini Stream Analysis Automation
+Located in '/Stream_Archive/Scripts/'. These files are used to perfrom automated review on YouTube transcripts.
+
 ---
 
 ## 🛠️ KEY DOCUMENTS
 * **[Brand Identity & Survival Wisdom](./000-Global-Core/Brand-Voice.md)**: Rules for voice, lore, and "Elder's Wisdom" tips.
-* **[Project Roadmap](./todo.md)**: Upcoming premieres and production tasks.
+* **[Project Roadmap](./todo.md)**: Upcoming premieres and production tasks. Focus has been on Automation and this is falling behind.
