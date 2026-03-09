@@ -22,7 +22,19 @@ Located in `/Stream-Archive/010-Valheim/020-Heirs/`. These files will document t
 
 
 ### ✨ Google Gemini Stream Analysis Automation
-Located in '/Stream_Archive/Scripts/'. These files are used to perfrom automated review on YouTube transcripts.
+Located in '/Stream-Archive/Scripts/'. These files are used to perform automated review on YouTube transcripts.
+
+#### Audit Pipeline Architecture
+The `Audit_Pipeline.py` orchestrates the AI analysis of gameplay transcripts. It leverages a modular design:
+- **`file_manager.py`**: Centralizes file I/O, locates metadata, and skips "No Audio" files to save API costs.
+- **`ai/gemini.py`**: A robust wrapper for the `google.genai` SDK handling rate limits, timeouts, token cost tracking, and automatic fallback models.
+- **`prompts/`**: A library managing AI instructions for the Tactical Audit (Lexicon, filler words) and Strategic Gold Extraction (Shorts, Clips, Chapters).
+
+**Workflow:**
+1. Loads the transcript and required metadata via `prepare_session_assets()`.
+2. **Pass 1:** Evaluates the episode against the "Grandpa Rule" persona constraints.
+3. **Pass 2:** Identifies highlight moments and generates YouTube chapters.
+4. Outputs actionable Markdown reports to the `Reports/` directory.
 
 ---
 
