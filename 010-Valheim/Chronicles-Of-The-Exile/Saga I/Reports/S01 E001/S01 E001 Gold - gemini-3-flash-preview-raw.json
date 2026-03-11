@@ -1,0 +1,105 @@
+{
+  "summary_table": "Grandpa Bud introduces Conrad the Viking, landing in the Meadows to survive his first 24 hours. The episode covers character creation, basic gathering, the mechanics of Viking food, and the frantic construction of a first shelter before the Greylings arrive at nightfall.",
+  "editors_notes": "The 'Grandpa' persona is a goldmine for the 'Cozy Survival' niche. Strategic focus should remain on the 'Grandpa Lessons'\u2014breaking down complex UI like the food forks into simple wisdom. The pacing is deliberate, which appeals to an older or more relaxed demographic. We should lean into the 'Conrad' narrative as a recurring character in this saga.",
+  "ledger_entry": "Gather 'round the fire, exiles. Today we saw a new soul named Conrad\u2014a man with a mustache like Leonard Skynyrd and hair as red as a fox's tail\u2014carried into the tenth world by the Valkyrie. He landed soft in the Meadows, a place that looks peaceful but hides teeth in the tall grass. Grandpa Bud showed him the way of the land: how to listen to the raven Hugin without letting him chatter your ear off, and how to tell the difference between a berry that fills your belly and a mushroom that steels your heart. As the sun dipped low and the air turned cold, Conrad didn't panic. He hammered together a few scraps of wood and a roof just wide enough to keep the rain off his nose. He learned the most important lesson of all: a Viking is only as good as his rest. He slept through the first night, and when the sun rose, he was still standing. That's a win in my book.",
+  "type_a_shorts": [
+    {
+      "time": "09:25",
+      "description": "The Three Forks Lesson: Explaining Stamina vs. Health food colors simply."
+    },
+    {
+      "time": "14:55",
+      "description": "The Fine Wood Trick: How to get advanced wood without a bronze axe."
+    },
+    {
+      "time": "28:45",
+      "description": "The Rested Rule: Why you never leave home without a roof and a fire."
+    }
+  ],
+  "type_b_clips": [
+    {
+      "time": "00:45",
+      "description": "The Birth of Conrad: Character creation and the philosophy of a good mustache."
+    },
+    {
+      "time": "23:45",
+      "description": "The First Shelter: A step-by-step guide to surviving the first night in the Meadows."
+    }
+  ],
+  "type_c_saga": [
+    {
+      "time": "04:08",
+      "description": "The Valkyrie's Flight: Atmospheric montage of the arrival in Valheim."
+    },
+    {
+      "time": "11:20",
+      "description": "The First Harvest: A rhythmic montage of gathering flint, wood, and stone."
+    }
+  ],
+  "youtube_chapters": [
+    {
+      "time": "00:00",
+      "title": "00:00 Intro"
+    },
+    {
+      "time": "00:45",
+      "title": "Creating Conrad the Viking"
+    },
+    {
+      "time": "01:50",
+      "title": "Understanding World Seeds"
+    },
+    {
+      "time": "04:08",
+      "title": "Landing in the Meadows"
+    },
+    {
+      "time": "05:02",
+      "title": "Meeting Hugin the Guide"
+    },
+    {
+      "time": "06:35",
+      "title": "Crafting Your First Weapon"
+    },
+    {
+      "time": "08:35",
+      "title": "The Three Colors of Food"
+    },
+    {
+      "time": "10:10",
+      "title": "Finding Flint and Better Tools"
+    },
+    {
+      "time": "13:50",
+      "title": "The Altar of Eikthyr"
+    },
+    {
+      "time": "14:25",
+      "title": "The Fine Wood Secret"
+    },
+    {
+      "time": "17:12",
+      "title": "Building the Workbench"
+    },
+    {
+      "time": "19:45",
+      "title": "Viking Ship Burials"
+    },
+    {
+      "time": "22:15",
+      "title": "The Beehive Warning"
+    },
+    {
+      "time": "23:45",
+      "title": "Building Your First Shelter"
+    },
+    {
+      "time": "28:15",
+      "title": "The Power of the Rested Buff"
+    },
+    {
+      "time": "29:45",
+      "title": "Surviving Day One"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 37,
+        "seconds_per_count": 49.11
+      },
+      {
+        "word": "Um",
+        "count": 8,
+        "seconds_per_count": 227.13
+      },
+      {
+        "word": "So",
+        "count": 17,
+        "seconds_per_count": 106.88
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Basically",
+        "count": 2
+      },
+      {
+        "word": "Typically",
+        "count": 5
+      }
+    ],
+    "vocal_presence_wpm": 112,
+    "technical_quality_notes": "Voice is slightly strained due to a cold, but clear. Background music is well-balanced. Some mouse clicking is audible during building.",
+    "thematic_silence": [
+      "01:04 - Character creation focus",
+      "04:10 - Valkyrie flight sequence",
+      "25:18 - Building concentration"
+    ]
+  },
+  "creative_director": {
+    "saga_terms_count": 14,
+    "technical_terms_count": 22,
+    "saturation_ratio": "14:22",
+    "helpful_insights_count": 9,
+    "persona_breaks_count": 5,
+    "refinements": [
+      {
+        "original": "Stamina bar of only 50 points is not something I'm used to.",
+        "correction": "My old lungs don't have the wind they used to; I've got to pace myself."
+      },
+      {
+        "original": "Rested buff is crucial. It affects how fast your stamina regens.",
+        "correction": "A man's got to keep his spirits high. A warm fire and a roof make the next day's work feel lighter."
+      }
+    ],
+    "modernism_audit": [
+      "Seed",
+      "Generator",
+      "Biomes",
+      "Stamina bar",
+      "Buff",
+      "Regen",
+      "Hot bar",
+      "Spawn point"
+    ],
+    "grandpa_wisdom_count": 6,
+    "meta_speech_breaks_count": 3
+  },
+  "strategic_analyst": {
+    "rested_uptime_percent": 5,
+    "food_uptime_percent": 68,
+    "safety_protocol_notes": "Early game survival was prioritized. Shelter was built just as night fell. Avoided poison bees in the abandoned structure.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "00:49 - Leonard Skynyrd mustache comparison",
+      "14:52 - Explaining the fine wood trick with falling logs",
+      "28:22 - Successfully sleeping through the first night"
+    ],
+    "strategic_growth_goal": "Transition from explaining 'game mechanics' to telling the 'story of survival' to better align with the Grandpa Bud brand."
+  }
+}
