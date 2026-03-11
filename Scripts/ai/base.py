@@ -22,5 +22,5 @@ class BaseAIModel(ABC):
         pass
 
     @abstractmethod
-    def generate(self, prompt: str, system_instruction: str = "", temperature: float = 0.1) -> ModelResult:
+    def generate(self, prompt: str, system_instruction: str = "", temperature: float = 0.1, response_mime_type: str = "text/plain", response_schema: dict | None = None) -> ModelResult:
         pass

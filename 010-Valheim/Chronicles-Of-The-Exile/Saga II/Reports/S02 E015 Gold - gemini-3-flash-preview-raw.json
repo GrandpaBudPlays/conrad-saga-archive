@@ -1,0 +1,105 @@
+{
+  "summary_table": "This episode covers the successful hunt of a forest troll, the completion of a massive copper vein, and the strategic upgrading of the forge and bronze weaponry.",
+  "editors_notes": "The core appeal of this session is the 'Grandpa' authenticity\u2014specifically the moment he realizes he already owns the troll cape he was hunting for. We should lean into the 'honest grind' narrative. The strategic focus is on the transition from raw mining to the first major bronze upgrades (Mace Level 3) in preparation for the Swamp biome.",
+  "ledger_entry": "Gather 'round the fire, for the Black Forest is a fickle teacher. Today, I set out with a simple plan: clear the inventory and get to work. But the Norns had a blue-skinned giant waiting in the shadows. We danced with that troll until my quiver ran dry, forcing me to fletch wood arrows on the fly just to finish the job. There's a certain irony in hunting a beast for its hide only to realize your old bones are already wearing the very thing you're looking for\u2014aye, memory is the first thing to go in these woods. We spent the rest of the sun's light pulling copper from the belly of the earth. It\u2019s a heavy, honest labor, hauling those stones back to the smelter while the Greydwarfs throw pebbles like petulant children. By the time the moon rose, we had the forge humming. With a bit of fine wood and some fresh bronze, we\u2019ve fashioned a mace that\u2019ll make the draugr think twice. The garden is planted, the hearth is warm, and though the work is slow, the progress is steady. That's the way of the exile.",
+  "type_a_shorts": [
+    {
+      "time": "07:05",
+      "description": "Grandpa Lesson: 'Memory is the first to go' - Realizing he already has the troll cape he was hunting for."
+    },
+    {
+      "time": "17:52",
+      "description": "Grandpa Lesson: Using dirt as temporary scaffolding instead of wasting wood."
+    },
+    {
+      "time": "50:50",
+      "description": "Grandpa Lesson: The 'Shift-Click' trick for splitting stacks quickly."
+    }
+  ],
+  "type_b_clips": [
+    {
+      "time": "01:40",
+      "description": "The Troll Hunt: A narrative beat showing the struggle of running out of fire arrows and adapting mid-fight."
+    },
+    {
+      "time": "39:20",
+      "description": "The Logistics of Copper: Rationale for building stairs and paths to move heavy ore efficiently."
+    },
+    {
+      "time": "1:05:43",
+      "description": "Forge Progression: Strategic walkthrough of upgrading the forge with anvils and a cooler."
+    }
+  ],
+  "type_c_saga": [
+    {
+      "time": "23:31",
+      "description": "Atmospheric: Mining by torchlight during a thunderstorm."
+    },
+    {
+      "time": "56:42",
+      "description": "Combat: A quick montage of clearing Greydwarfs while logging for coal."
+    }
+  ],
+  "youtube_chapters": [
+    {
+      "time": "00:00",
+      "title": "00:00 Intro & Inventory Cleanup"
+    },
+    {
+      "time": "01:40",
+      "title": "A Surprise Troll Encounter"
+    },
+    {
+      "time": "05:11",
+      "title": "Running Out of Arrows"
+    },
+    {
+      "time": "06:48",
+      "title": "The Troll Cape Realization"
+    },
+    {
+      "time": "09:39",
+      "title": "Copper Mining Strategy"
+    },
+    {
+      "time": "17:52",
+      "title": "Dirt Scaffolding Technique"
+    },
+    {
+      "time": "23:31",
+      "title": "Night Mining & Torches"
+    },
+    {
+      "time": "30:51",
+      "title": "Building a Pit Exit"
+    },
+    {
+      "time": "39:20",
+      "title": "Hauling the Heavy Ore"
+    },
+    {
+      "time": "51:33",
+      "title": "Lost in the Dark"
+    },
+    {
+      "time": "1:00:08",
+      "title": "Smelting & Bronze Crafting"
+    },
+    {
+      "time": "1:05:43",
+      "title": "Forge Upgrades: Anvils"
+    },
+    {
+      "time": "1:08:41",
+      "title": "Tending the Carrot Garden"
+    },
+    {
+      "time": "1:16:20",
+      "title": "Gathering Fine Wood"
+    },
+    {
+      "time": "1:26:55",
+      "title": "Final Forge Upgrades & Sign-off"
+    }
+  ]
+}

@@ -13,3 +13,4 @@ class AuditWorkflow(Workflow):
         FeedbackWorkflow().execute(session, model)
         # Run Gold
         GoldWorkflow().execute(session, model)
+        print("Audit workflow completed: Feedback and Gold reports generated.")

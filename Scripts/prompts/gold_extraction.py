@@ -30,9 +30,27 @@ CATEGORIES:
   3. Chapters must be listed in chronological order.
   4. Chapters must be at least 10 seconds apart.
   5. Format timestamps as MM:SS (e.g., "05:12") or HH:MM:SS (e.g., "01:23:45"). NEVER use fractions or decimals (e.g., "05:12.500").
-  6. Each chapter must be on its own line in the format: "[Timestamp] [Title]" (e.g., "05:12 Building the base").
 
-OUTPUT: Summary Table, Editor's Notes, Ledger Entry, and YouTube Chapter list.
+OUTPUT INSTRUCTIONS:
+You must return a raw JSON object matching this structure:
+{{
+  "summary_table": "A brief overview of the episode's highlights.",
+  "editors_notes": "Your strategic notes and rationale.",
+  "ledger_entry": "A 150-300 word creative summary of the episode in the style of Grandpa Bud narrating a campfire story.",
+  "type_a_shorts": [
+    {{"time": "MM:SS", "description": "Short description of the hook/lesson"}}
+  ],
+  "type_b_clips": [
+    {{"time": "MM:SS", "description": "Narrative beat / rationale"}}
+  ],
+  "type_c_saga": [
+    {{"time": "MM:SS", "description": "Theme / montage description"}}
+  ],
+  "youtube_chapters": [
+    {{"time": "MM:SS", "title": "Chapter title"}}
+  ]
+}}
+
 TRANSCRIPT:
 {transcript}""",
             temperature=0.1,
@@ -42,6 +60,7 @@ TRANSCRIPT:
                 'gpt-4o-mini': 0.25,
             }
         )
+
     
     def build_gold_prompt(
         self,

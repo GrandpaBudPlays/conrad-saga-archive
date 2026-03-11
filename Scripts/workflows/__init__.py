@@ -3,12 +3,14 @@ from workflows.feedback import FeedbackWorkflow
 from workflows.gold import GoldWorkflow
 from workflows.audit import AuditWorkflow
 from workflows.describe import DescribeWorkflow
+from workflows.draft import DraftWorkflow
 
 WORKFLOWS = {
     "Feedback": FeedbackWorkflow,
     "Gold": GoldWorkflow,
     "Audit": AuditWorkflow,
-    "Describe": DescribeWorkflow
+    "Describe": DescribeWorkflow,
+    "Draft": DraftWorkflow
 }
 
 def get_workflow(operation_name: str) -> Workflow:

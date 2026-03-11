@@ -141,30 +141,24 @@ review the transcript section of EP045 and validate it against the timestamp in 
 
 You are an expert Python automation architect. Your task is to design a modular, maintainable workflow that implements a 3‑pass text‑generation pipeline for processing livestream transcripts into branded YouTube descriptions.
 
-The workflow must support the following three passes:
-
-PASS 1 — EXTRACTION & STRUCTURING
-- Input: raw transcript text.
-- Output: a structured summary containing:
-  - Episode highlights
-  - Key emotional beats
-  - Strategic insights
-  - Notable moments or quotes
-  - Relevant keywords
-  - A one‑sentence core theme
-- Purpose: isolate comprehension and event extraction from writing.
-
-PASS 2 — DESCRIPTION DRAFT (UNBRANDED)
-- Input: structured summary from Pass 1.
-- Output: a clean, narrative, unbranded YouTube description (150–300 words).
+# Project Goal
+Build a new workflow for the Brand project.
+Make it a clean, testable 3‑pass analysis workflow.
+The workflow must run three sequential passes:
+1. Extraction
+- Transcript review consisting of key moments timestamps and brief description
+- Optional second Extraction that has input hints for SEO and Branding
+- append second extraction output with with first extraction output
+- Option to stop here for human review
+2. Interpretation 
+- Pass Extraction output to AI 
+- output: a clean, narrative, unbranded YouTube description (150–300 words)
 - Requirements:
-  - Strong hook in first 1–2 sentences
-  - Narrative clarity
-  - Emotional and event‑driven flow
+  - Strong hook in the first 1–2 sentences
+  - Narrative clarity and emotional flow
   - Natural keyword integration
 - Purpose: produce a polished draft without applying brand voice.
-
-PASS 3 — BRANDING LAYER (TACTICIAN VOICE)
+3. BRANDING LAYER (TACTICIAN VOICE)
 - Input: unbranded description from Pass 2.
 - Output: a fully branded version written in the “Tactician” persona.
 - Brand voice characteristics:
@@ -173,21 +167,52 @@ PASS 3 — BRANDING LAYER (TACTICIAN VOICE)
   - Narrative weight and clarity
   - No slang or chaotic streamer energy
 - Purpose: apply consistent branding as a final transformation step.
-
-DESIGN GOALS:
-- The workflow should be modular, allowing each pass to be run independently or chained.
-- Each pass should be encapsulated in its own function, class, or module.
-- The system should allow easy swapping or updating of prompts.
-- The architecture should support future expansion (e.g., optional SEO pass, metadata generation).
-- The workflow should be able to run locally or integrate with an existing automation pipeline.
-- Leave room for you to adapt the design to the current architecture, including how prompts are stored, how API calls are made, and how data flows between passes.
-
-DELIVERABLE:
-Propose a Python workflow design that includes:
-- High‑level architecture
-- Module/function layout
-- Data flow between passes
-- Any recommended abstractions or helper utilities
-- Notes on extensibility and maintainability
+4. OPTIONAL PASS 4 — SEO OPTIMIZATION
+- Input: branded description from Pass 3.
+- Output: an SEO‑enhanced version of the description.
+- Requirements:
+  - Preserve tone and meaning
+  - Improve discoverability through keyword refinement
+  - Add optional metadata (tags, suggested title variants)
+- Purpose: provide a modular SEO layer that can be enabled or disabled.
 
 If any assumptions about the environment, API usage, or data formats are unclear, ask clarifying questions before finalizing the design.
+Review this request, describe any pitfalls for our discussion.
+
+
+## Next Stream Prompt
+
+Write a Grandapa branded YouTube description and an Intro for Conrads return to the Mountains. Focus on the Goals for his next trip. Use Grandapas voice for the description. Use Conrads voice for the Intro.
+
+Last chapter began with the "Screaming Snow" run—a heavy-haul transport of 90 silver ore from the mountain peak down to the shore and then on to Shadow-Garth Forge. After pushing the Cart over the cliff Conrad accedentially slid down after it. The mountain was a bit too steep and Conrad had an unfortunate meeting with the Valkyrie. Back at Olthala Conrad doned his old armor, grabed a weapon and ran back to recover his haul. A long battle with the steep mountain side and soon he found  he had landed infront of his next goal, a frozen cavern. First things first, he returns the frozen tears to Shadow Garth Forge and heads back to explore the cavern. Inside he discovers both forms of the wolf kind and the secrents to the Fenris Armor set and Flesh Rippers. 
+
+Now Conrad ust return to the Mountains, search out more of the Wolf Kin Caverns and gather the items for his new armor and weapons.
+
+Goals: 1. Return to the mountains, 2. Locate another Frozen Cavern 3. Gather materials for Fenris Armor and Fleshrippers.
+
+### YouTube Video Description
+
+#### Title: Claws and Caves: Conrad’s Frosty Revenge! | Conrad's Exile (Saga IV Ep. 54) | Grandpa Plays Valheim
+The mead is cold. The hearth is warm. The Saga continues. 
+
+Welcome back to the longhouse.
+
+The mountain is a cruel teacher. One minute I have silver. The next I am sliding down a cliffside. Then the Valkyrie came. She was not happy to see me.
+
+The All-Father’s peaks are no place for a clumsy soul. One moment, Conrad was guiding ca cart full of Frozen-Tears toward the safety of the shore; the next, the "Screaming Snow" became his anthem as he tumbled down the cliffs with a screeching Valkyrie at his heels. It was a long, cold walk in old rags to reclaim that haul, but the mountain always offers a trade. In the shadow of the crags, he stumbled upon a Frozen Cavern—a place of ice and ancient secrets.
+
+Now, Conrad must climb back into the biting wind to hunt the Wolf Kin within those frozen depths. He seeks the thick Fenris Hair and the sharp Claws needed to forge the Fenris Armor and those wicked Flesh Rippers at the Shadow-Garth Forge. If he can survive the stalkers in the dark, he’ll trade his heavy steps for the speed of the wolf and the bite of a brawler.
+
+The mead is cold. The hearth is warm. Our saga grows. Have a good one.
+
+
+
+### Video Intro Script: Conrad’s Perspective
+
+The mead is cold. The hearth is warm. Our saga grows.
+
+The mountain is a cruel teacher. One minute I have Frozen_tears. The next I am sliding down a cliffside. Then the Valkyrie came. She was not happy to see me.
+
+I still feel the chill of that mortal wound in my bones. But I found something in the dark. Amongst the ice and the smell of wet fur, I found the secrets of the wolf-kin. I saw the carvings. I felt the edge of those claws.
+
+I am not going back just for rocks this time. I am returning for the pelt and the bone. I need those caves. I need the speed of the Fenris. Shadow-Garth Forge is hungry—it is time we craft something that lets me fight back. One more climb. One more cave. Let’s see if the wolves are ready for me."

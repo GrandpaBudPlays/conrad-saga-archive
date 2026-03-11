@@ -8,7 +8,6 @@ from dataclasses import dataclass
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPT_DIR)
 VALHEIM_ROOT = os.path.join(ROOT_DIR, "010-Valheim", "Chronicles-Of-The-Exile")
-TEMPLATE_PATH = os.path.join(ROOT_DIR, "010-Valheim", "010-Templates", "Feedback Template.md")
 
 
 DEFAULT_BIOMES = {
@@ -30,7 +29,6 @@ class SessionData:
     saga: str
     biome: str
     transcript: str
-    template: str
     lexicon: str
     duration: float
 
@@ -101,12 +99,6 @@ def read_file(path: str) -> str:
         return f.read()
 
 
-def get_template_data() -> str:
-    data = read_file(TEMPLATE_PATH)
-    if not data:
-        print(f"CRITICAL: Template missing at {TEMPLATE_PATH}. Cannot proceed without it.")
-        sys.exit(1)
-    return data
 
 
 def resolve_lexicon_data(season_str: str, episode_str: str) -> str:
@@ -163,7 +155,6 @@ def prepare_session_assets(season: str, episode: str) -> SessionData:
         print(f"Skipping {target_filename}: No Audio detected.")
         sys.exit(0)
 
-    template_data = get_template_data()
     lexicon_data = resolve_lexicon_data(season, episode)
     actual_duration = get_video_duration(transcript_data)
 
@@ -176,13 +167,12 @@ def prepare_session_assets(season: str, episode: str) -> SessionData:
         saga=str(file_info['saga']),
         biome=str(file_info['biome']),
         transcript=transcript_data,
-        template=template_data,
         lexicon=lexicon_data,
         duration=actual_duration
     )
 
 
-def save_audit_report(transcript_path: str, content: str, report_type: str, model_suffix: str | None = None):
+def save_audit_report(transcript_path: str, content: str, report_type: str, model_suffix: str | None = None, extension: str = ".md"):
     parent_dir = os.path.dirname(transcript_path)
     report_dir = os.path.join(parent_dir, "Reports")
 
@@ -191,9 +181,9 @@ def save_audit_report(transcript_path: str, content: str, report_type: str, mode
 
     base_name = os.path.basename(transcript_path).replace(" Transcript.md", "")
     if model_suffix:
-        filename = f"{base_name} {report_type} - {model_suffix}.md"
+        filename = f"{base_name} {report_type} - {model_suffix}{extension}"
     else:
-        filename = f"{base_name} {report_type}.md"
+        filename = f"{base_name} {report_type}{extension}"
     save_path = os.path.join(report_dir, filename)
 
     with open(save_path, 'w', encoding='utf-8') as f:
@@ -203,25 +193,30 @@ def save_audit_report(transcript_path: str, content: str, report_type: str, mode
 
 def parse_cli_args() -> tuple[str, str, str]:
     if len(sys.argv) < 3:
-        print("Usage: python audit_pipeline.py <Operation> <Season> <Episode>")
-        print("Operations: Audit, Feedback, Gold, Describe")
-        print("Example: python audit_pipeline.py Feedback S01 E005")
+        print("Usage: python Brand.py <Operation> <Season> <Episode>")
+        print("Operations: Audit, Feedback, Gold, Describe, Draft")
+        print("Example: python Brand.py Feedback S01 E005")
         sys.exit(1)
     
-    valid_operations = ["Audit", "Feedback", "Gold", "Describe"]
+    valid_operations = ["Audit", "Feedback", "Gold", "Describe", "Draft"]
     first_arg = sys.argv[1].capitalize()
     
     if first_arg in valid_operations:
         if len(sys.argv) < 4:
-            print("Usage: python audit_pipeline.py <Operation> <Season> <Episode>")
+            print("Usage: python Brand.py <Operation> <Season> <Episode> [--continue]")
             sys.exit(1)
         operation = first_arg
         season = sys.argv[2].upper()
         episode = sys.argv[3].upper()
+        
+        # Super simple check for continue flag
+        if "--continue" in sys.argv:
+            import os
+            os.environ["DRAFT_PASS"] = "2" 
     else:
         operation = "Audit"
         season = sys.argv[1].upper()
         episode = sys.argv[2].upper()
-        print(f"Warning: Deprecated argument order. Please use: python audit_pipeline.py {operation} {season} {episode}")
+        print(f"Warning: Deprecated argument order. Please use: python Brand.py {operation} {season} {episode}")
         
     return season, episode, operation

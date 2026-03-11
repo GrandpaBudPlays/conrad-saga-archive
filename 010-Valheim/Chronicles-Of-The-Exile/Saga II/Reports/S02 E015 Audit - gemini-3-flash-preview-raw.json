@@ -1,0 +1,81 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 4,
+        "seconds_per_count": 1338.25
+      },
+      {
+        "word": "Um",
+        "count": 1,
+        "seconds_per_count": 5353.0
+      },
+      {
+        "word": "So",
+        "count": 35,
+        "seconds_per_count": 152.94
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "I think",
+        "count": 12
+      },
+      {
+        "word": "You know",
+        "count": 3
+      }
+    ],
+    "vocal_presence_wpm": 29,
+    "technical_quality_notes": "The audio is as clear as a mountain spring, Bud. You had a bit of a tickle in your throat around the hour mark, but it just made you sound more like a seasoned traveler. The long silences while you were swinging that pickaxe felt like honest work, though we might want to hum a tune next time.",
+    "thematic_silence": [
+      "08:42 - Deep focus while clearing the rock shelf",
+      "14:54 - The quiet trek back to the base with a heavy pack",
+      "46:00 - A moment of frustration while trying to reach the wall"
+    ]
+  },
+  "creative_director": {
+    "saga_terms_count": 41,
+    "technical_terms_count": 15,
+    "saturation_ratio": "41:15",
+    "helpful_insights_count": 5,
+    "persona_breaks_count": 4,
+    "refinements": [
+      {
+        "original": "fire dot",
+        "correction": "the lingering sting of the embers"
+      },
+      {
+        "original": "AC",
+        "correction": "protection from my thick hide"
+      },
+      {
+        "original": "shift-click",
+        "correction": "a quick snap of the fingers"
+      }
+    ],
+    "modernism_audit": [
+      "grind",
+      "inventory",
+      "streaming",
+      "recording",
+      "chat",
+      "debuff"
+    ],
+    "grandpa_wisdom_count": 6,
+    "meta_speech_breaks_count": 3
+  },
+  "strategic_analyst": {
+    "rested_uptime_percent": 85,
+    "food_uptime_percent": 72,
+    "safety_protocol_notes": "You're keeping your spirits high with that rested bonus, which is wise for an old soul. You did let your belly rumble a bit too long while hauling that tin, and a hungry exile is a slow exile. Watch your footing on those ladders; a fall at our age is no small matter.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "00:01:40 - The sudden realization that a troll was knocking at the door",
+      "00:50:49 - A very helpful lesson on how to sort your packs quickly",
+      "01:07:25 - A wonderful moment of feeling the rain even through the screen"
+    ],
+    "strategic_growth_goal": "Transitioning from the copper mines of the forest to the damp shadows of the swamp."
+  }
+}

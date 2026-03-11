@@ -1,0 +1,89 @@
+{
+  "events": [
+    {
+      "time": "01:22",
+      "fact": "The player creates a character named Conrad.",
+      "importance": "medium"
+    },
+    {
+      "time": "01:52",
+      "fact": "A new world named Terra Conrad is generated using a random seed.",
+      "importance": "medium"
+    },
+    {
+      "time": "04:00",
+      "fact": "A Valkyrie carries the character into the world of Valheim.",
+      "importance": "high"
+    },
+    {
+      "time": "04:42",
+      "fact": "The character arrives in the Meadows biome.",
+      "importance": "high"
+    },
+    {
+      "time": "05:04",
+      "fact": "The character encounters Hugin the raven for the first time.",
+      "importance": "medium"
+    },
+    {
+      "time": "05:31",
+      "fact": "The character discovers a Vegvisir stone indicating the location of the first boss, Eikthyr.",
+      "importance": "high"
+    },
+    {
+      "time": "07:02",
+      "fact": "The character crafts a wooden club.",
+      "importance": "medium"
+    },
+    {
+      "time": "07:47",
+      "fact": "The character kills a boar and collects leather scraps.",
+      "importance": "medium"
+    },
+    {
+      "time": "10:31",
+      "fact": "The character crafts a stone axe.",
+      "importance": "high"
+    },
+    {
+      "time": "13:54",
+      "fact": "The character discovers Eikthyr's sacrificial altar.",
+      "importance": "high"
+    },
+    {
+      "time": "16:16",
+      "fact": "The character kills a Greyling and collects resin.",
+      "importance": "low"
+    },
+    {
+      "time": "17:13",
+      "fact": "The character crafts a hammer, unlocking building capabilities.",
+      "importance": "high"
+    },
+    {
+      "time": "17:41",
+      "fact": "The character builds a workbench.",
+      "importance": "high"
+    },
+    {
+      "time": "22:42",
+      "fact": "The character builds a campfire to deter enemies and provide warmth.",
+      "importance": "medium"
+    },
+    {
+      "time": "24:48",
+      "fact": "The character builds a bed inside a basic wooden structure.",
+      "importance": "high"
+    },
+    {
+      "time": "28:14",
+      "fact": "The character sets a spawn point and sleeps through the first night.",
+      "importance": "high"
+    },
+    {
+      "time": "28:32",
+      "fact": "The character gains the Rested buff for the first time.",
+      "importance": "medium"
+    }
+  ]
+}

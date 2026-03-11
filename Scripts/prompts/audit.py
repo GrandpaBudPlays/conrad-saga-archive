@@ -26,12 +26,47 @@ TASKS:
 2. Audit: Modernisms and Lexicon Saturation (Lexicon Context: {lexicon_context}).
 3. Roles: Provide insights from Production Assistant, Creative Director, and Strategic Analyst.
 
-OUTPUT: Markdown code block following the standard audit template.
-TRANSCRIPT:
-{transcript}
+OUTPUT INSTRUCTIONS:
+You must return a raw JSON object matching this structure:
+{{
+  "production_assistant": {{
+    "filler_words": [
+      {{"word": "Uh", "count": 0, "seconds_per_count": 0.0}},
+      {{"word": "Um", "count": 0, "seconds_per_count": 0.0}},
+      {{"word": "So", "count": 0, "seconds_per_count": 0.0}}
+    ],
+    "other_filler": [
+      {{"word": "word", "count": 0}}
+    ],
+    "vocal_presence_wpm": 0,
+    "technical_quality_notes": "...",
+    "thematic_silence": ["MM:SS - Description"]
+  }},
+  "creative_director": {{
+    "saga_terms_count": 0,
+    "technical_terms_count": 0,
+    "saturation_ratio": "0:0",
+    "helpful_insights_count": 0,
+    "persona_breaks_count": 0,
+    "refinements": [
+      {{"original": "...", "correction": "..."}}
+    ],
+    "modernism_audit": ["list", "of", "jargon"],
+    "grandpa_wisdom_count": 0,
+    "meta_speech_breaks_count": 0
+  }},
+  "strategic_analyst": {{
+    "rested_uptime_percent": 0,
+    "food_uptime_percent": 0,
+    "safety_protocol_notes": "...",
+    "session_goal_status": "Met/Unmet",
+    "highlight_gold": ["MM:SS - Description"],
+    "strategic_growth_goal": "..."
+  }}
+}}
 
-TEMPLATE:
-{template}""",
+TRANSCRIPT:
+{transcript}""",
             temperature=0.1,
             temperature_overrides={
                 'gemini-3-flash-preview': 0.1,
@@ -46,14 +81,12 @@ TEMPLATE:
         duration: str,
         biome: str,
         lexicon_context: str,
-        transcript: str,
-        template: str
+        transcript: str
     ) -> str:
         return self.build_prompt(
             episode_id=episode_id,
             duration=duration,
             biome=biome,
             lexicon_context=lexicon_context if lexicon_context else "N/A for early episodes",
-            transcript=transcript,
-            template=template
+            transcript=transcript
         )

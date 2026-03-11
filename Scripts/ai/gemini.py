@@ -34,25 +34,24 @@ class GeminiModel(BaseAIModel):
     def name(self) -> str:
         return self._model_name
 
-    def generate(self, prompt: str, system_instruction: str = "", temperature: float = 0.1) -> ModelResult:
-        config = self._ensure_timeout_config(
-            types.GenerateContentConfig(
-                system_instruction=system_instruction,
-                temperature=temperature
-            )
+    def generate(self, prompt: str, system_instruction: str = "", temperature: float = 0.1, response_mime_type: str = "text/plain", response_schema: dict | None = None) -> ModelResult:
+        config = types.GenerateContentConfig(
+            system_instruction=system_instruction,
+            temperature=temperature,
+            response_mime_type=response_mime_type
         )
+        if response_schema:
+            config.response_schema = response_schema
+            
+        config = self._ensure_timeout_config(config)
         return self._generate_with_retry(config, prompt)
 
     def _ensure_timeout_config(self, config: types.GenerateContentConfig) -> types.GenerateContentConfig:
         current_options = getattr(config, 'http_options', None)
-        if current_options and hasattr(current_options, 'timeout') and current_options.timeout is not None:
+        if current_options and getattr(current_options, 'timeout', None) is not None:
             return config
 
-        if current_options is None:
-            config.http_options = types.HttpOptions(timeout=self.DEFAULT_TIMEOUT)
-        else:
-            config.http_options.timeout = self.DEFAULT_TIMEOUT
-            
+        config.http_options = types.HttpOptions(timeout=self.DEFAULT_TIMEOUT)
         return config
 
     def _calculate_cost(self, response, model_name: str) -> tuple:
