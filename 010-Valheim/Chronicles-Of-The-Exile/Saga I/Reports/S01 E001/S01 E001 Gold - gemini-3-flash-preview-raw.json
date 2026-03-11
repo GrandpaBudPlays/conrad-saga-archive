@@ -1,105 +1,85 @@
 {
-  "summary_table": "Grandpa Bud introduces Conrad the Viking, landing in the Meadows to survive his first 24 hours. The episode covers character creation, basic gathering, the mechanics of Viking food, and the frantic construction of a first shelter before the Greylings arrive at nightfall.",
-  "editors_notes": "The 'Grandpa' persona is a goldmine for the 'Cozy Survival' niche. Strategic focus should remain on the 'Grandpa Lessons'\u2014breaking down complex UI like the food forks into simple wisdom. The pacing is deliberate, which appeals to an older or more relaxed demographic. We should lean into the 'Conrad' narrative as a recurring character in this saga.",
-  "ledger_entry": "Gather 'round the fire, exiles. Today we saw a new soul named Conrad\u2014a man with a mustache like Leonard Skynyrd and hair as red as a fox's tail\u2014carried into the tenth world by the Valkyrie. He landed soft in the Meadows, a place that looks peaceful but hides teeth in the tall grass. Grandpa Bud showed him the way of the land: how to listen to the raven Hugin without letting him chatter your ear off, and how to tell the difference between a berry that fills your belly and a mushroom that steels your heart. As the sun dipped low and the air turned cold, Conrad didn't panic. He hammered together a few scraps of wood and a roof just wide enough to keep the rain off his nose. He learned the most important lesson of all: a Viking is only as good as his rest. He slept through the first night, and when the sun rose, he was still standing. That's a win in my book.",
+  "summary_table": "Grandpa begins a fresh Valheim journey, guiding viewers through character creation, the mechanics of the day/night cycle, and the essential 'Day 1' survival loop. The episode culminates in the construction of a first shelter and an explanation of the vital 'Rested' buff.",
+  "editors_notes": "The content is highly educational, making it perfect for 'New Player Guide' segments. Grandpa's calm delivery and clear explanations of the UI (like the food fork colors) are the strongest hooks. Focus on the 'Fine Wood' trick and the 'Rested' buff explanation for high-value clips.",
+  "ledger_entry": "A new soul named Conrad, a red-headed warrior with a mustache of legend, has been dropped into the tenth world by the Valkyries. Guided by the raven Hugin, he spent his first day learning the language of the Meadows\u2014the difference between a flint stone and a beach branch. He braved the grunts of boars and the shadows of Greylings to secure his first meal and a roof over his head. As the sun dipped below the horizon, Conrad found warmth by the hearth, securing his place in this wild land and preparing for the trials of the Forsaken that lie ahead.",
   "type_a_shorts": [
     {
+      "time": "02:50",
+      "description": "The Valheim Clock: Explaining the 20-minute day and 10-minute night cycle."
+    },
+    {
       "time": "09:25",
-      "description": "The Three Forks Lesson: Explaining Stamina vs. Health food colors simply."
+      "description": "The Fork Secret: How to read the yellow, white, and red food icons for survival."
     },
     {
       "time": "14:55",
-      "description": "The Fine Wood Trick: How to get advanced wood without a bronze axe."
-    },
-    {
-      "time": "28:45",
-      "description": "The Rested Rule: Why you never leave home without a roof and a fire."
+      "description": "The Fine Wood Hack: How to get advanced materials early by rolling logs."
     }
   ],
   "type_b_clips": [
     {
-      "time": "00:45",
-      "description": "The Birth of Conrad: Character creation and the philosophy of a good mustache."
+      "time": "06:35",
+      "description": "First Hunt & Crafting: A narrative beat showing the transition from defenseless to armed with a club and boar leather."
     },
     {
-      "time": "23:45",
-      "description": "The First Shelter: A step-by-step guide to surviving the first night in the Meadows."
+      "time": "28:45",
+      "description": "The Rested Buff Rationale: A strategic breakdown of why you should never leave home without being 'Rested'."
     }
   ],
-  "type_c_saga": [
+  "type_c_arc": [
     {
-      "time": "04:08",
-      "description": "The Valkyrie's Flight: Atmospheric montage of the arrival in Valheim."
-    },
-    {
-      "time": "11:20",
-      "description": "The First Harvest: A rhythmic montage of gathering flint, wood, and stone."
+      "time": "22:35",
+      "description": "Race Against the Sunset: A montage of gathering wood and frantic building as the night-music begins and Greylings emerge."
     }
   ],
   "youtube_chapters": [
     {
       "time": "00:00",
-      "title": "00:00 Intro"
-    },
-    {
-      "time": "00:45",
-      "title": "Creating Conrad the Viking"
+      "title": "00:00 Intro & Character Creation"
     },
     {
       "time": "01:50",
-      "title": "Understanding World Seeds"
+      "title": "World Seeds & Survival Basics"
     },
     {
-      "time": "04:08",
-      "title": "Landing in the Meadows"
+      "time": "04:05",
+      "title": "Arriving in the Meadows"
     },
     {
-      "time": "05:02",
-      "title": "Meeting Hugin the Guide"
+      "time": "05:15",
+      "title": "Meeting Hugin & First Resources"
     },
     {
       "time": "06:35",
-      "title": "Crafting Your First Weapon"
+      "title": "Crafting a Club & Hunting Boars"
     },
     {
       "time": "08:35",
-      "title": "The Three Colors of Food"
+      "title": "Food Mechanics: Stamina vs. Health"
     },
     {
       "time": "10:10",
-      "title": "Finding Flint and Better Tools"
+      "title": "Finding Flint & Crafting an Axe"
     },
     {
-      "time": "13:50",
-      "title": "The Altar of Eikthyr"
+      "time": "13:45",
+      "title": "The Eikthyr Altar & Tree Types"
     },
     {
-      "time": "14:25",
-      "title": "The Fine Wood Secret"
-    },
-    {
-      "time": "17:12",
+      "time": "17:10",
       "title": "Building the Workbench"
     },
     {
       "time": "19:45",
-      "title": "Viking Ship Burials"
+      "title": "Finding Buried Treasure Sites"
     },
     {
-      "time": "22:15",
-      "title": "The Beehive Warning"
-    },
-    {
-      "time": "23:45",
-      "title": "Building Your First Shelter"
+      "time": "22:35",
+      "title": "Constructing the First Shelter"
     },
     {
       "time": "28:15",
-      "title": "The Power of the Rested Buff"
-    },
-    {
-      "time": "29:45",
-      "title": "Surviving Day One"
+      "title": "The Rested Buff & Surviving Day 1"
     }
   ]
 }
