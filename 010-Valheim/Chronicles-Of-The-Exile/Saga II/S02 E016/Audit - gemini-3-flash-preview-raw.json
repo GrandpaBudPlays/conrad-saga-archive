@@ -1,0 +1,85 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 3,
+        "seconds_per_count": 1360.67
+      },
+      {
+        "word": "So",
+        "count": 12,
+        "seconds_per_count": 340.17
+      },
+      {
+        "word": "I think",
+        "count": 15,
+        "seconds_per_count": 272.13
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "I guess",
+        "count": 7
+      },
+      {
+        "word": "Probably",
+        "count": 6
+      }
+    ],
+    "vocal_presence_wpm": 26,
+    "technical_quality_notes": "Audio contains several instances of coughing and throat clearing (0:13:44, 0:14:02). A notable persona break occurs at 0:32:42 when an external smart device (Alexa) interrupts the recording.",
+    "thematic_silence": [
+      "00:44 - 01:01 Long silence during resource gathering",
+      "05:53 - 06:04 Silence while waiting for smelter",
+      "12:09 - 12:28 Extended music-only transition"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 0,
+    "technical_terms_count": 52,
+    "saturation_ratio": "0:52",
+    "helpful_insights_count": 4,
+    "persona_breaks_count": 3,
+    "refinements": [
+      {
+        "original": "upgrading our bronze items",
+        "correction": "honing our bronze relics"
+      },
+      {
+        "original": "collect a little bit more tin",
+        "correction": "gather more stone-marrow"
+      },
+      {
+        "original": "troll cave",
+        "correction": "den of the shadow in the trees"
+      },
+      {
+        "original": "black forest",
+        "correction": "the shadow-garth"
+      }
+    ],
+    "modernism_audit": [
+      "dodge rolls",
+      "wet debuff",
+      "mic",
+      "one star",
+      "biome",
+      "notification",
+      "video"
+    ],
+    "brand_wisdom_count": 2,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 45,
+    "resource_uptime_percent": 70,
+    "safety_protocol_notes": "Critical failure in the 'Shieldmaiden\u2019s Rule'. The speaker entered a troll fight without eating (0:14:02) and without a rested bonus, leading to three consecutive deaths. Preparation was consistently reactive rather than proactive.",
+    "session_goal_status": "Partially Met",
+    "highlight_gold": [
+      "24:12 - Clear explanation of the parry mechanic and combo timing",
+      "27:08 - Helpful guidance on the dangers of the mountain freezing mechanic"
+    ],
+    "strategic_growth_goal": "Implement the 'Ritual of Readiness' more strictly to avoid the 'death loop' seen in this session, ensuring food and rest are active before leaving Othala."
+  }
+}

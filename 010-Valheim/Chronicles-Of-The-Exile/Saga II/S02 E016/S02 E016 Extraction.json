@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "time": "00:04",
+      "fact": "The player begins a session in the Black Forest with the goal of upgrading bronze items and collecting tin.",
+      "importance": "medium"
+    },
+    {
+      "time": "01:26",
+      "fact": "The player travels to a secondary base to collect honey after running out.",
+      "importance": "low"
+    },
+    {
+      "time": "10:13",
+      "fact": "The player discovers a troll cave in the Black Forest.",
+      "importance": "medium"
+    },
+    {
+      "time": "15:40",
+      "fact": "The player is killed by a one-star troll after failing a dodge roll.",
+      "importance": "high"
+    },
+    {
+      "time": "18:06",
+      "fact": "The player dies a second time while attempting to retrieve their corpse from the troll cave.",
+      "importance": "medium"
+    },
+    {
+      "time": "20:24",
+      "fact": "The player dies a third time following an encounter with a bear.",
+      "importance": "medium"
+    },
+    {
+      "time": "23:52",
+      "fact": "The player successfully kills a bear using parry and combo attacks.",
+      "importance": "medium"
+    },
+    {
+      "time": "27:00",
+      "fact": "The player briefly enters the Mountain biome but retreats due to the freezing debuff.",
+      "importance": "low"
+    },
+    {
+      "time": "35:37",
+      "fact": "A troll carrying a tree trunk attacks the player's Black Forest base.",
+      "importance": "high"
+    },
+    {
+      "time": "37:16",
+      "fact": "The player dies a fourth time during the troll attack on the base.",
+      "importance": "high"
+    },
+    {
+      "time": "40:28",
+      "fact": "The player kills the log-swinging troll and collects troll hide.",
+      "importance": "high"
+    },
+    {
+      "time": "40:44",
+      "fact": "The player rebuilds the crafting station, charcoal kiln, and storage destroyed by the troll.",
+      "importance": "medium"
+    },
+    {
+      "time": "45:14",
+      "fact": "The player uses a portal to return to the main home base.",
+      "importance": "low"
+    },
+    {
+      "time": "47:10",
+      "fact": "The player harvests carrots and plants 12 carrot seeds to increase crop yield.",
+      "importance": "medium"
+    },
+    {
+      "time": "49:20",
+      "fact": "The player slaughters several pigs for meat, leaving three for breeding.",
+      "importance": "low"
+    },
+    {
+      "time": "51:34",
+      "fact": "The player upgrades the hoe, hammer, and crafts a troll skin cape.",
+      "importance": "medium"
+    },
+    {
+      "time": "1:00:03",
+      "fact": "The player crafts 10 units of bronze at the forge.",
+      "importance": "medium"
+    },
+    {
+      "time": "1:06:49",
+      "fact": "The player upgrades the bronze buckler to maximum quality.",
+      "importance": "high"
+    }
+  ]
+}
