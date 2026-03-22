@@ -1,0 +1,87 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 28,
+        "seconds_per_count": 64.89
+      },
+      {
+        "word": "Um",
+        "count": 7,
+        "seconds_per_count": 259.57
+      },
+      {
+        "word": "So",
+        "count": 22,
+        "seconds_per_count": 82.59
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Basically",
+        "count": 2
+      },
+      {
+        "word": "Like",
+        "count": 3
+      }
+    ],
+    "vocal_presence_wpm": 82,
+    "technical_quality_notes": "Audio is clear and well-leveled. Host mentions fighting a cold at 0:06:30, which explains the slightly gravelly tone, but it fits the 'Grandpa' persona perfectly. Pacing is deliberate and easy to follow.",
+    "thematic_silence": [
+      "0:01:04 - Character customization and naming focus.",
+      "0:04:10 - Cinematic Valkyrie flight sequence.",
+      "0:12:54 - Environmental exploration and mushroom search."
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 7,
+    "technical_terms_count": 42,
+    "saturation_ratio": "1:6",
+    "helpful_insights_count": 12,
+    "persona_breaks_count": 1,
+    "refinements": [
+      {
+        "original": "Stamina",
+        "correction": "The Old Man's Wind"
+      },
+      {
+        "original": "Abandoned structure",
+        "correction": "Echoes of the Past"
+      },
+      {
+        "original": "Bees",
+        "correction": "The Golden Ones"
+      },
+      {
+        "original": "Fine wood",
+        "correction": "Iron-Bark"
+      }
+    ],
+    "modernism_audit": [
+      "Settings",
+      "Seed",
+      "Generator",
+      "Biomes",
+      "Recipes",
+      "Buff",
+      "Regen",
+      "Spawn point",
+      "Crafting table"
+    ],
+    "brand_wisdom_count": 5,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 92,
+    "resource_uptime_percent": 88,
+    "safety_protocol_notes": "Excellent adherence to the 'Grandpa Rule' regarding night safety. Host prioritized shelter construction at 0:22:42 and explained the 'Rested' buff mechanics clearly.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "0:09:21 - Masterclass explanation of the three-fork food system (Yellow/White/Red).",
+      "0:14:41 - Clear explanation of tool progression (Stone vs Bronze axes)."
+    ],
+    "strategic_growth_goal": "Integrate more Saga Lexicon terms (Othala, Wyrd's Weight) to replace technical jargon like 'Structural Integrity' or 'Base'."
+  }
+}

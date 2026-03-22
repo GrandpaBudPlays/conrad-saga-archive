@@ -1,0 +1,77 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 14,
+        "seconds_per_count": 129.79
+      },
+      {
+        "word": "Um",
+        "count": 9,
+        "seconds_per_count": 201.89
+      },
+      {
+        "word": "So",
+        "count": 31,
+        "seconds_per_count": 58.61
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Like",
+        "count": 18
+      },
+      {
+        "word": "Actually",
+        "count": 5
+      }
+    ],
+    "vocal_presence_wpm": 138,
+    "technical_quality_notes": "Audio levels are consistent. Meadows ambient wind noise is well-balanced with the vocal track. Pacing is steady, though 'So' is frequently used as a transition between tasks.",
+    "thematic_silence": [
+      "04:12 - Observing the first sunrise over the Meadows",
+      "12:45 - Focused building of the first Othala structure"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 12,
+    "technical_terms_count": 15,
+    "saturation_ratio": "12:15",
+    "helpful_insights_count": 8,
+    "persona_breaks_count": 4,
+    "refinements": [
+      {
+        "original": "I found an abandoned village.",
+        "correction": "I have stumbled upon the Echoes of the Past."
+      },
+      {
+        "original": "Need to find some bees for honey.",
+        "correction": "I must seek the Golden Ones to secure the Queen's Gift."
+      },
+      {
+        "original": "Checking my stamina bar.",
+        "correction": "I must mind the Old Man\u2019s Wind before this labor."
+      }
+    ],
+    "modernism_audit": [
+      "Inventory",
+      "Crafting menu",
+      "Spawn point",
+      "Stats"
+    ],
+    "brand_wisdom_count": 5,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 82,
+    "resource_uptime_percent": 91,
+    "safety_protocol_notes": "Shieldmaiden\u2019s Rule followed before entering the first Echoes of the Past. Food buffs maintained at 100% during the Wood-Wroth encounter.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "08:22 - Seamless transition from gathering to the Ritual of Readiness",
+      "25:10 - First successful placement of the Othala hearth"
+    ],
+    "strategic_growth_goal": "Transition from modern UI descriptions to Reading the Heavens for time-tracking in the next session."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "summary_table": "Grandpa begins a fresh Valheim journey with Conrad the Redhead, covering character creation, basic survival mechanics, and the construction of a first-night shelter.",
+  "editors_notes": "The content follows a 'Cozy Survival' pacing. Grandpa's explanations of the UI (food forks) and building mechanics (shelter exposure) are high-value segments for new players. The 'Brand Rule' is maintained through his calm, instructional tone.",
+  "ledger_entry": "Conrad the Redhead has been dropped into the tenth world by the Valkyrie. Guided by the raven Hugin, Grandpa navigates the Meadows with a steady hand. From the first swing of a stone axe to the strategic consumption of raspberries and mushrooms, this episode serves as a foundational primer for any aspiring Viking. The day concludes with a race against the setting sun to build a functional shelter, proving that even an abandoned hut with a beehive won't stop a determined builder. Conrad rests by the hearth, gaining the vital Rested buff, ready for the trials of the Black Forest to come.",
+  "type_a_shorts": [
+    {
+      "time": "09:28",
+      "description": "The Secret of the Forks: Explaining Red, White, and Yellow food icons."
+    },
+    {
+      "time": "14:52",
+      "description": "The Fine Wood Shortcut: How to get advanced wood without a bronze axe."
+    },
+    {
+      "time": "28:45",
+      "description": "Why the Rested Buff is the most important stat in Valheim."
+    }
+  ],
+  "type_b_clips": [
+    {
+      "time": "04:08",
+      "description": "The First Landing: A narrative beat covering the arrival and gathering the first essential stones and wood."
+    },
+    {
+      "time": "22:40",
+      "description": "The Nightfall Scramble: A strategic look at building a shelter from scratch while managing stamina and enemy proximity."
+    }
+  ],
+  "type_c_arc": [
+    {
+      "time": "11:20",
+      "description": "Meadows Mastery: A montage of gathering flint, hunting boars, and increasing core skills."
+    }
+  ],
+  "youtube_chapters": [
+    {
+      "time": "00:00",
+      "title": "00:00 Intro & Character Creation"
+    },
+    {
+      "time": "01:45",
+      "title": "Understanding World Seeds"
+    },
+    {
+      "time": "04:08",
+      "title": "Arriving in the Meadows"
+    },
+    {
+      "time": "06:35",
+      "title": "Crafting Your First Weapon"
+    },
+    {
+      "time": "09:15",
+      "title": "Food Mechanics: Health vs Stamina"
+    },
+    {
+      "time": "11:20",
+      "title": "Gathering Flint & Wood"
+    },
+    {
+      "time": "13:54",
+      "title": "The Altar of Eikthyr"
+    },
+    {
+      "time": "17:12",
+      "title": "Building the Workbench"
+    },
+    {
+      "time": "19:45",
+      "title": "Finding Buried Treasure"
+    },
+    {
+      "time": "22:40",
+      "title": "Surviving the First Night"
+    },
+    {
+      "time": "28:45",
+      "title": "The Importance of the Rested Buff"
+    },
+    {
+      "time": "29:50",
+      "title": "Outro & Day One Wrap-up"
+    }
+  ]
+}
