@@ -1,0 +1,101 @@
+{
+  "summary_table": "In this episode, Grandpa Bud provides a comprehensive guide to Valheim's world modifiers before venturing out to secure more Queen Bees. The journey leads him to the edge of the Black Forest, where he encounters the messenger Hugin and learns the importance of parrying in combat.",
+  "editors_notes": "Grandpa Bud's pacing is excellent for a 'cozy gaming' audience. The first five minutes are highly educational and should be leveraged for SEO-focused tutorial clips. The '9 HP' scare at 0:24:10 provides a perfect organic moment of tension to contrast with his usual calm demeanor.",
+  "ledger_entry": "Day seven in Terra Conrad began not with the axe, but with a reflection on the world's very nature. I took some time to explain the levers and pulleys that govern our realm\u2014from the frequency of raids to the hazards of fire. Once the chores of cooking and sorting were done, the hunt for honey led me further afield. I found myself at the dark eaves of the Black Forest, where the raven Hugin whispered warnings of preparation and distant traders. The rain fell heavy, forcing a quick lean-to build, and a narrow brush with death reminded me that even a seasoned traveler must never forget to eat. We end the day sheltered, with the hum of new Queen Bees promising a sweeter tomorrow.",
+  "type_a_shorts": [
+    {
+      "time": "0:01:02",
+      "description": "How to use the Resource Rate modifier to save time in Valheim."
+    },
+    {
+      "time": "0:03:28",
+      "description": "The 'Fire Hazard' secret: Turning wood into coal using campfires."
+    },
+    {
+      "time": "0:17:54",
+      "description": "Mastering the Parry: How to stagger enemies with a basic wood shield."
+    },
+    {
+      "time": "0:24:10",
+      "description": "A survival warning: Why letting your food buffs run out is a death sentence."
+    }
+  ],
+  "type_b_clips": [
+    {
+      "time": "0:00:31",
+      "description": "A complete walkthrough of World Modifiers and how they change the gameplay experience for casual or hardcore players."
+    },
+    {
+      "time": "0:12:33",
+      "description": "The Queen Bee Hunt: Navigating abandoned structures and managing poison damage while collecting resources."
+    },
+    {
+      "time": "0:20:41",
+      "description": "Crossing the Threshold: Entering the Black Forest for the first time and receiving Hugin's cryptic advice."
+    }
+  ],
+  "type_c_arc": [
+    {
+      "time": "0:24:40",
+      "description": "The Nomad's Shelter: A montage of building a functional temporary base in the middle of a storm to survive the night."
+    }
+  ],
+  "youtube_chapters": [
+    {
+      "time": "0:00:00",
+      "title": "Introduction to World Settings"
+    },
+    {
+      "time": "0:00:38",
+      "title": "Customizing Combat and Death Penalties"
+    },
+    {
+      "time": "0:01:02",
+      "title": "Adjusting Resource and Raid Rates"
+    },
+    {
+      "time": "0:02:04",
+      "title": "Portal Restrictions and Travel Logic"
+    },
+    {
+      "time": "0:03:14",
+      "title": "Fire Hazards and Passive Enemy Modes"
+    },
+    {
+      "time": "0:05:09",
+      "title": "Day 7: Efficient Cooking Techniques"
+    },
+    {
+      "time": "0:07:00",
+      "title": "Inventory Management and Storage"
+    },
+    {
+      "time": "0:09:07",
+      "title": "Exploring the Meadows for Honey"
+    },
+    {
+      "time": "0:12:33",
+      "title": "Collecting Queen Bees"
+    },
+    {
+      "time": "0:17:43",
+      "title": "Combat Lesson: The Parry Bonus"
+    },
+    {
+      "time": "0:20:41",
+      "title": "Entering the Black Forest"
+    },
+    {
+      "time": "0:21:15",
+      "title": "Hugin's Warning and the Trader Rumor"
+    },
+    {
+      "time": "0:24:40",
+      "title": "Building a Rain Shelter"
+    },
+    {
+      "time": "0:29:30",
+      "title": "Outro and Final Thoughts"
+    }
+  ]
+}

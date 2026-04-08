@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "time": "00:00:41",
+      "fact": "The player begins Day 6 with the objective of completing the primary residence (Othala).",
+      "importance": "low"
+    },
+    {
+      "time": "00:01:20",
+      "fact": "Construction begins on the 26-degree roof and floorboards for Othala.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:10:05",
+      "fact": "A chimney with a roof bridge is constructed to allow ventilation for the indoor fire.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:19:56",
+      "fact": "The Chopping Block is built, upgrading the workbench to level 2 and unlocking new recipes.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:20:49",
+      "fact": "The Norns\u2019 Trial (Raid) occurs as Eikthyr rallies forest creatures to attack the base.",
+      "importance": "high"
+    },
+    {
+      "time": "00:22:19",
+      "fact": "The player survives the raid with health dropping to 12 hit points.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:27:13",
+      "fact": "The player crafts a Leather Helmet, marking an upgrade in armor.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:27:13",
+      "fact": "Day 7 begins.",
+      "importance": "low"
+    },
+    {
+      "time": "00:30:14",
+      "fact": "The first beehive for The Golden Ones is constructed to begin honey production.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:31:49",
+      "fact": "A wild beehive is discovered within an abandoned structure (Echoes of the Past).",
+      "importance": "medium"
+    },
+    {
+      "time": "00:35:01",
+      "fact": "The player marks the location of Othala on the world map.",
+      "importance": "low"
+    },
+    {
+      "time": "00:35:27",
+      "fact": "A second beehive is constructed near the main base.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:44:11",
+      "fact": "A second wild beehive is located in another abandoned structure.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:45:37",
+      "fact": "A major resource patch of mushrooms and raspberries is discovered and marked on the map.",
+      "importance": "low"
+    }
+  ]
+}

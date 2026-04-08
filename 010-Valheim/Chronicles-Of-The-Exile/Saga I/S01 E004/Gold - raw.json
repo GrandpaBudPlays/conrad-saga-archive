@@ -1,0 +1,109 @@
+{
+  "summary_table": "In this episode, Grandpa Bud completes his first permanent base, survives a harrowing first raid by forest creatures, and begins the transition into leather armor and honey production.",
+  "editors_notes": "The content is highly educational for new Valheim players. Grandpa Bud\u2019s 'pro-tips'\u2014specifically regarding floor leveling and chimney ventilation\u2014are gold for Type A shorts. The first raid provides a necessary spike in tension to balance the serene building segments.",
+  "ledger_entry": "Day six and seven in Terra Conrad have been a testament to the Viking spirit of 'measure twice, cut once.' Grandpa Bud spent the morning hours wrestling with the architecture of his first real home, sharing the wisdom of leveling the earth to keep the dirt from peeking through the floorboards. Just as the roof was settled and the chimney began to draw air, the forest itself turned hostile. The first raid, led by the spirits of the wood, nearly saw the end of Conrad as health dipped to a precarious twelve points. But a Viking is not so easily felled. With the raid repelled, the focus shifted to the finer things: the sweet hum of happy bees and the crafting of leather armor. From salvaging old ruins for lumber to marking the map with the precision of a seasoned scout, Grandpa Bud is proving that while the meadows are serene, survival is a craft learned one log and one deer hide at a time.",
+  "type_a_shorts": [
+    {
+      "time": "04:01",
+      "description": "How to level the ground to prevent dirt from clipping through your wooden floors. On-Screen Hook: Stop Your Floors From Looking Like Dirt!"
+    },
+    {
+      "time": "11:35",
+      "description": "The 'Oxygen Rule' for chimneys: why your fire keeps going out and how to fix it. On-Screen Hook: Why Your Valheim Fire Keeps Dying."
+    },
+    {
+      "time": "11:51",
+      "description": "Understanding the white perimeter lines of the workbench for building. On-Screen Hook: The Secret to Building Boundaries."
+    },
+    {
+      "time": "16:45",
+      "description": "Explaining the 'Wet' debuff and how it cripples your stamina and health regen. On-Screen Hook: Don't Ignore the Rain in Valheim!"
+    },
+    {
+      "time": "20:59",
+      "description": "The sudden chaos of the first raid and surviving on 12 HP. On-Screen Hook: My First Raid Almost Ended Everything."
+    }
+  ],
+  "type_b_clips": [
+    {
+      "time": "01:14",
+      "description": "The Architecture of a Base: A deep dive into roof degrees, floor snapping, and creating a cozy interior. Strategic Rationale: Great for viewers who enjoy the 'cozy' building aspect of survival games."
+    },
+    {
+      "time": "17:50",
+      "description": "From Upgrades to Ambush: Upgrading the workbench only to be immediately raided. Strategic Rationale: Shows the transition from safety to danger, highlighting the game's pacing."
+    },
+    {
+      "time": "30:14",
+      "description": "The Apiary Guide: Finding queens, building hives, and ensuring your bees are 'happy.' Strategic Rationale: Essential mid-game knowledge delivered in a calm, instructional manner."
+    }
+  ],
+  "type_c_arc": [
+    {
+      "time": "06:37",
+      "description": "Theme: The Rhythm of the Meadows. A montage of woodcutting, hunting, and gathering under the shifting weather."
+    },
+    {
+      "time": "40:40",
+      "description": "Theme: The Scout's Journey. A sequence of map marking, resource discovery, and the long trek home at sunset."
+    }
+  ],
+  "youtube_chapters": [
+    {
+      "time": "00:00",
+      "title": "Welcome to Terra Conrad"
+    },
+    {
+      "time": "01:14",
+      "title": "Mastering the 26-Degree Roof"
+    },
+    {
+      "time": "04:01",
+      "title": "Pro-Tip: Leveling Your Floors"
+    },
+    {
+      "time": "09:41",
+      "title": "Chimney Ventilation & Oxygen"
+    },
+    {
+      "time": "11:51",
+      "title": "Workbench Perimeters Explained"
+    },
+    {
+      "time": "16:23",
+      "title": "The Danger of the Wet Debuff"
+    },
+    {
+      "time": "17:50",
+      "title": "Upgrading the Workbench"
+    },
+    {
+      "time": "20:59",
+      "title": "The First Raid: Forest Creatures Attack"
+    },
+    {
+      "time": "23:43",
+      "title": "Cooking for Maximum Health"
+    },
+    {
+      "time": "26:54",
+      "title": "Crafting Leather Armor"
+    },
+    {
+      "time": "30:14",
+      "title": "The Secret to Happy Bees"
+    },
+    {
+      "time": "34:30",
+      "title": "Strategic Map Marking"
+    },
+    {
+      "time": "36:01",
+      "title": "How Skills Actually Work"
+    },
+    {
+      "time": "45:00",
+      "title": "Heading Home Before Dark"
+    }
+  ]
+}

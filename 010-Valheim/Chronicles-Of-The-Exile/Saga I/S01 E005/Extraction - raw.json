@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "time": "05:34",
+      "fact": "Grandpa Bud builds a second cooking spit to increase food production efficiency.",
+      "importance": "low"
+    },
+    {
+      "time": "13:19",
+      "fact": "Grandpa Bud discovers a beehive and obtains a Queen Bee and honey.",
+      "importance": "medium"
+    },
+    {
+      "time": "14:01",
+      "fact": "Grandpa Bud encounters and accidentally kills a two-star boar.",
+      "importance": "medium"
+    },
+    {
+      "time": "15:35",
+      "fact": "Grandpa Bud obtains a second Queen Bee after dismantling an abandoned structure.",
+      "importance": "medium"
+    },
+    {
+      "time": "17:01",
+      "fact": "Grandpa Bud confirms he has collected enough trophies to summon the first boss, Eikthyr.",
+      "importance": "high"
+    },
+    {
+      "time": "17:16",
+      "fact": "Grandpa Bud discovers fish in the water for the first time.",
+      "importance": "low"
+    },
+    {
+      "time": "18:04",
+      "fact": "Grandpa Bud successfully demonstrates a parry and stagger bonus against a Greydwarf using a wood shield.",
+      "importance": "medium"
+    },
+    {
+      "time": "21:02",
+      "fact": "Grandpa Bud officially enters the Black Forest biome for the first time.",
+      "importance": "high"
+    },
+    {
+      "time": "21:15",
+      "fact": "Hugin the raven appears to provide information about the dangers of the Black Forest and the existence of the Trader.",
+      "importance": "medium"
+    },
+    {
+      "time": "24:57",
+      "fact": "Grandpa Bud builds a temporary shelter including a workbench, a sheltered campfire, and a bed.",
+      "importance": "medium"
+    },
+    {
+      "time": "27:08",
+      "fact": "Grandpa Bud reaches a milestone of 19 total deer hides, enough to begin crafting leather armor.",
+      "importance": "medium"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "summary_table": "Grandpa begins his Valheim journey as Conrad the Redhead, navigating the Meadows, mastering the three-food system, and racing against the sunset to build a functional shelter before the Greylings arrive.",
+  "editors_notes": "The content is highly instructional yet relaxed. The 'Grandpa' persona provides a soothing contrast to the survival tension. Key focus areas for editing should be the 'Food Fork' explanation and the 'First Night' building sequence, as these offer the most utility to new players.",
+  "ledger_entry": "The Norns have cast the thread for Conrad, a red-bearded warrior carried by Valkyrie wings into the lush Meadows of Valheim. This first sun-cycle was one of discovery and sweat. Conrad learned the language of the land: that raspberries fuel the spirit (stamina) while mushrooms steady the heart (health). He fashioned a club from fallen branches and a stone axe from the river's edge, proving his worth against the wild boars. As the golden sun dipped below the horizon, the true test began. With the shadows lengthening and the Greylings whispering in the dark, Conrad raised a humble roof of wood and thatch. By the warmth of a crackling campfire, he claimed his bed and secured the 'Rested' blessing, ensuring that when the next dawn breaks, he will be ready to face the Forsaken.",
+  "type_a_shorts": [
+    {
+      "time": "09:21",
+      "description": "The Secret of the Forks: Explaining the yellow, white, and red food icons for stamina and health. Hook: 'Why your food icons are different colors in Valheim.'"
+    },
+    {
+      "time": "14:24",
+      "description": "Wood Tiers 101: Why you can't chop Birch trees yet and how to 'cheat' fine wood early. Hook: 'Don't waste your time on Birch trees!'"
+    },
+    {
+      "time": "21:47",
+      "description": "Stamina Pro-Tip: How holstering your weapon with the 'R' key saves your life during a sprint. Hook: 'The fastest way to run in Valheim.'"
+    }
+  ],
+  "type_b_clips": [
+    {
+      "time": "06:11",
+      "description": "The First Hunt: A narrative sequence showing the transition from gathering sticks to crafting a club and successfully hunting a boar for leather and meat."
+    },
+    {
+      "time": "22:12",
+      "description": "The Sunset Build: A high-stakes narrative beat where Grandpa must figure out the 'Sheltered' and 'Exposed' mechanics to get his bed working before nightfall."
+    }
+  ],
+  "type_c_arc": [
+    {
+      "time": "04:10",
+      "description": "Theme: The Beauty of the Meadows. A montage of the Valkyrie flight, the first sunrise, and the peaceful exploration of the starting biome."
+    },
+    {
+      "time": "28:14",
+      "description": "Theme: The Comfort of Home. A cozy atmospheric montage showing the campfire, the roof overhead, and the 'Rested' buff icon appearing as the character sleeps."
+    }
+  ],
+  "youtube_chapters": [
+    {
+      "time": "00:00",
+      "title": "Conrad the Redhead: Character Creation"
+    },
+    {
+      "time": "01:44",
+      "title": "Understanding World Seeds"
+    },
+    {
+      "time": "04:10",
+      "title": "Arrival in the Meadows"
+    },
+    {
+      "time": "05:04",
+      "title": "Hugin's First Lessons"
+    },
+    {
+      "time": "07:02",
+      "title": "Crafting Your First Weapon"
+    },
+    {
+      "time": "09:21",
+      "title": "The Three-Food System Explained"
+    },
+    {
+      "time": "11:19",
+      "title": "Upgrading to the Stone Axe"
+    },
+    {
+      "time": "14:09",
+      "title": "The Altar of Eikthyr"
+    },
+    {
+      "time": "17:13",
+      "title": "Building the Workbench"
+    },
+    {
+      "time": "22:12",
+      "title": "The Race for Shelter"
+    },
+    {
+      "time": "25:47",
+      "title": "Solving the 'Exposed' Bed Problem"
+    },
+    {
+      "time": "28:45",
+      "title": "The Power of the Rested Buff"
+    }
+  ]
+}
