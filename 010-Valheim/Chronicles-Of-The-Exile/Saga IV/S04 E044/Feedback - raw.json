@@ -1,0 +1,87 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 6,
+        "seconds_per_count": 874.33
+      },
+      {
+        "word": "Um",
+        "count": 5,
+        "seconds_per_count": 1049.2
+      },
+      {
+        "word": "So",
+        "count": 39,
+        "seconds_per_count": 134.51
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Like",
+        "count": 35
+      },
+      {
+        "word": "Yeah",
+        "count": 9
+      },
+      {
+        "word": "Well",
+        "count": 6
+      }
+    ],
+    "vocal_presence_wpm": 21,
+    "technical_quality_notes": "Audio quality is consistent, though a physical mic bump occurred at 1:06:05. A coughing fit at 0:56:01 was handled with an apology, but a pre-emptive mute would be cleaner for the final cut.",
+    "thematic_silence": [
+      "09:39 - 12:31: Extended building and bridge planning sequence.",
+      "13:08 - 14:39: Long traversal back to the resource drop point.",
+      "41:34 - 42:51: Focused trench digging without commentary.",
+      "1:02:10 - 1:05:02: Deep moat excavation phase."
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 4,
+    "technical_terms_count": 12,
+    "saturation_ratio": "1:3",
+    "helpful_insights_count": 5,
+    "persona_breaks_count": 3,
+    "refinements": [
+      {
+        "original": "I don't want to have to repair the weathered wood.",
+        "correction": "I'd best get the roof on before the sky-tears rot the bones of the house."
+      },
+      {
+        "original": "triggering a raid when we're at the livestock pins.",
+        "correction": "inviting the Norns' Trial while we tend the Garth."
+      },
+      {
+        "original": "moving us from the iron age into the silver age.",
+        "correction": "moving from the time of Bog-Iron to the era of Frost-Tears."
+      }
+    ],
+    "modernism_audit": [
+      "live streaming",
+      "inventory",
+      "raid",
+      "stamina",
+      "iron age",
+      "silver age",
+      "drugs",
+      "key strokes"
+    ],
+    "brand_wisdom_count": 2,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 78,
+    "resource_uptime_percent": 85,
+    "safety_protocol_notes": "The 'Shieldmaiden\u2019s Rule' was partially neglected; the pickaxe required a mid-task repair at 0:49:25, and food buffs were allowed to blink red before refreshing. However, the moat strategy for raid mitigation is sound.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "25:06 - 'It's always a compromise.' (Classic Grandpa Bud wisdom on building aesthetics).",
+      "1:18:13 - The discovery of the first 'little piggies' (High emotional payoff for the episode)."
+    ],
+    "strategic_growth_goal": "Transition the 'Westshore' terminology fully to 'West-Thwaite' and replace 'stamina' with 'The Old Man's Wind' to deepen the immersion during labor-heavy segments."
+  }
+}

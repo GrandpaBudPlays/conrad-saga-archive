@@ -1,0 +1,42 @@
+{
+  "saga": "Saga IV",
+  "northStar": "Mountain Saga Strategy",
+  "progressionMilestones": [
+    {
+      "title": "Logistics",
+      "description": "Establish a 'Wolf-Proof' Mountain Outpost with a functional portal hub."
+    },
+    {
+      "title": "Exploration",
+      "description": "Locate and clear at least 3 Frost Caves / Ruined Spires."
+    },
+    {
+      "title": "Gear Status",
+      "description": "Craft and fully upgrade the Wolf Armor set and the Draugr Fang (or equivalent)."
+    },
+    {
+      "title": "The Finale",
+      "description": "Locate the sacrifice altar and defeat the Biome Boss (Moder)."
+    }
+  ],
+  "narrativeAndEntertainmentGoals": [
+    {
+      "title": "The Vibe",
+      "description": "Survival Against the Elements — Emphasize the danger of the cold and the verticality of the terrain."
+    },
+    {
+      "title": "Grand Project",
+      "description": "Construct 'The Sky-Reach Tower,' a vertical base at the highest peak discovered."
+    },
+    {
+      "title": "Viewer Hook",
+      "description": "Grandpa Bud vs. Gravity — A running tally of accidental falls or 'Death Runs.'"
+    }
+  ],
+  "antiStagnationRules": [
+    {
+      "title": "The 2-Episode Limit",
+      "description": "If a specific resource (e.g., Silver Veins or Dragon Eggs) is not found within two consecutive episodes, the third episode MUST pivot to a 'Search & Rescue' theme or a community-driven 'Base Improvement' stream to avoid the 'Axe Grind' fatigue."
+    }
+  ]
+}

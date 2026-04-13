@@ -1,0 +1,82 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 35,
+        "seconds_per_count": 51.91
+      },
+      {
+        "word": "Um",
+        "count": 9,
+        "seconds_per_count": 201.89
+      },
+      {
+        "word": "So",
+        "count": 26,
+        "seconds_per_count": 69.88
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Basically",
+        "count": 2
+      },
+      {
+        "word": "Like",
+        "count": 3
+      }
+    ],
+    "vocal_presence_wpm": 69,
+    "technical_quality_notes": "Audio is clear despite the narrator fighting a cold. Pacing is deliberate and fits the 'Grandpa' persona well, though some long pauses during character creation could be tightened.",
+    "thematic_silence": [
+      "01:04 - Character naming and visual selection",
+      "04:10 - Valkyrie flight sequence",
+      "13:54 - Reading the Eikthyr altar"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 7,
+    "technical_terms_count": 15,
+    "saturation_ratio": "7:15",
+    "helpful_insights_count": 5,
+    "persona_breaks_count": 12,
+    "refinements": [
+      {
+        "original": "boss of the area",
+        "correction": "The Forsaken of this realm"
+      },
+      {
+        "original": "beehive in here",
+        "correction": "The Golden Ones have claimed this hall"
+      },
+      {
+        "original": "stamina drains",
+        "correction": "The Old Man's Wind is fading"
+      }
+    ],
+    "modernism_audit": [
+      "settings",
+      "seed",
+      "generator",
+      "biome",
+      "hot bar",
+      "spawn point",
+      "buff"
+    ],
+    "brand_wisdom_count": 3,
+    "meta_speech_breaks_count": 4
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 85,
+    "resource_uptime_percent": 92,
+    "safety_protocol_notes": "Excellent early gathering of flint and wood. Narrator correctly identified the danger of the night and prioritized a fire and enclosed shelter to secure a spawn point.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "09:21 - Detailed explanation of the food fork color system",
+      "14:41 - Clear guidance on tree hardness and progression",
+      "28:51 - Explanation of the Rested Buff benefits"
+    ],
+    "strategic_growth_goal": "Transition from 'game' terminology (seeds/biomes) to 'saga' terminology (roots/realms) to deepen immersion while maintaining the helpful guidance."
+  }
+}

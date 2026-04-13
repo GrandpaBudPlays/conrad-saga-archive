@@ -1,0 +1,54 @@
+{
+  "episode_metadata": {
+    "series": "Grandpa Bud Plays Valheim",
+    "saga": "The Mountain Age",
+    "episode_title": "The Night of the Wolf",
+    "protagonist": "Conrad",
+    "location_primary": "Black Forest Tower Forge",
+    "location_secondary": "Mountain Biome"
+  },
+  "overall_saga_goals": [
+    "Complete Silver Armor set and upgrades",
+    "Craft Wolf Armor Cape for frost immunity",
+    "Locate 3 Dragon Eggs for Moder altar",
+    "Establish a 'Wolf-Industrial Complex' for pelt/meat automation",
+    "Maintain Golem spawn-cap through pit trapping"
+  ],
+  "segment_definitions": [
+    {
+      "segment_id": 1,
+      "title": "The Bog Witch & Preparation",
+      "activity": "Procure beast taming potions and stockpile meat",
+      "teaching_moment": "Latest Bog Witch update features and potion mechanics"
+    },
+    {
+      "segment_id": 2,
+      "title": "The Harpoon Escort",
+      "activity": "Ascend Mountain to locate 1-star or 2-star Wolf; Harpoon and drag to the Black Forest pit",
+      "teaching_moment": "Using the Abyssal Harpoon for predator management and gravity-assisted transport"
+    },
+    {
+      "segment_id": 3,
+      "title": "The Taming Wait: Grandpa's Dev Log",
+      "activity": "30-minute idle period within render distance of the pit",
+      "content_focus": "Brand-CLI progress update",
+      "discussion_points": [
+        "Python-based media workflow automation",
+        "Recent module development and architecture",
+        "Reducing 'Technical Debt' in content creation"
+      ],
+      "secondary_activity": "Golem pit maintenance check and tower base review"
+    },
+    {
+      "segment_id": 4,
+      "title": "The Wolf-Clad Transformation",
+      "activity": "Confirm taming, harvest initial pelts, and craft the Wolf Cape",
+      "teaching_moment": "Why the Cape is superior to the Silver Chest for gear flexibility (Root Harnesk swap)"
+    }
+  ],
+  "technical_constraints": {
+    "combat_restrictions": "Avoid spear usage; utilize Frostner/Silver Sword/Draugr Fang",
+    "base_strategy": "Maintain Black Forest forge for Greydwarf-vs-Wolf entertainment ROI",
+    "logistics": "Use Portals for pelt transport; manual haul for future Dragon Eggs"
+  }
+}
