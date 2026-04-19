@@ -1,0 +1,89 @@
+{
+  "events": [
+    {
+      "time": "00:12",
+      "fact": "Player begins Day 11 and plans for the Eikthyr boss fight, identifying the need for feathers, wood, and a backup bow.",
+      "importance": "low"
+    },
+    {
+      "time": "06:29",
+      "fact": "Player crafts a backup crude bow at the workbench.",
+      "importance": "medium"
+    },
+    {
+      "time": "08:03",
+      "fact": "Player crafts 200 fire arrows to be used against Eikthyr.",
+      "importance": "medium"
+    },
+    {
+      "time": "11:05",
+      "fact": "Player upgrades the crude bow using leather scraps.",
+      "importance": "medium"
+    },
+    {
+      "time": "13:19",
+      "fact": "The first boar is successfully tamed.",
+      "importance": "high"
+    },
+    {
+      "time": "14:24",
+      "fact": "Player upgrades the wood shield at the workbench.",
+      "importance": "medium"
+    },
+    {
+      "time": "18:12",
+      "fact": "Player upgrades the flint axe after gathering flint from the southern coastline.",
+      "importance": "medium"
+    },
+    {
+      "time": "20:34",
+      "fact": "The second boar is successfully tamed.",
+      "importance": "high"
+    },
+    {
+      "time": "34:37",
+      "fact": "Player locates an abandoned house near the Eikthyr altar and begins retrofitting it into a temporary respawn base.",
+      "importance": "medium"
+    },
+    {
+      "time": "39:10",
+      "fact": "Player builds a bed in the temporary shelter to set a spawn point.",
+      "importance": "medium"
+    },
+    {
+      "time": "41:00",
+      "fact": "Player crafts a hoe to level the ground inside the temporary shelter.",
+      "importance": "low"
+    },
+    {
+      "time": "49:13",
+      "fact": "Boss Fight: Eikthyr is summoned at the altar using three deer trophies.",
+      "importance": "high"
+    },
+    {
+      "time": "53:45",
+      "fact": "Eikthyr is defeated using fire arrows and a flint axe.",
+      "importance": "high"
+    },
+    {
+      "time": "54:32",
+      "fact": "Player loots Hard Antlers and the Eikthyr Trophy from the boss.",
+      "importance": "high"
+    },
+    {
+      "time": "1:01:45",
+      "fact": "Player mounts the Eikthyr Trophy at the Sacrificial Stones.",
+      "importance": "high"
+    },
+    {
+      "time": "1:02:10",
+      "fact": "Player activates the Eikthyr Forsaken Power, granting a stamina buff for running and jumping.",
+      "importance": "high"
+    },
+    {
+      "time": "1:27:23",
+      "fact": "Player crafts the Antler Pickaxe, enabling the mining of copper and tin.",
+      "importance": "high"
+    }
+  ]
+}

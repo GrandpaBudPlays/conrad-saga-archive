@@ -1,78 +1,83 @@
 {
   "events": [
     {
-      "time": "02:10",
-      "fact": "Built a cooking station over the campfire.",
-      "importance": "medium"
-    },
-    {
-      "time": "05:11",
-      "fact": "Discovered a beehive near the initial shelter.",
-      "importance": "medium"
-    },
-    {
-      "time": "07:37",
-      "fact": "Marked a raspberry patch on the map.",
+      "time": "01:27",
+      "fact": "Grandpa starts the session with character Conrad in the world Terra Conrad.",
       "importance": "low"
     },
     {
-      "time": "08:18",
-      "fact": "Discovered abandoned structures containing gold and flint arrows.",
+      "time": "02:10",
+      "fact": "Build: Cooking station constructed over the fire.",
+      "importance": "medium"
+    },
+    {
+      "time": "03:15",
+      "fact": "Action: Cooked boar meat and neck meat for health and stamina management.",
+      "importance": "medium"
+    },
+    {
+      "time": "07:02",
+      "fact": "Encounter: Boar killed for leather and meat.",
+      "importance": "low"
+    },
+    {
+      "time": "07:37",
+      "fact": "Discovery: Large raspberry patch found and marked on the map.",
+      "importance": "low"
+    },
+    {
+      "time": "09:05",
+      "fact": "Discovery: Chest found containing gold and flint arrows.",
       "importance": "medium"
     },
     {
       "time": "11:13",
-      "fact": "Discovered an abandoned village and encountered a one-star boar.",
+      "fact": "Discovery: Abandoned village located and marked on the map.",
       "importance": "medium"
     },
     {
-      "time": "14:22",
-      "fact": "Marked the abandoned village location on the map.",
-      "importance": "low"
+      "time": "11:22",
+      "fact": "Encounter: First starred creature (one-star boar) defeated.",
+      "importance": "medium"
     },
     {
       "time": "16:45",
-      "fact": "Discovered a second Eikthyr altar and reached the western coastline.",
+      "fact": "Discovery: Second Eikthyr altar and the western ocean boundary located.",
       "importance": "high"
     },
     {
       "time": "18:13",
-      "fact": "Encountered and killed a two-star neck.",
+      "fact": "Encounter: Two-star neck defeated.",
       "importance": "medium"
     },
     {
       "time": "18:22",
-      "fact": "Obtained the first trophy (neck trophy).",
-      "importance": "medium"
+      "fact": "Discovery: First neck trophy obtained.",
+      "importance": "low"
     },
     {
-      "time": "19:15",
-      "fact": "Discovered two additional beehives in abandoned buildings.",
+      "time": "19:05",
+      "fact": "Discovery: Multiple beehives found in abandoned buildings.",
       "importance": "high"
     },
     {
-      "time": "22:39",
-      "fact": "Built a campfire and workbench at a new exploration site.",
-      "importance": "medium"
-    },
-    {
-      "time": "23:04",
-      "fact": "Constructed a basic shelter and a bed to set a new spawn point.",
+      "time": "20:39",
+      "fact": "Build: Emergency shelter, campfire, workbench, and bed constructed before nightfall.",
       "importance": "high"
     },
     {
       "time": "28:11",
-      "fact": "Repaired all tools and equipment at the workbench.",
-      "importance": "low"
+      "fact": "Action: Repaired all tools and weapons at the workbench.",
+      "importance": "medium"
     },
     {
       "time": "29:43",
-      "fact": "Crafted rag trousers, increasing total armor to 2.",
+      "fact": "Build: Rag trousers crafted and equipped, increasing armor to 2.",
       "importance": "medium"
     },
     {
       "time": "30:50",
-      "fact": "Crafted a flint axe, upgrading from the stone axe.",
+      "fact": "Build: Flint axe crafted, providing a damage upgrade over the stone axe.",
       "importance": "high"
     }
   ]

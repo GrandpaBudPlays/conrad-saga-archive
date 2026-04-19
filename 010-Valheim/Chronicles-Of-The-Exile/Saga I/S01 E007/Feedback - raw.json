@@ -1,0 +1,88 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 83,
+        "seconds_per_count": 64.4
+      },
+      {
+        "word": "Um",
+        "count": 11,
+        "seconds_per_count": 485.9
+      },
+      {
+        "word": "So",
+        "count": 16,
+        "seconds_per_count": 334.1
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Like",
+        "count": 16
+      },
+      {
+        "word": "You know",
+        "count": 4
+      }
+    ],
+    "vocal_presence_wpm": 92,
+    "technical_quality_notes": "Audio is clear and consistent. Pacing slows significantly during inventory management and planning phases, leading to a high density of 'uh' fillers. Combat sequences show excellent focus with minimal vocal clutter.",
+    "thematic_silence": [
+      "0:02:38 - Focused tree felling and log dodging",
+      "0:12:42 - Silent chest organization and treasure sorting",
+      "0:16:52 - Inventory management before the boss journey",
+      "0:18:15 - High-intensity combat focus against Greydwarves"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 72,
+    "technical_terms_count": 13,
+    "saturation_ratio": "5.5:1",
+    "helpful_insights_count": 12,
+    "persona_breaks_count": 3,
+    "refinements": [
+      {
+        "original": "Ether",
+        "correction": "The Forsaken Stag"
+      },
+      {
+        "original": "Black Forest",
+        "correction": "Shadow-Garth"
+      },
+      {
+        "original": "Copper and Tin",
+        "correction": "Stone-Marrow"
+      }
+    ],
+    "modernism_audit": [
+      "AoE",
+      "Pathing issues",
+      "Ad",
+      "Melee",
+      "Biome",
+      "Respawn",
+      "Inventory",
+      "Stats",
+      "Portal",
+      "Retrofitting",
+      "Hot spot",
+      "Slot"
+    ],
+    "brand_wisdom_count": 4,
+    "meta_speech_breaks_count": 3
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 85,
+    "resource_uptime_percent": 90,
+    "safety_protocol_notes": "Excellent use of the 'Shieldmaiden\u2019s Rule'. The player established a secondary Othala (respawn house) near the altar, ensuring a quick recovery if the Norns' Trial (death) occurred during the boss fight.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "0:53:45 - The fall of the first Forsaken (Eikthyr)",
+      "1:02:10 - Activating the first Forsaken Power at the Stones",
+      "1:27:23 - Forging the Antler Pickaxe to begin the Bronze Age"
+    ],
+    "strategic_growth_goal": "Transitioning from the safety of the Meadows to the Shadow-Garth to extract Stone-Marrow (Copper/Tin) and advance the saga."
+  }
+}

@@ -1,14 +1,12 @@
 {
-  "ulf_hook": "The sky-beast drops the soul into the grass. The club finds the beast. The first hearth burns.",
-  "grandpa_legend": "Now, Conrad's journey started humble, just a man and a club against the wild boars of the Meadows. He found a runestone that spoke of Eikthyr, the first of the Forsaken he'll have to face. It was a bit of a hitch-in-his-gitty-up when his stone axe wouldn't bite into the Iron-Bark of the birch trees, but he didn't let that slow him down. He gathered the Queen's Gift from some wild hives and set to work on Othala. By the time the sun dipped, he had a workbench and a roof to keep the rain off his head. That first night's sleep by the campfire put some much-needed wind back in his sails.",
-  "conrad_chronicle": "The Meadows are beautiful, but the air carries a weight I cannot yet name. I walked the shoreline where the flint felt like the marrow of the stone, cold and sharp against my palms. With a heavy club, I spilled the blood of the tusked beasts to clothe myself in leather scraps. I found a glowing stone that whispered of Eikthyr\u2019s altar, a place of sacrifice that I must one day face. My stone axe failed against the Iron-Bark of the birch, a bitter lesson in the limits of my strength. Yet, I found the Golden Ones humming in the ruins, their sweetness a rare mercy in this trial. I raised the walls of Othala and felt the hammer's weight unlock the secrets of the workbench. When the roof was finally set, the hearth\u2019s embrace chased the chill from my marrow. I claimed my bed as the stars rose, and for the first time, my breath came easy.",
+  "ulf_hook": "The Valkyrie drops the soul into the green expanse. The exile grasps the stone and wood to defy the hunger. A red stone whispers of the Great Stag's wrath. The first blood is drawn from the tusked beast. A roof of thatch holds back the grasping dark. The fire burns.",
+  "grandpa_legend": "Well, little ones, young Conrad has finally set foot in the Meadows, and it was quite a start. He didn't have much more than his hands at first, but he quickly put together a wooden club and a stone axe to keep the boars and those pesky Greylings at bay. I watched him find the runestone for Eikthyr, and he even tracked down the sacrificial altar\u2014though he's got a bit of growing to do before he faces that storm. He spent the evening getting a proper workbench and a sturdy little house built, making sure to get a roof over his head and a warm bed to sleep in. It\u2019s a bitter lesson to learn that you can\u2019t chop Birch trees with a simple stone tool, but he\u2019s got a fire going now and a good night's rest under his belt. That comfort of the hearth is what keeps a man going when the world gets cold.",
+  "conrad_chronicle": "The wind of the Meadows is deceptive, carrying the scent of salt and the musk of the wild. I felt the rough grain of the club in my hands as I stood before the runestone, the name of the first of the Forsaken etched in blood-red light. Along the water's edge, I pulled flint like the marrow of the stone from the silt, fashioning a blade to bite into the timber. I found the Iron-Bark standing tall, but my primitive tools only bounced off their white skin; a reminder of my own weakness. The Golden Ones hummed within a ruin, a promise of sweetness amidst the struggle for leather and meat. When the sun dipped, I labored with the hammer to raise Othala, feeling the weight of every beam until the roof finally held the heat of the campfire. I claimed my bed as the shadows lengthened, the smell of resin and wood-smoke clinging to my skin. For the first time, the hearth's embrace pushed back the dread of the Norns' trial. I slept, and the strength returned to my weary bones.",
   "tags": [
-    "Valheim",
-    "Chronicles",
-    "S01",
     "Meadows",
+    "Eikthyr",
     "Survival",
-    "Othala",
-    "Eikthyr"
+    "Building",
+    "FirstNight"
   ]
 }

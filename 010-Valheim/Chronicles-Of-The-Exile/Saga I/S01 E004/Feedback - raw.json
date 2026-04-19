@@ -1,0 +1,99 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 18,
+        "seconds_per_count": 161.39
+      },
+      {
+        "word": "Um",
+        "count": 16,
+        "seconds_per_count": 181.56
+      },
+      {
+        "word": "So",
+        "count": 33,
+        "seconds_per_count": 88.03
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Okay",
+        "count": 4
+      },
+      {
+        "word": "All right",
+        "count": 5
+      },
+      {
+        "word": "Jeez",
+        "count": 1
+      }
+    ],
+    "vocal_presence_wpm": 74,
+    "technical_quality_notes": "Audio is clear with a calm, deliberate pace. Background music levels are well-balanced, allowing the 'Grandpa' persona to remain the focal point. Pacing slows during building segments, which is appropriate for the instructional style.",
+    "thematic_silence": [
+      "0:05:46 - Focused roofing and snapping point alignment.",
+      "0:07:11 - Rhythmic tree chopping and log management.",
+      "0:32:39 - Stamina recovery and environmental observation."
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 0,
+    "technical_terms_count": 12,
+    "saturation_ratio": "0:12",
+    "helpful_insights_count": 3,
+    "persona_breaks_count": 1,
+    "refinements": [
+      {
+        "original": "stamina",
+        "correction": "The Old Man\u2019s Wind"
+      },
+      {
+        "original": "beehive",
+        "correction": "The Golden Ones"
+      },
+      {
+        "original": "honey",
+        "correction": "The Queen\u2019s Gift"
+      },
+      {
+        "original": "raid",
+        "correction": "The Norns\u2019 Trial"
+      },
+      {
+        "original": "home",
+        "correction": "Othala"
+      }
+    ],
+    "modernism_audit": [
+      "debuff",
+      "hit points",
+      "hot bar",
+      "lagging",
+      "recipe",
+      "spawn point",
+      "biome",
+      "inventory",
+      "crafting table",
+      "workbench",
+      "stamina",
+      "raid"
+    ],
+    "brand_wisdom_count": 1,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 85,
+    "resource_uptime_percent": 90,
+    "safety_protocol_notes": "Strong emphasis on safety; warned about falling logs at 0:07:11 and the danger of low health during raids at 0:21:13. Correctly identified the 'wet debuff' impact on health generation.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "0:11:35 - Expert explanation of chimney oxygen mechanics.",
+      "0:21:13 - High-tension defense during a raid with only 12 HP.",
+      "0:37:53 - Philosophical insight on gear progression vs. skill grinding."
+    ],
+    "strategic_growth_goal": "Integrate the Saga Lexicon to replace technical jargon like 'stamina' and 'beehive' to enhance the immersive storytelling experience."
+  }
+}

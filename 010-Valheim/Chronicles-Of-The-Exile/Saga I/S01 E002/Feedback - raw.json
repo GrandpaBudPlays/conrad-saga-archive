@@ -1,0 +1,89 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 34,
+        "seconds_per_count": 60.7
+      },
+      {
+        "word": "Um",
+        "count": 5,
+        "seconds_per_count": 412.8
+      },
+      {
+        "word": "So",
+        "count": 25,
+        "seconds_per_count": 82.5
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "All right",
+        "count": 12
+      },
+      {
+        "word": "Basically",
+        "count": 1
+      }
+    ],
+    "vocal_presence_wpm": 87,
+    "technical_quality_notes": "Audio remains clear and consistent. In-game visibility was significantly reduced during the fog and night cycle (0:10:01), which was addressed verbally to maintain viewer engagement.",
+    "thematic_silence": [
+      "0:24:03 - 0:24:30: Focused building sequence during the night cycle.",
+      "0:25:57 - 0:26:16: High-tension resource gathering while low on stamina."
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 4,
+    "technical_terms_count": 18,
+    "saturation_ratio": "4:18",
+    "helpful_insights_count": 12,
+    "persona_breaks_count": 3,
+    "refinements": [
+      {
+        "original": "stamina",
+        "correction": "The Old Man\u2019s Wind"
+      },
+      {
+        "original": "honey",
+        "correction": "The Queen\u2019s Gift"
+      },
+      {
+        "original": "beehive",
+        "correction": "The Golden Ones"
+      },
+      {
+        "original": "ocean",
+        "correction": "The Whale-Road"
+      },
+      {
+        "original": "abandoned village",
+        "correction": "Echoes of the Past"
+      }
+    ],
+    "modernism_audit": [
+      "stamina",
+      "honey",
+      "beehive",
+      "ocean",
+      "abandoned village",
+      "starred creature",
+      "inventory page",
+      "building physics"
+    ],
+    "brand_wisdom_count": 5,
+    "meta_speech_breaks_count": 4
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 75,
+    "resource_uptime_percent": 85,
+    "safety_protocol_notes": "Grandpa correctly prioritized food management (mixing health and stamina) but failed the 'Shieldmaiden\u2019s Rule' by entering the night cycle without stone for a fire, leading to a vulnerable state.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "0:14:49 - Exceptional 'Reading the Heavens' tutorial using the sun and mini-map.",
+      "0:31:57 - Clear, plain-speech breakdown of weapon stat upgrades (Stone vs. Flint)."
+    ],
+    "strategic_growth_goal": "Transition from 'Echoes of the Past' to a permanent 'Othala' and begin the 'Ritual of Readiness' for the first Forsaken."
+  }
+}

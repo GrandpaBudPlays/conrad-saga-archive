@@ -1,0 +1,96 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 112,
+        "seconds_per_count": 71.04
+      },
+      {
+        "word": "Um",
+        "count": 48,
+        "seconds_per_count": 165.75
+      },
+      {
+        "word": "So",
+        "count": 91,
+        "seconds_per_count": 87.43
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Frankly",
+        "count": 3
+      },
+      {
+        "word": "Basically",
+        "count": 2
+      },
+      {
+        "word": "Actually",
+        "count": 6
+      }
+    ],
+    "vocal_presence_wpm": 92,
+    "technical_quality_notes": "Audio levels are consistent. The 'Grandpa' persona is well-maintained through a slow, deliberate cadence. Background game audio is well-balanced against the commentary.",
+    "thematic_silence": [
+      "01:01:05 - Focused dungeon navigation",
+      "01:07:13 - High-tension Troll escape",
+      "01:37:55 - Tracking deer in the mist"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 0,
+    "technical_terms_count": 28,
+    "saturation_ratio": "0:28",
+    "helpful_insights_count": 12,
+    "persona_breaks_count": 4,
+    "refinements": [
+      {
+        "original": "one-star boar",
+        "correction": "boar touched by the Strength of Stars"
+      },
+      {
+        "original": "honey",
+        "correction": "The Queen's Gift"
+      },
+      {
+        "original": "beehive",
+        "correction": "The Golden Ones' garth"
+      },
+      {
+        "original": "home/house",
+        "correction": "Othala"
+      }
+    ],
+    "modernism_audit": [
+      "professional streamer",
+      "YouTuber",
+      "monetized",
+      "algorithms",
+      "procedurally generated",
+      "world seed",
+      "biome",
+      "buff",
+      "debuff",
+      "AoE",
+      "dot",
+      "tank",
+      "grind"
+    ],
+    "brand_wisdom_count": 5,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 88,
+    "resource_uptime_percent": 94,
+    "safety_protocol_notes": "Grandpa Bud demonstrates excellent 'Shieldmaiden\u2019s Rule' discipline by repairing and eating before entering the Black Forest. However, swimming with low stamina remains a high-risk behavior.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "00:36:22 - The frantic taming of the first Starred Boar while under fire.",
+      "00:57:28 - Explanation of the 'Always Turn Right' dungeon navigation method.",
+      "01:07:56 - The narrow escape from the Shadow in the Trees (Troll) while cold and wet."
+    ],
+    "strategic_growth_goal": "Transition from the Stone Age to the Age of Metals by securing Surtling Cores and preparing for the first Forsaken trial."
+  }
+}

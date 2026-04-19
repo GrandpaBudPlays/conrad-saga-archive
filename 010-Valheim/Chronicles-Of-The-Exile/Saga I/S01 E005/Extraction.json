@@ -1,59 +1,69 @@
 {
   "events": [
     {
-      "time": "05:34",
-      "fact": "Grandpa Bud builds a second cooking spit to increase food production efficiency.",
-      "importance": "low"
-    },
-    {
-      "time": "13:19",
-      "fact": "Grandpa Bud discovers a beehive and obtains a Queen Bee and honey.",
+      "time": "05:30",
+      "fact": "Grandpa Bud adds a second cooking spit to the fire to increase food production efficiency.",
       "importance": "medium"
     },
     {
-      "time": "14:01",
-      "fact": "Grandpa Bud encounters and accidentally kills a two-star boar.",
+      "time": "08:00",
+      "fact": "A storage chest is placed in a secondary building to manage inventory overflow.",
+      "importance": "low"
+    },
+    {
+      "time": "10:01",
+      "fact": "The player discovers a boar Runestone while traveling.",
+      "importance": "low"
+    },
+    {
+      "time": "13:07",
+      "fact": "The player destroys an abandoned structure and collects a Queen Bee.",
+      "importance": "high"
+    },
+    {
+      "time": "13:50",
+      "fact": "A two-star boar is encountered and killed.",
       "importance": "medium"
     },
     {
       "time": "15:35",
-      "fact": "Grandpa Bud obtains a second Queen Bee after dismantling an abandoned structure.",
-      "importance": "medium"
-    },
-    {
-      "time": "17:01",
-      "fact": "Grandpa Bud confirms he has collected enough trophies to summon the first boss, Eikthyr.",
+      "fact": "A second Queen Bee is obtained after dismantling another building with a workbench.",
       "importance": "high"
     },
     {
-      "time": "17:16",
-      "fact": "Grandpa Bud discovers fish in the water for the first time.",
+      "time": "17:43",
+      "fact": "The player successfully performs a parry and stagger on a Greydwarf using a wood shield.",
+      "importance": "medium"
+    },
+    {
+      "time": "21:09",
+      "fact": "The player officially enters the Black Forest biome for the first time, triggering a visit from Hugin.",
+      "importance": "high"
+    },
+    {
+      "time": "23:59",
+      "fact": "The player's health drops to 9 HP due to neglected food buffs while exploring.",
+      "importance": "medium"
+    },
+    {
+      "time": "24:40",
+      "fact": "A temporary camp is established in an abandoned house.",
+      "importance": "medium"
+    },
+    {
+      "time": "25:12",
+      "fact": "A roof is constructed over an outdoor campfire to protect it from rain.",
       "importance": "low"
     },
     {
-      "time": "18:04",
-      "fact": "Grandpa Bud successfully demonstrates a parry and stagger bonus against a Greydwarf using a wood shield.",
+      "time": "25:50",
+      "fact": "A bed is placed in the temporary shelter to set a new spawn point.",
       "importance": "medium"
     },
     {
-      "time": "21:02",
-      "fact": "Grandpa Bud officially enters the Black Forest biome for the first time.",
-      "importance": "high"
-    },
-    {
-      "time": "21:15",
-      "fact": "Hugin the raven appears to provide information about the dangers of the Black Forest and the existence of the Trader.",
-      "importance": "medium"
-    },
-    {
-      "time": "24:57",
-      "fact": "Grandpa Bud builds a temporary shelter including a workbench, a sheltered campfire, and a bed.",
-      "importance": "medium"
-    },
-    {
-      "time": "27:08",
-      "fact": "Grandpa Bud reaches a milestone of 19 total deer hides, enough to begin crafting leather armor.",
-      "importance": "medium"
+      "time": "29:24",
+      "fact": "The player sleeps in the temporary bed to end the day.",
+      "importance": "low"
     }
   ]
 }

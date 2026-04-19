@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "time": "00:01:16",
+      "fact": "Grandpa Bud rebuilds the crafting station to ensure it is no longer considered 'exposed' by the game.",
+      "importance": "low"
+    },
+    {
+      "time": "00:02:07",
+      "fact": "Encountered and killed a skeleton in the Meadows, obtaining bone fragments.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:12:38",
+      "fact": "Discovered a Viking boat burial stone formation while exploring the coastline.",
+      "importance": "low"
+    },
+    {
+      "time": "00:14:59",
+      "fact": "Located a wild beehive and harvested a queen bee using a bow.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:24:22",
+      "fact": "Constructed a third beehive at the base.",
+      "importance": "low"
+    },
+    {
+      "time": "00:26:26",
+      "fact": "Crafted leather trousers and a leather tunic.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:28:24",
+      "fact": "Upgraded the crude bow to level 2 and the wood shield to level 2.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:29:19",
+      "fact": "Upgraded the flint axe to level 2.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:34:54",
+      "fact": "Successfully led a one-star boar and a zero-star boar into a constructed pen at the base.",
+      "importance": "high"
+    },
+    {
+      "time": "00:39:48",
+      "fact": "Began the taming process for the captured boars by feeding them mushrooms and raspberries.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:42:14",
+      "fact": "Constructed a fourth beehive at the base.",
+      "importance": "low"
+    },
+    {
+      "time": "00:47:56",
+      "fact": "Discovered a Burial Chamber dungeon in the Black Forest biome.",
+      "importance": "high"
+    },
+    {
+      "time": "00:48:33",
+      "fact": "Defeated a one-star skeleton inside the Burial Chamber.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:55:20",
+      "fact": "Obtained the first Surtling Cores, unlocking the Smelter and Charcoal Kiln recipes.",
+      "importance": "high"
+    },
+    {
+      "time": "00:56:00",
+      "fact": "Interacted with a Vegvisir inside the dungeon, marking the location of the second boss, The Elder, on the map.",
+      "importance": "high"
+    },
+    {
+      "time": "00:58:59",
+      "fact": "Collected a total of five Surtling Cores from the Burial Chamber.",
+      "importance": "medium"
+    },
+    {
+      "time": "01:07:56",
+      "fact": "Escaped the Black Forest at night while being pursued by a Troll and a Greydwarf Shaman.",
+      "importance": "medium"
+    },
+    {
+      "time": "01:10:00",
+      "fact": "Crafted a Deer Hide Cape.",
+      "importance": "medium"
+    },
+    {
+      "time": "01:20:04",
+      "fact": "Discovered an 'Arena' structure in the Meadows containing a skeleton spawner.",
+      "importance": "medium"
+    },
+    {
+      "time": "01:25:16",
+      "fact": "Hunted and killed two one-star deer, obtaining eight deer hides.",
+      "importance": "medium"
+    },
+    {
+      "time": "02:04:13",
+      "fact": "Built a Tanning Rack, upgrading the Workbench to level 3.",
+      "importance": "high"
+    },
+    {
+      "time": "02:07:43",
+      "fact": "Upgraded the leather tunic, leather trousers, and leather helmet to level 2.",
+      "importance": "medium"
+    }
+  ]
+}

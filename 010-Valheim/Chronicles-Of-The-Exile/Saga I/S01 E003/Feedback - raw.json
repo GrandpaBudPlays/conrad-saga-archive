@@ -1,0 +1,95 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 101,
+        "seconds_per_count": 34.35
+      },
+      {
+        "word": "Um",
+        "count": 28,
+        "seconds_per_count": 123.89
+      },
+      {
+        "word": "So",
+        "count": 74,
+        "seconds_per_count": 46.88
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "You know",
+        "count": 1
+      },
+      {
+        "word": "Kind of",
+        "count": 6
+      }
+    ],
+    "vocal_presence_wpm": 107,
+    "technical_quality_notes": "Audio is clear and consistent. Pacing is deliberate and fits the 'Grandpa' persona perfectly. High frequency of 'Uh' and 'So' acts as a rhythmic bridge rather than a distraction in this specific brand voice.",
+    "thematic_silence": [
+      "04:34 - Structural collapse of the abandoned house",
+      "11:05 - Gathering raspberries with background music",
+      "21:05 - Approaching the coastline",
+      "52:39 - Initial roof placement"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 12,
+    "technical_terms_count": 18,
+    "saturation_ratio": "12:18",
+    "helpful_insights_count": 14,
+    "persona_breaks_count": 4,
+    "refinements": [
+      {
+        "original": "Black Forest",
+        "correction": "Shadow-Garth"
+      },
+      {
+        "original": "Bees / Beehive",
+        "correction": "The Golden Ones"
+      },
+      {
+        "original": "Honey",
+        "correction": "The Queen\u2019s Gift"
+      },
+      {
+        "original": "Stamina",
+        "correction": "The Old Man\u2019s Wind"
+      },
+      {
+        "original": "Troll",
+        "correction": "Shadow in the Trees"
+      },
+      {
+        "original": "Structural integrity / Physics",
+        "correction": "Wyrd's Weight"
+      }
+    ],
+    "modernism_audit": [
+      "Physics",
+      "Hot bar",
+      "Inventory",
+      "Biome",
+      "Fire dot / Damage over time",
+      "Respawn",
+      "Lag"
+    ],
+    "brand_wisdom_count": 3,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 45,
+    "resource_uptime_percent": 85,
+    "safety_protocol_notes": "Grandpa frequently ignores the 'Rested' bonus and food buffs until health is critically low (0:10:46). This creates high-tension moments but violates the 'Shieldmaiden\u2019s Rule' of readiness.",
+    "session_goal_status": "Partial: Bow crafted and Black Forest found; Base and Armor still in progress.",
+    "highlight_gold": [
+      "08:17 - 'Day in the sun is a day well-lived.'",
+      "28:12 - First Troll sighting and tactical retreat.",
+      "28:38 - 'Discretion being the better part of honor.'"
+    ],
+    "strategic_growth_goal": "Transition from modern gaming terminology (physics, dot, biome) to Saga Lexicon to deepen immersion while maintaining the helpful 'Grandpa' guidance."
+  }
+}

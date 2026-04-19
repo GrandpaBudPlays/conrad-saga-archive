@@ -1,0 +1,90 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 49,
+        "seconds_per_count": 37.08
+      },
+      {
+        "word": "Um",
+        "count": 8,
+        "seconds_per_count": 227.13
+      },
+      {
+        "word": "So",
+        "count": 38,
+        "seconds_per_count": 47.82
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "Basically",
+        "count": 3
+      },
+      {
+        "word": "Like",
+        "count": 4
+      },
+      {
+        "word": "Actually",
+        "count": 1
+      }
+    ],
+    "vocal_presence_wpm": 82,
+    "technical_quality_notes": "Voice is slightly strained due to a cold; pacing is deliberate and fits the 'Grandpa' persona well. Occasional snorts (0:03:06, 0:14:00) add authenticity but should be monitored for audio clipping.",
+    "thematic_silence": [
+      "0:01:04 - Character customization focus",
+      "0:04:10 - Valkyrie flight immersion",
+      "0:25:18 - Building concentration"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 2,
+    "technical_terms_count": 24,
+    "saturation_ratio": "2:24",
+    "helpful_insights_count": 12,
+    "persona_breaks_count": 4,
+    "refinements": [
+      {
+        "original": "stamina",
+        "correction": "The Old Man's Wind"
+      },
+      {
+        "original": "birch trees",
+        "correction": "The Iron-Bark"
+      },
+      {
+        "original": "beehive",
+        "correction": "The Golden Ones' home"
+      },
+      {
+        "original": "shelter",
+        "correction": "Othala"
+      }
+    ],
+    "modernism_audit": [
+      "world generator",
+      "seeds",
+      "biomes",
+      "stamina bar",
+      "hot bar",
+      "spawn point",
+      "buff"
+    ],
+    "brand_wisdom_count": 5,
+    "meta_speech_breaks_count": 3
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 85,
+    "resource_uptime_percent": 92,
+    "safety_protocol_notes": "Excellent early gathering of flint and wood. High awareness of the day/night cycle (20m day/10m night). Correctly identified the danger of bees and night-time Greyling swarms.",
+    "session_goal_status": "Met",
+    "highlight_gold": [
+      "0:00:49 - Leonard Skynyrd mustache comparison (High Brand Voice)",
+      "0:14:52 - Advanced wood-rolling strategy explanation",
+      "0:22:19 - Beehive poison warning (Grandpa Rule application)"
+    ],
+    "strategic_growth_goal": "Integrate Saga Lexicon terms for 'Stamina' and 'Birch' to deepen immersion while maintaining the helpful teacher tone."
+  }
+}

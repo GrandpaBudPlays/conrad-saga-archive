@@ -1,53 +1,49 @@
 {
-  "summary_table": "Grandpa Bud transitions from basic survival to strategic expansion, crafting his first bow, discovering the Black Forest, and narrowly avoiding a Troll while establishing a permanent homestead with advanced building mechanics.",
-  "editors_notes": "The 'Brand Rule' is exceptionally strong in this session. Grandpa Bud explains complex mechanics like structural physics (color-coding) and parry windows with the patience of a mentor. The Troll encounter at 28:12 is the narrative peak, providing a perfect 'Discretion vs. Valor' lesson for viewers.",
-  "ledger_entry": "Day three through five in the Meadows have been a season of industry. Grandpa Bud has woven leather and wood into a crude bow, turning the hunter's eye toward the deer for the hide armor needed to face Eikthyr. The discovery of the Black Forest brought both wonder and a chilling realization: the blue-skinned Trolls are far beyond our current strength. Retreating to the coast, a new longhouse rises, leveled by the hoe and protected by a proper chimney to keep the hearth-smoke from stealing our breath. We build not just for shelter, but for the coming storm.",
+  "summary_table": "Grandpa Bud sets out on Day 3 with a clear checklist: craft a bow, hunt deer for armor, and locate the Black Forest. The episode features a tense encounter with a Troll, a deep dive into structural integrity and parry mechanics, and the construction of a permanent home with a functional chimney.",
+  "editors_notes": "Grandpa Bud's teaching style is exceptionally clear. The 'Brand Rule' is best exemplified during his explanation of building colors (structural integrity) and the 'high and right' aiming technique for the bow. These moments are high-value for educational shorts. The Troll encounter provides the necessary narrative tension to balance the methodical building segments.",
+  "ledger_entry": "The Norns have spun a thread of caution and craft for Grandpa Bud. On the third day of his journey, the crude bow was strung, turning the hunter into the hunted no longer. He traversed the Meadows, uncovering the secrets of the Queen Bee and the rhythmic chime of a perfect parry. But as the pines of the Black Forest loomed, so too did the shadow of a Troll\u2014a blue-skinned giant that forced a wise retreat. Settling by the coast, Bud turned his hand to the earth, leveling the ground with a hoe and raising a hearth with a chimney to keep the deadly smoke at bay. The foundation is laid; the forest awaits.",
   "type_a_shorts": [
     {
       "time": "03:55",
-      "description": "The Color of Physics: A 40-second guide to Blue, Green, and Red structural support."
+      "description": "The Color Rule: Explaining structural integrity from Blue (grounded) to Red (unstable)."
     },
     {
-      "time": "18:25",
-      "description": "The Perfect Parry: Demonstrating the 2x damage bonus and the 'cymbal' sound cue."
+      "time": "19:15",
+      "description": "The Sound of Success: Demonstrating the parry bonus and the 'cymbal' sound cue."
     },
     {
       "time": "26:55",
-      "description": "Archer's Secret: Why you must aim high and to the right to land the perfect deer shot."
+      "description": "Archer's Secret: Why you must aim high and to the right with the crude bow."
     },
     {
       "time": "55:02",
-      "description": "The Deadliest Enemy: A cautionary lesson on why falling trees are the #1 killer in Valheim."
+      "description": "Timber Warning: A reminder that falling trees are the most common early-game killer."
     }
   ],
   "type_b_clips": [
     {
-      "time": "21:36",
-      "description": "Crossing the Threshold: The discovery of the Black Forest and the visual cues of the new biome."
-    },
-    {
       "time": "28:12",
-      "description": "The Troll Encounter: A masterclass in 'Discretion is the better part of honor' when outmatched."
+      "description": "The Troll Encounter: A lesson in 'discretion being the better part of honor' when outmatched."
     },
     {
       "time": "44:51",
-      "description": "The Hearth and the Hoe: A practical guide to landscaping and building a smoke-safe chimney."
+      "description": "Home Improvement: A comprehensive guide to using the hoe and building a smoke-safe house."
+    },
+    {
+      "time": "09:12",
+      "description": "The Queen Bee: Finding the hive and the struggle of early-game inventory management."
     }
   ],
   "type_c_arc": [
     {
-      "time": "00:02",
-      "description": "The Strategic Roadmap: Setting the four pillars of progression for the Meadows era."
-    },
-    {
-      "time": "51:18",
-      "description": "The Homestead Arc: A montage of the longhouse construction, from leveling dirt to the final roof tile."
+      "time": "21:36",
+      "description": "The Threshold: A montage of leaving the safety of the Meadows for the dark pines of the Black Forest."
     }
   ],
   "youtube_chapters": [
     {
       "time": "00:00",
-      "title": "Day 3 Goals: The Path to Eikthyr"
+      "title": "Day 3 Goals: Bows & Black Forest"
     },
     {
       "time": "01:11",
@@ -55,39 +51,39 @@
     },
     {
       "time": "03:55",
-      "title": "Valheim Physics: Structural Support Colors"
+      "title": "Building Physics: Structural Integrity"
     },
     {
       "time": "09:12",
-      "title": "The Queen Bee & Honey Mechanics"
+      "title": "Finding the Queen Bee"
     },
     {
-      "time": "18:25",
-      "title": "Combat Training: Parrying for 2x Damage"
+      "time": "17:24",
+      "title": "Combat Lesson: Parrying & Blocking"
     },
     {
       "time": "21:36",
-      "title": "Entering the Black Forest"
+      "title": "Discovering the Black Forest"
+    },
+    {
+      "time": "26:55",
+      "title": "Hunting Deer: Aiming Mechanics"
     },
     {
       "time": "28:12",
-      "title": "Troll Sighting: Knowing When to Run"
+      "title": "The Troll Encounter"
     },
     {
-      "time": "36:05",
-      "title": "Shield Styles & Upgrades"
+      "time": "38:30",
+      "title": "Landscaping with the Hoe"
     },
     {
       "time": "44:51",
-      "title": "Building a Longhouse with a Chimney"
+      "title": "Building a House with a Chimney"
     },
     {
-      "time": "55:02",
-      "title": "Safety Warning: Tree Felling Dangers"
-    },
-    {
-      "time": "57:38",
-      "title": "Day 5 Wrap-up & Next Steps"
+      "time": "56:45",
+      "title": "Day 5 Wrap-up & Future Plans"
     }
   ]
 }

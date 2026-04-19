@@ -1,0 +1,90 @@
+{
+  "production_assistant": {
+    "filler_words": [
+      {
+        "word": "Uh",
+        "count": 33,
+        "seconds_per_count": 54.0
+      },
+      {
+        "word": "Um",
+        "count": 3,
+        "seconds_per_count": 594.0
+      },
+      {
+        "word": "So",
+        "count": 13,
+        "seconds_per_count": 137.0
+      }
+    ],
+    "other_filler": [
+      {
+        "word": "I think",
+        "count": 15
+      },
+      {
+        "word": "Anyway",
+        "count": 2
+      }
+    ],
+    "vocal_presence_wpm": 94,
+    "technical_quality_notes": "Audio is clear and pacing is relaxed. The host mentions a cold and coughs at 0:03:02, which adds to the 'Grandpa' authenticity but may need a slight volume dip in post-production.",
+    "thematic_silence": [
+      "0:05:15 - Loading screen transition",
+      "0:09:24 - Travel through the ravine",
+      "0:14:50 - Searching for the beehive structure"
+    ]
+  },
+  "creative_director": {
+    "arc_terms_count": 0,
+    "technical_terms_count": 18,
+    "saturation_ratio": "0:18",
+    "helpful_insights_count": 12,
+    "persona_breaks_count": 4,
+    "refinements": [
+      {
+        "original": "world modifiers",
+        "correction": "the Norns' weaving of the world"
+      },
+      {
+        "original": "Black Forest",
+        "correction": "Shadow-Garth"
+      },
+      {
+        "original": "base",
+        "correction": "Othala"
+      },
+      {
+        "original": "beehive",
+        "correction": "home of the Golden Ones"
+      },
+      {
+        "original": "honey",
+        "correction": "the Queen's Gift"
+      }
+    ],
+    "modernism_audit": [
+      "world modifiers",
+      "resource rate",
+      "raid rate",
+      "portals",
+      "biomes",
+      "crafting table",
+      "mini map",
+      "hit points"
+    ],
+    "brand_wisdom_count": 5,
+    "meta_speech_breaks_count": 2
+  },
+  "strategic_analyst": {
+    "preparation_uptime_percent": 85,
+    "resource_uptime_percent": 70,
+    "safety_protocol_notes": "Critical safety failure at 0:24:10 where health dropped to 9 HP due to neglected eating. Excellent recovery by building a temporary shelter at 0:25:18 to regain the rested bonus.",
+    "session_goal_status": "Met - Successfully located and harvested multiple Queen Bees.",
+    "highlight_gold": [
+      "0:18:04 - Simple explanation of the parry and stagger mechanic.",
+      "0:25:18 - Demonstrating how to protect a fire from rain with a simple roof."
+    ],
+    "strategic_growth_goal": "Transition from 'base' to 'Othala' in speech and prioritize maintaining the 'Shieldmaiden\u2019s Rule' regarding food buffs to prevent near-death encounters."
+  }
+}

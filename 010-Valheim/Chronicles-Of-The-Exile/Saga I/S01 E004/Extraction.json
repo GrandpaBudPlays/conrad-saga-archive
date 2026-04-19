@@ -1,38 +1,48 @@
 {
   "events": [
     {
-      "time": "00:00:41",
-      "fact": "The player begins Day 6 with the objective of completing the primary residence (Othala).",
+      "time": "00:00:33",
+      "fact": "Grandpa concludes Day 5 and prepares to begin Day 6 with the goal of completing the primary Othala.",
       "importance": "low"
     },
     {
       "time": "00:01:20",
-      "fact": "Construction begins on the 26-degree roof and floorboards for Othala.",
+      "fact": "Construction continues on the Othala base, focusing on the 26-degree roof and floor placement.",
       "importance": "medium"
+    },
+    {
+      "time": "00:03:54",
+      "fact": "Grandpa uses the hoe to level the earth within the structure to prevent dirt from clipping through the floorboards.",
+      "importance": "low"
     },
     {
       "time": "00:10:05",
-      "fact": "A chimney with a roof bridge is constructed to allow ventilation for the indoor fire.",
+      "fact": "A chimney with a roof bridge is constructed to provide ventilation for the indoor fires.",
       "importance": "medium"
     },
     {
-      "time": "00:19:56",
-      "fact": "The Chopping Block is built, upgrading the workbench to level 2 and unlocking new recipes.",
+      "time": "00:12:35",
+      "fact": "The workbench is relocated and the first storage chests are placed inside the Othala.",
+      "importance": "low"
+    },
+    {
+      "time": "00:17:59",
+      "fact": "The workbench is upgraded to Level 2 following the construction of a Chopping Block using 10 wood and 10 flint.",
+      "importance": "high"
+    },
+    {
+      "time": "00:20:44",
+      "fact": "Grandpa unlocks the recipes for Deer Hide armor.",
       "importance": "medium"
     },
     {
       "time": "00:20:49",
-      "fact": "The Norns\u2019 Trial (Raid) occurs as Eikthyr rallies forest creatures to attack the base.",
+      "fact": "The Norns' Trial (Raid) occurs: 'Eikthyr rallies the creatures of the forest.' Grandpa survives with health dropping as low as 12 HP.",
       "importance": "high"
     },
     {
-      "time": "00:22:19",
-      "fact": "The player survives the raid with health dropping to 12 hit points.",
-      "importance": "medium"
-    },
-    {
-      "time": "00:27:13",
-      "fact": "The player crafts a Leather Helmet, marking an upgrade in armor.",
+      "time": "00:23:43",
+      "fact": "A cooking station is built to prepare Boar and Neck meat for improved health and stamina.",
       "importance": "medium"
     },
     {
@@ -41,33 +51,33 @@
       "importance": "low"
     },
     {
+      "time": "00:27:19",
+      "fact": "Grandpa crafts a Leather Helmet, his first piece of head armor.",
+      "importance": "high"
+    },
+    {
       "time": "00:30:14",
-      "fact": "The first beehive for The Golden Ones is constructed to begin honey production.",
-      "importance": "medium"
+      "fact": "Two beehives (The Golden Ones) are constructed near the Othala to begin honey production.",
+      "importance": "high"
     },
     {
       "time": "00:31:49",
-      "fact": "A wild beehive is discovered within an abandoned structure (Echoes of the Past).",
+      "fact": "Grandpa discovers an Echoes of the Past (Abandoned Village) and dismantles the structures for lumber.",
       "importance": "medium"
     },
     {
-      "time": "00:35:01",
-      "fact": "The player marks the location of Othala on the world map.",
+      "time": "00:34:30",
+      "fact": "The Othala location is officially marked on the world map.",
       "importance": "low"
     },
     {
-      "time": "00:35:27",
-      "fact": "A second beehive is constructed near the main base.",
+      "time": "00:44:16",
+      "fact": "A third beehive is discovered in a separate Echoes of the Past location and marked for future collection.",
       "importance": "medium"
     },
     {
-      "time": "00:44:11",
-      "fact": "A second wild beehive is located in another abandoned structure.",
-      "importance": "medium"
-    },
-    {
-      "time": "00:45:37",
-      "fact": "A major resource patch of mushrooms and raspberries is discovered and marked on the map.",
+      "time": "00:48:00",
+      "fact": "Grandpa returns to the Othala at nightfall to conclude the session.",
       "importance": "low"
     }
   ]

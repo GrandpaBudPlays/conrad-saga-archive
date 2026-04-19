@@ -3,26 +3,25 @@
 ## 🪓 The Narrative
 
 **[Ulf's Voice]**
-The sky-beast drops the soul into the grass. The club finds the beast. The first hearth burns.
+The Valkyrie drops the soul into the green expanse. The exile grasps the stone and wood to defy the hunger. A red stone whispers of the Great Stag's wrath. The first blood is drawn from the tusked beast. A roof of thatch holds back the grasping dark. The fire burns.
 
 **[Conrad's Chronicle]**
-The Meadows are beautiful, but the air carries a weight I cannot yet name. I walked the shoreline where the flint felt like stone-marrow tools in the making, cold and sharp against my palms. With a heavy club, I began the work of beast taming, spilling the blood of the tusked beasts to clothe myself in leather scraps. I found a glowing stone that whispered of Eikthyr, one of The Forsaken I must one day face. My stone axe failed against the Iron-Bark of the birch, a bitter lesson in the limits of my strength. Yet, I found The Golden Ones humming in the ruins, their sweetness a rare mercy in this trial. I raised the walls of Othala, seeking the safety of hearth and home. When the roof was finally set, the hearth’s embrace chased the chill from my marrow. I claimed my bed as the strength of stars rose above, and for the first time, my breath came easy.
+The wind of the Meadows is deceptive, carrying the scent of salt and the musk of the wild. I felt the rough grain of the club in my hands as I stood before the runestone, the name of the first of The Forsaken etched in blood-red light. Along the water's edge, I pulled flint like the marrow of the stone from the silt, fashioning stone-marrow tools to bite into the timber. I found the Iron-Bark standing tall, but my primitive tools only bounced off their white skin; a reminder of my own weakness. The Golden Ones hummed within a ruin, a promise of sweetness amidst the struggle for leather and meat. When the sun dipped, I labored with the weight of the builder's hammer to raise Othala, feeling the weight of every beam until the roof finally held the dancing heat of the campfire. I claimed my bed as the shadows lengthened, finding the peace of hearth and home. I slept, and the strength of stars returned to my weary bones.
 
 **[Grandpa's Legend]**
-Now, Conrad's journey started humble, just a man and a club against the wild boars of the Meadows. He found a runestone that spoke of Eikthyr, the first of the Forsaken he'll have to face. It was a bit of a hitch-in-his-gitty-up when his stone axe wouldn't bite into the Iron-Bark of the birch trees, but he didn't let that slow him down. He gathered the Queen's Gift from some wild hives and set to work on Othala. By the time the sun dipped, he had a workbench and a roof to keep the rain off his head. That first night's sleep by the campfire put some much-needed wind back in his sails.
+Well, little ones, young Conrad has finally set foot in the Meadows, and it was quite a start. He didn't have much more than his hands at first, but he quickly put together a wooden club and a stone axe to keep the boars and those pesky Greylings at bay. I watched him find the runestone for Eikthyr, and he even tracked down the sacrificial altar—though he's got a bit of growing to do before he faces that storm. He spent the evening getting a proper workbench and a sturdy little house built, making sure to get a roof over his head and a warm bed to sleep in. It’s a bitter lesson to learn that you can’t chop Birch trees with a simple stone tool, but he’s got a fire going now and a good night's rest under his belt. That comfort of the hearth is what keeps a man going when the world gets cold.
 
 ---
 
 ## 🔗 Continue the Journey
 🌳 Catch up on the Story (Saga I: Meadows): https://www.youtube.com/playlist?list=PLLLwpTakAlMvEN5_o5m576H_q2aWwzQw8
-🛡️ Start Conrad’s Saga from Day 1: https://youtube.com/live/kv1qjhZH-4w
 📜 Chronicles of the Exiled: The Complete Saga: https://www.youtube.com/playlist?list=PLLLwpTakAlMs3EAexfe5GWeR0byjILky6
 
 ## 🌍 World Seed
 - World Seed: L4y2XbwA0V (last 3 A-zero-V)
 - Version: Valheim 0.217.46 (Hildir's Request)
 
-I'm just an old man stumbling through the brush, but I’d be honored to hear if your journey in this world proves more prosperous than mine.
+The spirits of this world are restless; perhaps your arrival in these exact woods will be the thing that finally brings them peace.
 
 ---
 
@@ -43,4 +42,4 @@ Chapters:
 28:14 🏁 The Rested Buff and Conclusion
 
 ## 🏷️ SEO & Metadata
-**Injected Tags:** Grandpa Bud Plays, Conrad the Exile, Wholesome Gaming, Slow Gaming, Senior Gamer, Valheim Lore Playthrough, Valheim Gameplay 2026, Valheim Walkthrough, how to build a chimney in Valheim, Valheim beginners 2026, Valheim base building tips, Valheim Meadows survival, Eikthyr boss location, Valheim flint location, Valheim stone axe crafting, Iron-Bark birch trees, Valheim workbench guide, Othala base building Valheim, Valheim first night survival, Rested buff Valheim, Valheim crafting for beginners, Valheim exploration 2026, Valheim sandbox survival, Valheim cozy gaming, Valheim progression guide
+**Injected Tags:** Grandpa Bud Plays, Conrad the Exile, Wholesome Gaming, Slow Gaming, Senior Gamer, Valheim Lore Playthrough, Valheim Gameplay 2026, Valheim Walkthrough, how to build a chimney in Valheim, Valheim beginners 2026, Valheim base building tips, Meadows survival, Eikthyr boss location, Valheim first night guide, how to get rested buff Valheim, Valheim flint location, Valheim workbench guide, Valheim crafting for beginners, Valheim boar hunting, Valheim comfort level guide, Valheim progression guide, Valheim structural integrity, Valheim base architecture, Valheim leather scraps, Valheim resin farming

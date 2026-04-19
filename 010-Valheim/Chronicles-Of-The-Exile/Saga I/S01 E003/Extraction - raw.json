@@ -1,89 +1,69 @@
 {
   "events": [
     {
-      "time": "0:00:02",
-      "fact": "Grandpa Bud begins Day 3 in the Meadows.",
+      "time": "00:03:13",
+      "fact": "Built a workbench and deconstructed an abandoned building for wood.",
       "importance": "low"
     },
     {
-      "time": "0:05:32",
-      "fact": "Crafted a Crude Bow at the workbench.",
+      "time": "00:05:32",
+      "fact": "Crafted a Crude Bow.",
       "importance": "high"
     },
     {
-      "time": "0:09:44",
-      "fact": "Obtained the first Boar Trophy.",
-      "importance": "low"
+      "time": "00:09:44",
+      "fact": "Killed a boar and obtained the first boar trophy.",
+      "importance": "medium"
     },
     {
-      "time": "0:11:48",
-      "fact": "Harvested a beehive and obtained a Queen Bee and the Beehive recipe.",
+      "time": "00:11:48",
+      "fact": "Obtained a Queen Bee and unlocked the Beehive recipe.",
       "importance": "high"
     },
     {
-      "time": "0:16:01",
-      "fact": "Established a temporary shelter with a bed and campfire in an abandoned building.",
+      "time": "00:16:01",
+      "fact": "Established a temporary shelter with a bed and campfire.",
       "importance": "medium"
     },
     {
-      "time": "0:17:03",
-      "fact": "Reached Comfort Level 4.",
-      "importance": "low"
+      "time": "00:19:15",
+      "fact": "Successfully performed a parry against a Greyling.",
+      "importance": "medium"
     },
     {
-      "time": "0:21:26",
-      "fact": "Major Discovery: Located the Black Forest biome.",
+      "time": "00:21:26",
+      "fact": "Discovered the Black Forest biome.",
       "importance": "high"
     },
     {
-      "time": "0:26:15",
-      "fact": "Discovered an abandoned stone tower within the Black Forest.",
+      "time": "00:27:40",
+      "fact": "Obtained the first deer trophy.",
       "importance": "medium"
     },
     {
-      "time": "0:27:40",
-      "fact": "Obtained Deer Hide for armor crafting.",
-      "importance": "medium"
-    },
-    {
-      "time": "0:28:12",
-      "fact": "Encounter: Spotted a Troll in the Black Forest and retreated.",
+      "time": "00:28:12",
+      "fact": "Encountered a Troll in the Black Forest and retreated.",
       "importance": "high"
     },
     {
-      "time": "0:29:01",
-      "fact": "Discovered a potential Burial Chamber in the Black Forest.",
+      "time": "00:29:01",
+      "fact": "Discovered a stone structure identified as a potential burial chamber.",
       "importance": "medium"
     },
     {
-      "time": "0:37:10",
-      "fact": "Crafted a Wood Shield with a red and black style.",
+      "time": "00:37:10",
+      "fact": "Crafted a Wood Shield.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:39:01",
+      "fact": "Crafted a Hoe for landscaping.",
+      "importance": "medium"
+    },
+    {
+      "time": "00:45:41",
+      "fact": "Began construction of a custom 5x3 wood house near the Black Forest edge.",
       "importance": "high"
-    },
-    {
-      "time": "0:38:24",
-      "fact": "Day 5 begins.",
-      "importance": "low"
-    },
-    {
-      "time": "0:39:01",
-      "fact": "Crafted a Hoe for landscaping and base building.",
-      "importance": "medium"
-    },
-    {
-      "time": "0:42:00",
-      "fact": "Obtained a Deer Trophy, required for summoning the first boss, Eikthyr.",
-      "importance": "medium"
-    },
-    {
-      "time": "0:45:41",
-      "fact": "Began construction of a custom 5x3 meter home base near the Black Forest border.",
-      "importance": "high"
-    },
-    {
-      "time": "0:52:08",
-      "fact": "Installed an indoor fireplace and began roofing the new structure.",
-      "importance": "medium"
     }
   ]
 }

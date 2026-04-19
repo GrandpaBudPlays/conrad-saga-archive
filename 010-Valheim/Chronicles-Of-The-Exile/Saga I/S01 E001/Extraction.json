@@ -1,38 +1,48 @@
 {
   "events": [
     {
-      "time": "01:22",
-      "fact": "Character 'Conrad' created and world 'Terra Conrad' generated.",
+      "time": "01:30",
+      "fact": "Character 'Conrad' created.",
+      "importance": "low"
+    },
+    {
+      "time": "01:52",
+      "fact": "World 'Terra Conrad' generated.",
       "importance": "low"
     },
     {
       "time": "04:00",
-      "fact": "Player arrives in the Meadows biome via Valkyrie.",
+      "fact": "Valkyrie delivers character to the Meadows biome.",
       "importance": "medium"
     },
     {
       "time": "05:31",
-      "fact": "Discovered the Vegvisir runestone for Eikthyr, the first boss.",
-      "importance": "medium"
+      "fact": "Discovered runestone marking the location of the first boss, Eikthyr.",
+      "importance": "high"
     },
     {
-      "time": "07:02",
-      "fact": "Crafted first weapon (Club).",
+      "time": "06:11",
+      "fact": "Crafted a wooden Club.",
       "importance": "medium"
     },
     {
       "time": "07:47",
-      "fact": "First combat encounter; killed a boar and gathered leather scraps.",
+      "fact": "First combat encounter: Killed a Boar and collected leather scraps.",
+      "importance": "medium"
+    },
+    {
+      "time": "09:52",
+      "fact": "Killed a Neck and collected meat.",
       "importance": "low"
     },
     {
       "time": "10:02",
-      "fact": "Discovered flint along the water's edge.",
+      "fact": "Discovery of Flint along the water's edge.",
       "importance": "medium"
     },
     {
       "time": "10:31",
-      "fact": "Crafted a stone axe.",
+      "fact": "Crafted a Stone Axe.",
       "importance": "medium"
     },
     {
@@ -41,13 +51,23 @@
       "importance": "high"
     },
     {
-      "time": "14:41",
-      "fact": "Discovery: Birch trees (Iron-Bark) cannot be harvested with a stone axe.",
+      "time": "14:24",
+      "fact": "Discovered Birch trees, noting they require better tools to harvest.",
       "importance": "medium"
     },
     {
+      "time": "16:16",
+      "fact": "Killed a Greyling and collected resin.",
+      "importance": "low"
+    },
+    {
       "time": "17:13",
-      "fact": "Crafted a hammer, unlocking the building menu.",
+      "fact": "Crafted a Hammer.",
+      "importance": "high"
+    },
+    {
+      "time": "17:47",
+      "fact": "Built a Workbench.",
       "importance": "high"
     },
     {
@@ -57,32 +77,37 @@
     },
     {
       "time": "22:42",
-      "fact": "Built a campfire.",
-      "importance": "low"
-    },
-    {
-      "time": "23:04",
-      "fact": "Built a workbench, unlocking advanced crafting and building recipes.",
-      "importance": "high"
+      "fact": "Built a Campfire.",
+      "importance": "medium"
     },
     {
       "time": "24:16",
-      "fact": "Commenced construction of the first shelter (Othala).",
+      "fact": "Constructed first wooden shelter including walls and flooring.",
       "importance": "high"
     },
     {
       "time": "24:48",
-      "fact": "Built and claimed a bed.",
+      "fact": "Built and claimed a Bed.",
+      "importance": "high"
+    },
+    {
+      "time": "25:54",
+      "fact": "Completed the shelter roof to meet 'sheltered' requirements.",
       "importance": "medium"
     },
     {
       "time": "28:14",
-      "fact": "Set spawn point after enclosing the shelter with a roof.",
+      "fact": "Set spawn point at the bed.",
       "importance": "high"
     },
     {
       "time": "28:22",
-      "fact": "Slept through the first night and acquired the Rested buff.",
+      "fact": "Slept through the first night to avoid nighttime enemy spawns.",
+      "importance": "high"
+    },
+    {
+      "time": "29:33",
+      "fact": "Obtained Rested buff with Comfort level 4.",
       "importance": "medium"
     }
   ]

@@ -1,101 +1,93 @@
 {
-  "summary_table": "In this session, Grandpa Bud explores the westward Meadows, teaching essential survival skills including advanced cooking, map marking, and time-telling using the sun. The episode culminates in a tense race against nightfall to build an emergency shelter and a detailed breakdown of weapon statistics.",
-  "editors_notes": "The 'Brand Rule' is perfectly exemplified in the 'Telling Time' segment (14:43); it is a high-value educational moment that feels like a grandfather sharing wisdom. Strategic focus should be placed on the transition from the Stone Axe to the Flint Axe, as it provides a clear progression milestone for viewers.",
-  "ledger_entry": "The sun rose over Terra Conrad with the promise of discovery. We began by tending the hearth, learning that a Viking's strength is only as good as the meal in his belly\u2014balancing the red of the meat with the yellow of the fruit. With a full stomach, we pushed westward, marking the land with runes of our own making to remember where the raspberries grow thick. We encountered a beast of legend\u2014a boar marked with a star\u2014reminding us that the wild grows stronger the further we stray from the stones of our arrival. As the light faded and the 'Cold' debuff bit into our bones, we learned the hard lesson of the unprepared: never let the sun set without five stones for a fire. We huddled in a makeshift lean-to, repairing our broken tools by the flickering flame, emerging not just as survivors, but as craftsmen. The flint axe now hangs at our belt, a sharper edge for a sharper world. The journey continues, one day at a time.",
+  "summary_table": "In this episode, Grandpa Bud transitions from basic survival to strategic exploration. Key highlights include a masterclass in food management, a clever 'pro-tip' for telling time using the sun, and the high-stakes construction of an emergency shelter as night falls on the Meadows.",
+  "editors_notes": "The content excels when Grandpa Bud provides 'Grandpa Tips'\u2014simple, non-technical explanations of game systems. The 'Telling Time' segment is a standout viral candidate. The pacing is methodical, making it ideal for viewers who prefer a relaxed, educational atmosphere over high-intensity combat.",
+  "ledger_entry": "The second day in Terra Conrad began with the sizzle of boar meat and the wisdom of a seasoned traveler. Grandpa Bud took us westward, teaching us that a Viking's stomach is as important as his axe. We learned the art of the 'RB' map marker\u2014a simple trick to ensure the bounty of the earth is never forgotten. As we pushed through the fog, we discovered the ruins of those who came before, finding gold and the promise of future honey. But the wild is a stern teacher; as the sun dipped low, we found ourselves without stone, racing against the creeping cold and the snarls in the dark. With a broken hammer and a flickering torch, a humble lean-to became a palace of safety. We ended the day not just as survivors, but as craftsmen, trading stone for flint and rags for armor. The journey west continues, one sunset at a time.",
   "type_a_shorts": [
     {
       "time": "14:43",
-      "description": "How to tell time in Valheim using the sun and your mini-map. A perfect 'Grandpa Tip'."
+      "description": "The Sun Clock: How to tell time in Valheim using the minimap and the sun. On-Screen Hook: 'Valheim Pro-Tip: The Viking Sun Dial'"
     },
     {
       "time": "04:04",
-      "description": "The Three-Food Rule: Explaining the health and stamina UI for beginners."
+      "description": "The 3-Food Rule: Explaining the health vs. stamina UI colors. On-Screen Hook: 'Stop Eating Randomly! Master the Food Bar'"
     },
     {
-      "time": "11:32",
-      "description": "What do the stars mean? Explaining starred creatures and the benefits of taming boars."
+      "time": "07:24",
+      "description": "Resource Mapping: Using shorthand markers like 'RB' for raspberries. On-Screen Hook: 'Don't Forget Your Berries! Map Like a Pro'"
     }
   ],
   "type_b_clips": [
     {
-      "time": "01:52",
-      "description": "The Art of the Spit: A comprehensive guide to early-game cooking and inventory management."
+      "time": "11:13",
+      "description": "The Abandoned Village: Discovery of a starred boar and the explanation of taming mechanics. Rationale: Provides a narrative hook for future episodes regarding base building."
     },
     {
-      "time": "22:12",
-      "description": "The Midnight Scramble: A narrative beat showing the danger of being caught without stone at nightfall."
+      "time": "21:41",
+      "description": "The Nightfall Race: A tense sequence where Grandpa realizes he lacks stone for a fire as the 'Cold' debuff hits. Rationale: Demonstrates the survival stakes and the importance of preparation."
     },
     {
       "time": "30:50",
-      "description": "The Blacksmith's Ledger: A deep dive into weapon stats, parry bonuses, and the value of the Flint Axe upgrade."
+      "description": "The Flint Upgrade: A detailed comparison of Stone vs. Flint weapon stats. Rationale: Perfect for viewers interested in the progression and math of the game."
     }
   ],
   "type_c_arc": [
     {
-      "time": "05:19",
-      "description": "The Westward Expansion: A montage of discovery, from abandoned villages to the first sight of the ocean."
+      "time": "07:50",
+      "description": "The Westward Trek: A montage of the changing visibility and landscape of the Meadows. Theme: The Call of Discovery."
     },
     {
       "time": "28:11",
-      "description": "From Rags to Flint: A progression arc showing the transition from basic survival to established hunter."
+      "description": "From Rags to Flint: A progression montage showing the crafting of the first armor set and the flint axe. Theme: Evolution of a Viking."
     }
   ],
   "youtube_chapters": [
     {
       "time": "00:00",
-      "title": "Introduction: Continuing Conrad's Journey"
+      "title": "Introduction"
     },
     {
       "time": "01:52",
-      "title": "Mastering the Cooking Station"
-    },
-    {
-      "time": "04:04",
-      "title": "Health vs. Stamina: The Three-Food Rule"
+      "title": "Cooking and Food Mechanics"
     },
     {
       "time": "05:04",
-      "title": "Setting Goals: Discovery and Shelter"
+      "title": "Exploration and Gathering Resources"
     },
     {
       "time": "07:24",
-      "title": "How to Mark Your Map for Resources"
+      "title": "Mapping and Westward Exploration"
     },
     {
       "time": "08:15",
-      "title": "Looting Abandoned Meadows Structures"
+      "title": "Looting Abandoned Structures"
     },
     {
       "time": "11:13",
-      "title": "Encountering Starred Boars and Taming Tips"
+      "title": "The Abandoned Village and Starred Boars"
     },
     {
       "time": "14:43",
-      "title": "Pro Tip: Telling Time Using the Sun"
+      "title": "Telling Time and Lore"
     },
     {
       "time": "16:45",
-      "title": "Finding the Ocean and Collecting Trophies"
+      "title": "Coastal Discovery and Trophies"
     },
     {
       "time": "19:05",
-      "title": "The Value of Beehives and Honey"
+      "title": "Beehives and Nightfall"
     },
     {
       "time": "22:12",
-      "title": "Emergency Night Shelter: Surviving the Cold"
+      "title": "Building an Emergency Shelter"
     },
     {
       "time": "28:11",
-      "title": "Workbench Repairs and Armor Upgrades"
+      "title": "Crafting and Armor Upgrades"
     },
     {
       "time": "30:50",
-      "title": "Weapon Analysis: Stone vs. Flint Axe"
-    },
-    {
-      "time": "33:03",
-      "title": "Combat Mechanics: Blocking and Parrying"
+      "title": "Weapon Stats and Combat Mechanics"
     }
   ]
 }
